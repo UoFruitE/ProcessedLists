@@ -1,0 +1,20 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 18.x
+      - run: node writeFile.js 
+      - run: node process_s_drop.js
+      - run: node process_dshield.js
+      - name: Commit & Push
+        uses: actions-x/commit@v6
