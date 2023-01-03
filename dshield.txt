@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Tue Jan  3 03:00:02 2023 UTC
+#    updated: Tue Jan  3 03:45:01 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -41,9 +41,9 @@ Start	End	Netmask	Attacks	Name	Country	email
 64.62.197.0	64.62.197.255	24	3092	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.255	24	2917	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 212.70.149.0	212.70.149.255	24	2913	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-62.233.50.0	62.233.50.255	24	2862	CHANGWAY-AS	HK	noc@ameurotel.com
+62.233.50.0	62.233.50.255	24	2863	CHANGWAY-AS	HK	noc@ameurotel.com
 185.81.68.0	185.81.68.255	24	2771	SELECTEL-MSK	RU	abuse@selectel.ru
-62.204.41.0	62.204.41.255	24	2543	HORIZONMSK-AS	RU	eugeans@tattelecom.ru
+62.204.41.0	62.204.41.255	24	2544	HORIZONMSK-AS	RU	eugeans@tattelecom.ru
 146.88.240.0	146.88.240.255	24	2379	ARBOR	US	hostmaster@arbor.net
-91.240.118.0	91.240.118.255	24	2003	CHANGWAY-AS	HK	noc@ameurotel.com
-154.89.5.0	154.89.5.255	24	1946	MULTA-ASN1	US	abuse@multacom.com
+91.240.118.0	91.240.118.255	24	2006	CHANGWAY-AS	HK	noc@ameurotel.com
+154.89.5.0	154.89.5.255	24	1947	MULTA-ASN1	US	abuse@multacom.com
