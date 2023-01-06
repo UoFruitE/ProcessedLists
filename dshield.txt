@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Fri Jan  6 11:04:44 2023 UTC
+#    updated: Fri Jan  6 12:04:06 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,7 +43,7 @@ Start	End	Netmask	Attacks	Name	Country	email
 64.62.197.0	64.62.197.255	24	3155	HURRICANE	US	abuse@he.net
 146.88.240.0	146.88.240.255	24	2321	ARBOR	US	hostmaster@arbor.net
 62.204.41.0	62.204.41.255	24	1925	HORIZONMSK-AS	RU	eugeans@tattelecom.ru
-205.210.31.0	205.210.31.255	24	1716	GOOGLE-CLOUD-PLATFORM	US	
+205.210.31.0	205.210.31.255	24	1717	GOOGLE-CLOUD-PLATFORM	US	
 80.82.77.0	80.82.77.255	24	1646	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.255	24	1640	GOOGLE-CLOUD-PLATFORM	US	
 45.134.144.0	45.134.144.255	24	1624	HUSAM-NETWORK	NL	witechcom.1@gmail.com
