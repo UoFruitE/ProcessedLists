@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Fri Jan  6 01:45:29 2023 UTC
+#    updated: Fri Jan  6 02:45:30 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 Start	End	Netmask	Attacks	Name	Country	email
-89.248.165.0	89.248.165.255	24	9604	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.255	24	9605	INT-NETWORK	SC	abuse@ipvolume.net
 185.156.73.0	185.156.73.255	24	8639	SIBIRINVEST	NL	qwalarty@ukr.net
 94.102.61.0	94.102.61.255	24	7698	INT-NETWORK	SC	abuse@ipvolume.net
 92.63.197.0	92.63.197.255	24	6476	SIBIRINVEST	NL	qwalarty@ukr.net
@@ -39,11 +39,11 @@ Start	End	Netmask	Attacks	Name	Country	email
 193.163.125.0	193.163.125.255	24	3432	CYBER-CASA	GB	>>UNKNOWN<<
 78.128.113.0	78.128.113.255	24	3372	MITI2000	BG	>>UNKNOWN<<
 212.70.149.0	212.70.149.255	24	3297	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-185.224.128.0	185.224.128.255	24	3250	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.224.128.0	185.224.128.255	24	3251	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 64.62.197.0	64.62.197.255	24	3154	HURRICANE	US	abuse@he.net
 146.88.240.0	146.88.240.255	24	2319	ARBOR	US	hostmaster@arbor.net
 62.204.41.0	62.204.41.255	24	1925	HORIZONMSK-AS	RU	eugeans@tattelecom.ru
-205.210.31.0	205.210.31.255	24	1708	GOOGLE-CLOUD-PLATFORM	US	
+205.210.31.0	205.210.31.255	24	1711	GOOGLE-CLOUD-PLATFORM	US	
 80.82.77.0	80.82.77.255	24	1644	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.255	24	1630	GOOGLE-CLOUD-PLATFORM	US	
+198.235.24.0	198.235.24.255	24	1635	GOOGLE-CLOUD-PLATFORM	US	
 45.134.144.0	45.134.144.255	24	1623	HUSAM-NETWORK	NL	witechcom.1@gmail.com
