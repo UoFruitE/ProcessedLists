@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Wed Jan 11 06:02:30 2023 UTC
+#    updated: Wed Jan 11 07:00:56 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,23 +27,23 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 Start	End	Netmask	Attacks	Name	Country	email
-89.248.165.0	89.248.165.255	24	9122	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	9052	SIBIRINVEST	NL	qwalarty@ukr.net
+89.248.165.0	89.248.165.255	24	9123	INT-NETWORK	SC	abuse@ipvolume.net
+185.156.73.0	185.156.73.255	24	9053	SIBIRINVEST	NL	qwalarty@ukr.net
 92.63.197.0	92.63.197.255	24	8539	SIBIRINVEST	NL	qwalarty@ukr.net
-89.248.163.0	89.248.163.255	24	7535	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.255	24	7536	INT-NETWORK	SC	abuse@ipvolume.net
 91.191.209.0	91.191.209.255	24	5911	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 45.143.200.0	45.143.200.255	24	5624	ROZA-AS	BG	>>UNKNOWN<<
-5.188.206.0	5.188.206.255	24	4543	KREZ999AS	BG	abuse@fastvps.biz
+5.188.206.0	5.188.206.255	24	4544	KREZ999AS	BG	abuse@fastvps.biz
 87.246.7.0	87.246.7.255	24	3959	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 205.210.31.0	205.210.31.255	24	3732	GOOGLE-CLOUD-PLATFORM	US	
 198.235.24.0	198.235.24.255	24	3630	GOOGLE-CLOUD-PLATFORM	US	
-193.163.125.0	193.163.125.255	24	3515	CYBER-CASA	GB	>>UNKNOWN<<
-185.224.128.0	185.224.128.255	24	3354	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+193.163.125.0	193.163.125.255	24	3516	CYBER-CASA	GB	>>UNKNOWN<<
+185.224.128.0	185.224.128.255	24	3355	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 64.62.197.0	64.62.197.255	24	3092	HURRICANE	US	abuse@he.net
-78.128.113.0	78.128.113.255	24	2561	MITI2000	BG	>>UNKNOWN<<
+78.128.113.0	78.128.113.255	24	2562	MITI2000	BG	>>UNKNOWN<<
 212.70.149.0	212.70.149.255	24	2556	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-146.88.240.0	146.88.240.255	24	2358	ARBOR	US	hostmaster@arbor.net
+146.88.240.0	146.88.240.255	24	2359	ARBOR	US	hostmaster@arbor.net
 45.93.201.0	45.93.201.255	24	2258	SELECTEL-MSK	RU	abuse@selectel.ru
-154.89.5.0	154.89.5.255	24	1920	MULTA-ASN1	US	abuse@multacom.com
-193.142.146.0	193.142.146.255	24	1676	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+154.89.5.0	154.89.5.255	24	1921	MULTA-ASN1	US	abuse@multacom.com
+193.142.146.0	193.142.146.255	24	1677	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 138.99.216.0	138.99.216.255	24	1622	NFORCE	NL	abuse@nforce.com
