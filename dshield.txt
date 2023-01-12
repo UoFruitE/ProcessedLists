@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Thu Jan 12 05:02:07 2023 UTC
+#    updated: Thu Jan 12 06:02:07 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,6 +44,6 @@ Start	End	Netmask	Attacks	Name	Country	email
 64.62.197.0	64.62.197.255	24	2625	HURRICANE	US	abuse@he.net
 78.128.113.0	78.128.113.255	24	2503	MITI2000	BG	>>UNKNOWN<<
 212.70.149.0	212.70.149.255	24	2485	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-45.93.201.0	45.93.201.255	24	2216	SELECTEL-MSK	RU	abuse@selectel.ru
+45.93.201.0	45.93.201.255	24	2218	SELECTEL-MSK	RU	abuse@selectel.ru
 146.88.240.0	146.88.240.255	24	2023	ARBOR	US	hostmaster@arbor.net
-45.134.144.0	45.134.144.255	24	1642	HUSAM-NETWORK	NL	witechcom.1@gmail.com
+45.134.144.0	45.134.144.255	24	1643	HUSAM-NETWORK	NL	witechcom.1@gmail.com
