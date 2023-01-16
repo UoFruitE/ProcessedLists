@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Mon Jan 16 03:45:27 2023 UTC
+#    updated: Mon Jan 16 04:45:28 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,12 +33,12 @@ Start	End	Netmask	Attacks	Name	Country	email
 92.63.197.0	92.63.197.255	24	7427	SIBIRINVEST	NL	qwalarty@ukr.net
 91.191.209.0	91.191.209.255	24	5946	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 45.143.200.0	45.143.200.255	24	5400	ROZA-AS	BG	>>UNKNOWN<<
-5.188.206.0	5.188.206.255	24	4545	KREZ999AS	BG	abuse@fastvps.biz
-154.89.5.0	154.89.5.255	24	3409	MULTA-ASN1	US	abuse@multacom.com
+5.188.206.0	5.188.206.255	24	4546	KREZ999AS	BG	abuse@fastvps.biz
+154.89.5.0	154.89.5.255	24	3410	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.255	24	3390	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	3162	HURRICANE	US	abuse@he.net
 78.128.113.0	78.128.113.255	24	3132	MITI2000	BG	>>UNKNOWN<<
-80.82.77.0	80.82.77.255	24	2870	INT-NETWORK	SC	abuse@ipvolume.net
+80.82.77.0	80.82.77.255	24	2871	INT-NETWORK	SC	abuse@ipvolume.net
 212.70.149.0	212.70.149.255	24	2598	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 185.224.128.0	185.224.128.255	24	2384	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 146.88.240.0	146.88.240.255	24	2336	ARBOR	US	hostmaster@arbor.net
