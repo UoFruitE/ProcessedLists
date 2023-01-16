@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Mon Jan 16 12:03:59 2023 UTC
+#    updated: Mon Jan 16 13:03:37 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 Start	End	Netmask	Attacks	Name	Country	email
 89.248.163.0	89.248.163.255	24	9098	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.255	24	9057	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	8742	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.255	24	8743	SIBIRINVEST	NL	qwalarty@ukr.net
 92.63.197.0	92.63.197.255	24	7427	SIBIRINVEST	NL	qwalarty@ukr.net
 91.191.209.0	91.191.209.255	24	5947	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 45.143.200.0	45.143.200.255	24	5400	ROZA-AS	BG	>>UNKNOWN<<
