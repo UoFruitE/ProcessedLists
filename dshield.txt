@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Tue Jan 17 10:01:13 2023 UTC
+#    updated: Tue Jan 17 11:02:06 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -46,4 +46,4 @@ Start	End	Netmask	Attacks	Name	Country	email
 92.118.39.0	92.118.39.255	24	1733	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.134.144.0	45.134.144.255	24	1555	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 193.142.146.0	193.142.146.255	24	1529	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-205.210.31.0	205.210.31.255	24	1523	GOOGLE-CLOUD-PLATFORM	US	
+205.210.31.0	205.210.31.255	24	1525	GOOGLE-CLOUD-PLATFORM	US	
