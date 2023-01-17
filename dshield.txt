@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Tue Jan 17 03:00:26 2023 UTC
+#    updated: Tue Jan 17 03:45:26 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@ Start	End	Netmask	Attacks	Name	Country	email
 89.248.163.0	89.248.163.255	24	9547	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.255	24	8857	INT-NETWORK	SC	abuse@ipvolume.net
 185.156.73.0	185.156.73.255	24	8561	SIBIRINVEST	NL	qwalarty@ukr.net
-92.63.197.0	92.63.197.255	24	7471	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.255	24	7472	SIBIRINVEST	NL	qwalarty@ukr.net
 91.191.209.0	91.191.209.255	24	5630	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 5.188.206.0	5.188.206.255	24	4451	KREZ999AS	BG	abuse@fastvps.biz
 45.143.200.0	45.143.200.255	24	4278	ROZA-AS	BG	>>UNKNOWN<<
@@ -42,8 +42,8 @@ Start	End	Netmask	Attacks	Name	Country	email
 80.82.77.0	80.82.77.255	24	2453	INT-NETWORK	SC	abuse@ipvolume.net
 146.88.240.0	146.88.240.255	24	2146	ARBOR	US	hostmaster@arbor.net
 87.246.7.0	87.246.7.255	24	2059	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-154.89.5.0	154.89.5.255	24	1946	MULTA-ASN1	US	abuse@multacom.com
+154.89.5.0	154.89.5.255	24	1947	MULTA-ASN1	US	abuse@multacom.com
 92.118.39.0	92.118.39.255	24	1733	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.134.144.0	45.134.144.255	24	1554	HUSAM-NETWORK	NL	witechcom.1@gmail.com
-193.142.146.0	193.142.146.255	24	1527	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-205.210.31.0	205.210.31.255	24	1518	GOOGLE-CLOUD-PLATFORM	US	
+193.142.146.0	193.142.146.255	24	1528	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+205.210.31.0	205.210.31.255	24	1520	GOOGLE-CLOUD-PLATFORM	US	
