@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Tue Jan 17 03:45:26 2023 UTC
+#    updated: Tue Jan 17 04:45:25 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,7 +32,7 @@ Start	End	Netmask	Attacks	Name	Country	email
 185.156.73.0	185.156.73.255	24	8561	SIBIRINVEST	NL	qwalarty@ukr.net
 92.63.197.0	92.63.197.255	24	7472	SIBIRINVEST	NL	qwalarty@ukr.net
 91.191.209.0	91.191.209.255	24	5630	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
-5.188.206.0	5.188.206.255	24	4451	KREZ999AS	BG	abuse@fastvps.biz
+5.188.206.0	5.188.206.255	24	4452	KREZ999AS	BG	abuse@fastvps.biz
 45.143.200.0	45.143.200.255	24	4278	ROZA-AS	BG	>>UNKNOWN<<
 193.163.125.0	193.163.125.255	24	3339	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	3001	HURRICANE	US	abuse@he.net
@@ -45,5 +45,5 @@ Start	End	Netmask	Attacks	Name	Country	email
 154.89.5.0	154.89.5.255	24	1947	MULTA-ASN1	US	abuse@multacom.com
 92.118.39.0	92.118.39.255	24	1733	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.134.144.0	45.134.144.255	24	1554	HUSAM-NETWORK	NL	witechcom.1@gmail.com
-193.142.146.0	193.142.146.255	24	1528	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-205.210.31.0	205.210.31.255	24	1520	GOOGLE-CLOUD-PLATFORM	US	
+193.142.146.0	193.142.146.255	24	1529	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+205.210.31.0	205.210.31.255	24	1521	GOOGLE-CLOUD-PLATFORM	US	
