@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Thu Jan 19 18:15:19 2023 UTC
+#    updated: Thu Jan 19 19:30:20 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,23 +27,23 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 Start	End	Netmask	Attacks	Name	Country	email
-89.248.163.0	89.248.163.255	24	9194	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.255	24	7785	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	7239	SIBIRINVEST	NL	qwalarty@ukr.net
-185.122.204.0	185.122.204.255	24	6093	SELECTEL-MSK	RU	abuse@selectel.ru
-92.63.197.0	92.63.197.255	24	5733	SIBIRINVEST	NL	qwalarty@ukr.net
-45.143.200.0	45.143.200.255	24	3332	ROZA-AS	BG	>>UNKNOWN<<
-212.70.149.0	212.70.149.255	24	3139	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-64.62.197.0	64.62.197.255	24	3013	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.255	24	2850	DM_AUTO	BG	abuse@dm-auto.eu
-193.163.125.0	193.163.125.255	24	2698	CYBER-CASA	GB	>>UNKNOWN<<
-91.191.209.0	91.191.209.255	24	2284	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
-80.82.77.0	80.82.77.255	24	2167	INT-NETWORK	SC	abuse@ipvolume.net
-185.224.128.0	185.224.128.255	24	2148	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-146.88.240.0	146.88.240.255	24	2043	ARBOR	US	hostmaster@arbor.net
-5.188.206.0	5.188.206.255	24	1944	KREZ999AS	BG	abuse@fastvps.biz
-78.128.113.0	78.128.113.255	24	1675	MITI2000	BG	>>UNKNOWN<<
-87.246.7.0	87.246.7.255	24	1621	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-193.142.146.0	193.142.146.255	24	1333	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-45.93.16.0	45.93.16.255	24	1271	RELIABLESITE	US	abuse@reliablesite.net
-92.118.39.0	92.118.39.255	24	1268	PPTECHNOLOGY	GB	abuse@vegatele.com
+89.248.163.0	89.248.163.255	24	9318	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.255	24	8095	INT-NETWORK	SC	abuse@ipvolume.net
+185.156.73.0	185.156.73.255	24	7613	SIBIRINVEST	NL	qwalarty@ukr.net
+185.122.204.0	185.122.204.255	24	6480	SELECTEL-MSK	RU	abuse@selectel.ru
+92.63.197.0	92.63.197.255	24	6105	SIBIRINVEST	NL	qwalarty@ukr.net
+45.143.200.0	45.143.200.255	24	3527	ROZA-AS	BG	>>UNKNOWN<<
+212.70.149.0	212.70.149.255	24	3449	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+79.124.62.0	79.124.62.255	24	3100	DM_AUTO	BG	abuse@dm-auto.eu
+64.62.197.0	64.62.197.255	24	3085	HURRICANE	US	abuse@he.net
+193.163.125.0	193.163.125.255	24	2950	CYBER-CASA	GB	>>UNKNOWN<<
+91.191.209.0	91.191.209.255	24	2447	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
+185.224.128.0	185.224.128.255	24	2260	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+80.82.77.0	80.82.77.255	24	2207	INT-NETWORK	SC	abuse@ipvolume.net
+146.88.240.0	146.88.240.255	24	2101	ARBOR	US	hostmaster@arbor.net
+5.188.206.0	5.188.206.255	24	2081	KREZ999AS	BG	abuse@fastvps.biz
+87.246.7.0	87.246.7.255	24	1857	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+78.128.113.0	78.128.113.255	24	1794	MITI2000	BG	>>UNKNOWN<<
+193.142.146.0	193.142.146.255	24	1440	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+92.118.39.0	92.118.39.255	24	1357	PPTECHNOLOGY	GB	abuse@vegatele.com
+138.99.216.0	138.99.216.255	24	1341	NFORCE	NL	abuse@nforce.com
