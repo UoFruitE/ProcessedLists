@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Fri Jan 20 20:30:18 2023 UTC
+#    updated: Fri Jan 20 21:30:20 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@ Start	End	Netmask	Attacks	Name	Country	email
 45.143.200.0/24
 205.210.31.0/24
 79.124.62.0/24
-64.62.197.0/24
 193.163.125.0/24
 198.235.24.0/24
-146.88.240.0/24
+64.62.197.0/24
 185.224.128.0/24
 91.191.209.0/24
+146.88.240.0/24
 87.246.7.0/24
 80.82.77.0/24
 5.188.206.0/24
