@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Sat Jan 21 02:45:24 2023 UTC
+#    updated: Sat Jan 21 03:45:24 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,16 +29,16 @@
 Start	End	Netmask	Attacks	Name	Country	email
 89.248.163.0	89.248.163.255	24	9458	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.255	24	8991	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	8398	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.255	24	8401	SIBIRINVEST	NL	qwalarty@ukr.net
 92.63.197.0	92.63.197.255	24	7523	SIBIRINVEST	NL	qwalarty@ukr.net
 212.70.149.0	212.70.149.255	24	4617	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-154.89.5.0	154.89.5.255	24	4134	MULTA-ASN1	US	abuse@multacom.com
+154.89.5.0	154.89.5.255	24	4139	MULTA-ASN1	US	abuse@multacom.com
 45.143.200.0	45.143.200.255	24	4118	ROZA-AS	BG	>>UNKNOWN<<
-79.124.62.0	79.124.62.255	24	3826	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	3827	DM_AUTO	BG	abuse@dm-auto.eu
 205.210.31.0	205.210.31.255	24	3757	GOOGLE-CLOUD-PLATFORM	US	
 185.122.204.0	185.122.204.255	24	3700	SELECTEL-MSK	RU	abuse@selectel.ru
 193.163.125.0	193.163.125.255	24	3572	CYBER-CASA	GB	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	3550	GOOGLE-CLOUD-PLATFORM	US	
+198.235.24.0	198.235.24.255	24	3552	GOOGLE-CLOUD-PLATFORM	US	
 64.62.197.0	64.62.197.255	24	3080	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.255	24	2718	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 91.191.209.0	91.191.209.255	24	2542	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
