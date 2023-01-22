@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Sun Jan 22 03:30:26 2023 UTC
+#    updated: Sun Jan 22 04:30:26 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,7 +33,7 @@ Start	End	Netmask	Attacks	Name	Country	email
 92.63.197.0	92.63.197.255	24	7404	SIBIRINVEST	NL	qwalarty@ukr.net
 45.143.200.0	45.143.200.255	24	4496	ROZA-AS	BG	>>UNKNOWN<<
 212.70.149.0	212.70.149.255	24	4341	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-79.124.62.0	79.124.62.255	24	4024	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	4025	DM_AUTO	BG	abuse@dm-auto.eu
 193.163.125.0	193.163.125.255	24	3661	CYBER-CASA	GB	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	3225	GOOGLE-CLOUD-PLATFORM	US	
 198.235.24.0	198.235.24.255	24	3110	GOOGLE-CLOUD-PLATFORM	US	
