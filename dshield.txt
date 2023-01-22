@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Sun Jan 22 02:30:27 2023 UTC
+#    updated: Sun Jan 22 03:30:26 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 Start	End	Netmask	Attacks	Name	Country	email
 89.248.163.0	89.248.163.255	24	9621	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.255	24	9066	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.255	24	9067	INT-NETWORK	SC	abuse@ipvolume.net
 185.156.73.0	185.156.73.255	24	8017	SIBIRINVEST	NL	qwalarty@ukr.net
 92.63.197.0	92.63.197.255	24	7404	SIBIRINVEST	NL	qwalarty@ukr.net
 45.143.200.0	45.143.200.255	24	4496	ROZA-AS	BG	>>UNKNOWN<<
@@ -38,7 +38,7 @@ Start	End	Netmask	Attacks	Name	Country	email
 205.210.31.0	205.210.31.255	24	3225	GOOGLE-CLOUD-PLATFORM	US	
 198.235.24.0	198.235.24.255	24	3110	GOOGLE-CLOUD-PLATFORM	US	
 64.62.197.0	64.62.197.255	24	3045	HURRICANE	US	abuse@he.net
-185.224.128.0	185.224.128.255	24	2985	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.224.128.0	185.224.128.255	24	2986	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 80.82.77.0	80.82.77.255	24	2931	INT-NETWORK	SC	abuse@ipvolume.net
 91.191.209.0	91.191.209.255	24	2765	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 146.88.240.0	146.88.240.255	24	2426	ARBOR	US	hostmaster@arbor.net
@@ -46,4 +46,4 @@ Start	End	Netmask	Attacks	Name	Country	email
 5.188.206.0	5.188.206.255	24	2113	KREZ999AS	BG	abuse@fastvps.biz
 78.128.113.0	78.128.113.255	24	1864	MITI2000	BG	>>UNKNOWN<<
 138.99.216.0	138.99.216.255	24	1779	NFORCE	NL	abuse@nforce.com
-64.112.72.0	64.112.72.255	24	1760	SPRINTLINK	US	abuse@sprint.net
+64.112.72.0	64.112.72.255	24	1761	SPRINTLINK	US	abuse@sprint.net
