@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Sun Jan 22 12:45:27 2023 UTC
+#    updated: Sun Jan 22 11:45:27 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -46,4 +46,4 @@ Start	End	Netmask	Attacks	Name	Country	email
 5.188.206.0	5.188.206.255	24	2113	KREZ999AS	BG	abuse@fastvps.biz
 78.128.113.0	78.128.113.255	24	1865	MITI2000	BG	>>UNKNOWN<<
 138.99.216.0	138.99.216.255	24	1779	NFORCE	NL	abuse@nforce.com
-64.112.72.0	64.112.72.255	24	1763	SPRINTLINK	US	abuse@sprint.net
+64.112.72.0	64.112.72.255	24	1762	SPRINTLINK	US	abuse@sprint.net
