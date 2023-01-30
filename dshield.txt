@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Mon Jan 30 17:30:14 2023 UTC
+#    updated: Mon Jan 30 18:30:15 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,23 +27,23 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 Start	End	Netmask	Attacks	Name	Country	email
-89.248.163.0	89.248.163.255	24	9169	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.255	24	8034	INT-NETWORK	SC	abuse@ipvolume.net
-212.70.149.0	212.70.149.255	24	3544	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+89.248.163.0	89.248.163.255	24	9182	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.255	24	8036	INT-NETWORK	SC	abuse@ipvolume.net
+212.70.149.0	212.70.149.255	24	3545	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 64.62.197.0	64.62.197.255	24	3339	HURRICANE	US	abuse@he.net
-92.63.197.0	92.63.197.255	24	3295	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.255	24	3015	CYBER-CASA	GB	>>UNKNOWN<<
-45.143.200.0	45.143.200.255	24	2931	ROZA-AS	BG	>>UNKNOWN<<
-185.156.73.0	185.156.73.255	24	2845	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.255	24	3300	SIBIRINVEST	NL	qwalarty@ukr.net
+193.163.125.0	193.163.125.255	24	3021	CYBER-CASA	GB	>>UNKNOWN<<
+45.143.200.0	45.143.200.255	24	2938	ROZA-AS	BG	>>UNKNOWN<<
+185.156.73.0	185.156.73.255	24	2852	SIBIRINVEST	NL	qwalarty@ukr.net
 146.88.240.0	146.88.240.255	24	2371	ARBOR	US	hostmaster@arbor.net
-185.224.128.0	185.224.128.255	24	2162	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-154.89.5.0	154.89.5.255	24	1998	MULTA-ASN1	US	abuse@multacom.com
-45.93.201.0	45.93.201.255	24	1964	SELECTEL-MSK	RU	abuse@selectel.ru
+185.224.128.0	185.224.128.255	24	2168	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+154.89.5.0	154.89.5.255	24	2001	MULTA-ASN1	US	abuse@multacom.com
+45.93.201.0	45.93.201.255	24	1971	SELECTEL-MSK	RU	abuse@selectel.ru
 87.246.7.0	87.246.7.255	24	1847	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-45.143.203.0	45.143.203.255	24	1818	VAIZ-AS ITBks892	RU	ionut.munteanu@eventya.net
-80.82.77.0	80.82.77.255	24	1780	INT-NETWORK	SC	abuse@ipvolume.net
-64.112.72.0	64.112.72.255	24	1766	SPRINTLINK	US	abuse@sprint.net
+45.143.203.0	45.143.203.255	24	1821	VAIZ-AS ITBks892	RU	ionut.munteanu@eventya.net
+80.82.77.0	80.82.77.255	24	1783	INT-NETWORK	SC	abuse@ipvolume.net
+64.112.72.0	64.112.72.255	24	1782	SPRINTLINK	US	abuse@sprint.net
 45.93.16.0	45.93.16.255	24	1580	RELIABLESITE	US	abuse@reliablesite.net
-65.49.20.0	65.49.20.255	24	1527	HURRICANE	US	abuse@he.net
-91.240.118.0	91.240.118.255	24	1506	CHANGWAY-AS	HK	noc@ameurotel.com
+65.49.20.0	65.49.20.255	24	1529	HURRICANE	US	abuse@he.net
+91.240.118.0	91.240.118.255	24	1509	CHANGWAY-AS	HK	noc@ameurotel.com
 138.99.216.0	138.99.216.255	24	1407	NFORCE	NL	abuse@nforce.com
