@@ -7,7 +7,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Mon Jan 30 03:00:22 2023 UTC
+#    updated: Mon Jan 30 04:45:22 2023 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 Start	End	Netmask	Attacks	Name	Country	email
 89.248.163.0	89.248.163.255	24	9501	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.255	24	8986	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	4626	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.255	24	4627	SIBIRINVEST	NL	qwalarty@ukr.net
 212.70.149.0	212.70.149.255	24	4219	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 92.63.197.0	92.63.197.255	24	4103	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.255	24	3593	CYBER-CASA	GB	>>UNKNOWN<<
@@ -41,9 +41,9 @@ Start	End	Netmask	Attacks	Name	Country	email
 45.93.201.0	45.93.201.255	24	2493	SELECTEL-MSK	RU	abuse@selectel.ru
 80.82.77.0	80.82.77.255	24	2436	INT-NETWORK	SC	abuse@ipvolume.net
 91.240.118.0	91.240.118.255	24	2363	CHANGWAY-AS	HK	noc@ameurotel.com
-185.81.68.0	185.81.68.255	24	2304	SELECTEL-MSK	RU	abuse@selectel.ru
+185.81.68.0	185.81.68.255	24	2305	SELECTEL-MSK	RU	abuse@selectel.ru
 87.246.7.0	87.246.7.255	24	2264	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-45.93.16.0	45.93.16.255	24	1852	RELIABLESITE	US	abuse@reliablesite.net
+45.93.16.0	45.93.16.255	24	1853	RELIABLESITE	US	abuse@reliablesite.net
 92.118.39.0	92.118.39.255	24	1755	PPTECHNOLOGY	GB	abuse@vegatele.com
 65.49.20.0	65.49.20.255	24	1599	HURRICANE	US	abuse@he.net
 138.99.216.0	138.99.216.255	24	1598	NFORCE	NL	abuse@nforce.com
