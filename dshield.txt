@@ -3,11 +3,11 @@
 #    (c) $year DShield.org
 #   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
 #   use on your own risk. No warranties implied.
-#   primary URL: $DShield::FEEDSURL/block.txt
-#     PGP Sign.: $DShield::FEEDSURL/block.txt.asc
+#   primary URL: https://feeds.dshield.org/block.txt
+#     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
-#   comments: $DShield::INFOMAIL
-#    updated: $date UTC
+#   comments: systems@isc.sans.edu
+#    updated: 2023-02-01T13:00:01.633069
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.110	24	9296	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.22	24	7871	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.88	24	6939	-	-	-
-167.248.133.0	167.248.133.140	24	3704	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.97	24	3693	CENSYS-ARIN-01	US	None
-94.102.61.0	94.102.61.44	24	3651	INT-NETWORK	SC	abuse@ipvolume.net
-92.63.197.0	92.63.197.133	24	3562	SIBIRINVEST	NL	qwalarty@ukr.net
-185.156.73.0	185.156.73.107	24	3012	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.119	24	2883	HURRICANE	US	abuse@he.net
-205.210.31.0	205.210.31.138	24	2619	GOOGLE-CLOUD-PLATFORM	US	None
-45.143.200.0	45.143.200.102	24	2538	ROZA-AS	BG	>>UNKNOWN<<
-193.163.125.0	193.163.125.33	24	2527	CYBER-CASA	GB	>>UNKNOWN<<
-198.235.24.0	198.235.24.176	24	2503	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.146.0	167.94.146.18	24	2187	CENSYS-ARIN-02	US	None
-212.70.149.0	212.70.149.14	24	2181	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-167.94.145.0	167.94.145.91	24	2135	CENSYS-ARIN-02	US	None
-146.88.240.0	146.88.240.4	24	1992	ARBOR	US	hostmaster@arbor.net
-185.224.128.0	185.224.128.17	24	1838	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-80.82.77.0	80.82.77.234	24	1818	INT-NETWORK	SC	abuse@ipvolume.net
-45.93.201.0	45.93.201.59	24	1748	SELECTEL-MSK	RU	abuse@selectel.ru
+89.248.163.0	89.248.163.251	24	9571	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.52	24	8895	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.88	24	8186	-	-	-
+94.102.61.0	94.102.61.47	24	5173	INT-NETWORK	SC	abuse@ipvolume.net
+167.94.138.0	167.94.138.97	24	4968	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.166	24	4953	CENSYS-ARIN-03	US	None
+92.63.197.0	92.63.197.131	24	4885	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.131	24	4316	SIBIRINVEST	NL	qwalarty@ukr.net
+45.143.200.0	45.143.200.114	24	3483	ROZA-AS	BG	>>UNKNOWN<<
+193.163.125.0	193.163.125.33	24	3396	CYBER-CASA	GB	>>UNKNOWN<<
+205.210.31.0	205.210.31.53	24	3336	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.176	24	3211	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.146.0	167.94.146.19	24	2984	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.91	24	2969	CENSYS-ARIN-02	US	None
+64.62.197.0	64.62.197.131	24	2968	HURRICANE	US	abuse@he.net
+212.70.149.0	212.70.149.46	24	2769	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+185.224.128.0	185.224.128.17	24	2407	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+45.93.201.0	45.93.201.59	24	2330	SELECTEL-MSK	RU	abuse@selectel.ru
+146.88.240.0	146.88.240.4	24	2217	ARBOR	US	hostmaster@arbor.net
+87.246.7.0	87.246.7.70	24	2146	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
