@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-04T12:00:30.001355
+#    updated: 2023-02-04T13:00:28.850286
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,7 +34,7 @@
 92.63.197.0	92.63.197.83	24	5949	SIBIRINVEST	NL	qwalarty@ukr.net
 167.248.133.0	167.248.133.135	24	5279	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.138	24	5220	CENSYS-ARIN-01	US	None
-198.235.24.0	198.235.24.36	24	4739	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.36	24	4740	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.26	24	4732	GOOGLE-CLOUD-PLATFORM	US	None
 154.89.5.0	154.89.5.84	24	4344	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.8	24	3704	CYBER-CASA	GB	>>UNKNOWN<<
