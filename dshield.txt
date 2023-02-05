@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-05T02:30:02.155895
+#    updated: 2023-02-05T03:30:02.207202
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,7 +38,7 @@
 185.122.204.0	185.122.204.71	24	1561	SELECTEL-MSK	RU	abuse@selectel.ru
 64.62.197.0	64.62.197.71	24	1554	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.191	24	1408	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.146.0	167.94.146.16	24	1270	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.21	24	1271	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.26	24	1242	CENSYS-ARIN-02	US	None
 185.81.68.0	185.81.68.110	24	1165	SELECTEL-MSK	RU	abuse@selectel.ru
 185.224.128.0	185.224.128.17	24	1139	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
