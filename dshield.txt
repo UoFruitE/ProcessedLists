@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-10T15:15:06.798694
+#    updated: 2023-02-10T16:15:06.480423
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.30	24	5123	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.30	24	5126	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.53	24	3415	INT-NETWORK	SC	abuse@ipvolume.net
 185.122.204.0	185.122.204.18	24	3089	SELECTEL-MSK	RU	abuse@selectel.ru
 94.102.61.0	94.102.61.40	24	2407	INT-NETWORK	SC	abuse@ipvolume.net
@@ -34,13 +34,13 @@
 167.248.133.0	167.248.133.155	24	1339	CENSYS-ARIN-03	US	None
 64.62.197.0	64.62.197.67	24	1329	HURRICANE	US	abuse@he.net
 205.210.31.0	205.210.31.38	24	1248	GOOGLE-CLOUD-PLATFORM	US	None
-185.156.73.0	185.156.73.91	24	1238	SIBIRINVEST	NL	qwalarty@ukr.net
-198.235.24.0	198.235.24.59	24	1219	GOOGLE-CLOUD-PLATFORM	US	None
+185.156.73.0	185.156.73.91	24	1239	SIBIRINVEST	NL	qwalarty@ukr.net
+198.235.24.0	198.235.24.59	24	1221	GOOGLE-CLOUD-PLATFORM	US	None
 212.70.149.0	212.70.149.130	24	1209	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 92.63.197.0	92.63.197.83	24	1128	SIBIRINVEST	NL	qwalarty@ukr.net
 91.240.118.0	91.240.118.77	24	1061	CHANGWAY-AS	HK	noc@ameurotel.com
 193.163.125.0	193.163.125.217	24	997	CYBER-CASA	GB	>>UNKNOWN<<
-45.143.200.0	45.143.200.50	24	967	ROZA-AS	BG	>>UNKNOWN<<
+45.143.200.0	45.143.200.50	24	971	ROZA-AS	BG	>>UNKNOWN<<
 167.94.145.0	167.94.145.83	24	874	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.31	24	862	CENSYS-ARIN-02	US	None
 146.88.240.0	146.88.240.4	24	855	ARBOR	US	hostmaster@arbor.net
