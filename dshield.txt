@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-13T21:30:07.726131
+#    updated: 2023-02-13T22:30:07.747839
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,7 +36,7 @@
 212.70.149.0	212.70.149.14	24	1501	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 167.94.138.0	167.94.138.152	24	1203	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.165	24	1178	CENSYS-ARIN-03	US	None
-154.89.5.0	154.89.5.94	24	1129	MULTA-ASN1	US	abuse@multacom.com
+154.89.5.0	154.89.5.94	24	1130	MULTA-ASN1	US	abuse@multacom.com
 64.62.197.0	64.62.197.231	24	999	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.176	24	903	CYBER-CASA	GB	>>UNKNOWN<<
 45.143.200.0	45.143.200.114	24	831	ROZA-AS	BG	>>UNKNOWN<<
@@ -45,4 +45,4 @@
 80.66.77.0	80.66.77.236	24	781	-	-	-
 167.94.145.0	167.94.145.16	24	779	CENSYS-ARIN-02	US	None
 146.88.240.0	146.88.240.4	24	728	ARBOR	US	hostmaster@arbor.net
-185.81.68.0	185.81.68.102	24	717	SELECTEL-MSK	RU	abuse@selectel.ru
+185.81.68.0	185.81.68.102	24	718	SELECTEL-MSK	RU	abuse@selectel.ru
