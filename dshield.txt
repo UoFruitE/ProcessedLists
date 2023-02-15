@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-15T14:15:25.753562
+#    updated: 2023-02-15T15:15:26.574149
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,7 +31,7 @@
 104.156.155.0	104.156.155.12	24	8085	ACDRESEARCH	US	None
 94.102.61.0	94.102.61.49	24	7163	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.91	24	6158	-	-	-
-185.122.204.0	185.122.204.99	24	6067	SELECTEL-MSK	RU	abuse@selectel.ru
+185.122.204.0	185.122.204.71	24	6067	SELECTEL-MSK	RU	abuse@selectel.ru
 92.63.197.0	92.63.197.110	24	5482	SIBIRINVEST	NL	qwalarty@ukr.net
 185.156.73.0	185.156.73.107	24	4745	SIBIRINVEST	NL	qwalarty@ukr.net
 212.70.149.0	212.70.149.130	24	4027	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
@@ -40,7 +40,7 @@
 205.210.31.0	205.210.31.162	24	3415	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.46	24	3334	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.197.0	64.62.197.74	24	2788	HURRICANE	US	abuse@he.net
-80.82.77.0	80.82.77.234	24	2622	INT-NETWORK	SC	abuse@ipvolume.net
+80.82.77.0	80.82.77.139	24	2622	INT-NETWORK	SC	abuse@ipvolume.net
 45.143.200.0	45.143.200.50	24	2494	ROZA-AS	BG	>>UNKNOWN<<
 193.163.125.0	193.163.125.64	24	2465	CYBER-CASA	GB	>>UNKNOWN<<
 167.94.146.0	167.94.146.19	24	2313	CENSYS-ARIN-02	US	None
