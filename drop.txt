@@ -1,7 +1,7 @@
 ; Spamhaus DROP List 2023/02/21 - (c) 2023 The Spamhaus Project
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Tue, 21 Feb 2023 13:38:55 GMT
-; Expires: Tue, 21 Feb 2023 17:07:15 GMT
+; Last-Modified: Tue, 21 Feb 2023 16:48:16 GMT
+; Expires: Tue, 21 Feb 2023 18:07:19 GMT
 1.10.16.0/20 ; SBL256894
 1.19.0.0/16 ; SBL434604
 1.32.128.0/18 ; SBL286275
@@ -220,6 +220,7 @@
 103.232.172.0/22 ; SBL226519
 103.236.32.0/22 ; SBL270821
 103.243.8.0/22 ; SBL384551
+103.243.240.0/22 ; SBL220056
 104.193.192.0/22 ; SBL617794
 104.193.228.0/22 ; SBL294936
 104.243.192.0/20 ; SBL325525
