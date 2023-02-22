@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-22T09:00:28.170074
+#    updated: 2023-02-22T10:00:28.501969
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,10 +36,10 @@
 205.210.31.0	205.210.31.178	24	4454	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.133	24	4239	GOOGLE-CLOUD-PLATFORM	US	None
 78.128.114.0	78.128.114.78	24	4109	TAMATIYA-AS	BG	noc@4vendeta.com
-185.122.204.0	185.122.204.74	24	3619	SELECTEL-MSK	RU	abuse@selectel.ru
+185.122.204.0	185.122.204.73	24	3619	SELECTEL-MSK	RU	abuse@selectel.ru
 80.82.77.0	80.82.77.33	24	3590	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.91	24	3259	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.140	24	3227	CYBER-CASA	GB	>>UNKNOWN<<
+185.156.73.0	185.156.73.57	24	3259	SIBIRINVEST	NL	qwalarty@ukr.net
+193.163.125.0	193.163.125.118	24	3227	CYBER-CASA	GB	>>UNKNOWN<<
 185.81.68.0	185.81.68.101	24	2982	SELECTEL-MSK	RU	abuse@selectel.ru
 167.94.145.0	167.94.145.16	24	2912	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.24	24	2874	CENSYS-ARIN-02	US	None
