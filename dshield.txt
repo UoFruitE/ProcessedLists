@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-02-23T11:00:28.452664
+#    updated: 2023-02-23T12:15:27.551064
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,19 +27,19 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 89.248.165.0	89.248.165.59	24	9162	INT-NETWORK	SC	abuse@ipvolume.net
-179.60.147.0	179.60.147.156	24	8952	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+179.60.147.0	179.60.147.135	24	8952	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 89.248.163.0	89.248.163.180	24	8843	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.85	24	8555	-	-	-
-94.102.61.0	94.102.61.27	24	8127	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.111	24	8555	-	-	-
+94.102.61.0	94.102.61.2	24	8127	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.139	24	5367	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.133	24	5319	CENSYS-ARIN-01	US	None
-78.128.114.0	78.128.114.74	24	4821	TAMATIYA-AS	BG	noc@4vendeta.com
-154.89.5.0	154.89.5.94	24	3901	MULTA-ASN1	US	abuse@multacom.com
+78.128.114.0	78.128.114.78	24	4821	TAMATIYA-AS	BG	noc@4vendeta.com
+154.89.5.0	154.89.5.111	24	3902	MULTA-ASN1	US	abuse@multacom.com
 193.163.125.0	193.163.125.62	24	3829	CYBER-CASA	GB	>>UNKNOWN<<
-185.81.68.0	185.81.68.253	24	3774	SELECTEL-MSK	RU	abuse@selectel.ru
+185.81.68.0	185.81.68.253	24	3775	SELECTEL-MSK	RU	abuse@selectel.ru
 167.94.145.0	167.94.145.26	24	3353	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.20	24	3346	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.60	24	3250	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.17	24	3250	CENSYS-ARIN-02	US	None
 185.122.204.0	185.122.204.248	24	3000	SELECTEL-MSK	RU	abuse@selectel.ru
 79.124.56.0	79.124.56.190	24	2939	TAMATIYA-AS	BG	noc@4vendeta.com
 185.156.73.0	185.156.73.91	24	2856	SIBIRINVEST	NL	qwalarty@ukr.net
