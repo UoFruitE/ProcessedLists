@@ -1,7 +1,7 @@
 ; Spamhaus DROP List 2023/03/02 - (c) 2023 The Spamhaus Project
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Wed, 01 Mar 2023 13:23:26 GMT
-; Expires: Thu, 02 Mar 2023 13:54:29 GMT
+; Last-Modified: Thu, 02 Mar 2023 12:57:34 GMT
+; Expires: Thu, 02 Mar 2023 15:05:37 GMT
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
@@ -259,7 +259,6 @@
 132.255.0.0/22
 134.18.0.0/16
 134.33.0.0/16
-134.172.0.0/16
 137.19.0.0/16
 137.31.0.0/16
 137.55.0.0/16
