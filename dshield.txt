@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-07T07:00:28.616667
+#    updated: 2023-03-07T08:00:28.344806
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,17 +32,17 @@
 94.102.61.0	94.102.61.28	24	7802	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.85	24	7494	-	-	-
 123.160.221.0	123.160.221.55	24	6258	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.138.0	167.94.138.138	24	5091	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.143	24	5062	CENSYS-ARIN-03	US	None
-111.7.96.0	111.7.96.133	24	4652	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+167.94.138.0	167.94.138.151	24	5091	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.146	24	5062	CENSYS-ARIN-03	US	None
+111.7.96.0	111.7.96.151	24	4652	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 80.82.77.0	80.82.77.33	24	3669	INT-NETWORK	SC	abuse@ipvolume.net
 78.128.114.0	78.128.114.74	24	3647	TAMATIYA-AS	BG	noc@4vendeta.com
 193.163.125.0	193.163.125.37	24	3541	CYBER-CASA	GB	>>UNKNOWN<<
-92.63.197.0	92.63.197.153	24	3507	SIBIRINVEST	NL	qwalarty@ukr.net
-185.122.204.0	185.122.204.99	24	3482	SELECTEL-MSK	RU	abuse@selectel.ru
-64.62.197.0	64.62.197.152	24	3362	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.5	24	3240	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.146.0	167.94.146.19	24	3100	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.27	24	3091	CENSYS-ARIN-02	US	None
+92.63.197.0	92.63.197.149	24	3507	SIBIRINVEST	NL	qwalarty@ukr.net
+185.122.204.0	185.122.204.74	24	3482	SELECTEL-MSK	RU	abuse@selectel.ru
+64.62.197.0	64.62.197.218	24	3362	HURRICANE	US	abuse@he.net
+183.136.225.0	183.136.225.31	24	3240	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.94.146.0	167.94.146.26	24	3100	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.28	24	3091	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.17	24	3064	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 85.217.144.0	85.217.144.137	24	3061	-	-	-
