@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-08T20:30:21.937163
+#    updated: 2023-03-08T21:30:22.751214
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.11	24	9180	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.121	24	9007	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.88	24	7498	-	-	-
-94.102.61.0	94.102.61.54	24	7006	INT-NETWORK	SC	abuse@ipvolume.net
-123.160.221.0	123.160.221.34	24	5429	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.248.133.0	167.248.133.173	24	4304	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.96	24	4166	CENSYS-ARIN-01	US	None
-111.7.96.0	111.7.96.133	24	4058	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-154.89.5.0	154.89.5.94	24	4054	MULTA-ASN1	US	abuse@multacom.com
-185.224.128.0	185.224.128.250	24	3242	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-78.128.114.0	78.128.114.78	24	3233	TAMATIYA-AS	BG	noc@4vendeta.com
-64.62.197.0	64.62.197.199	24	3102	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.82	24	2941	DM_AUTO	BG	abuse@dm-auto.eu
-193.163.125.0	193.163.125.3	24	2852	CYBER-CASA	GB	>>UNKNOWN<<
-85.217.144.0	85.217.144.24	24	2718	-	-	-
-183.136.225.0	183.136.225.42	24	2710	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.118.39.0	92.118.39.92	24	2643	PPTECHNOLOGY	GB	abuse@vegatele.com
-167.94.146.0	167.94.146.17	24	2613	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.19	24	2513	CENSYS-ARIN-02	US	None
-92.63.197.0	92.63.197.71	24	2437	SIBIRINVEST	NL	qwalarty@ukr.net
+89.248.163.0	89.248.163.200	24	9194	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.187	24	9007	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.88	24	7501	-	-	-
+94.102.61.0	94.102.61.47	24	7008	INT-NETWORK	SC	abuse@ipvolume.net
+123.160.221.0	123.160.221.41	24	5430	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.248.133.0	167.248.133.163	24	4308	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.107	24	4172	CENSYS-ARIN-01	US	None
+154.89.5.0	154.89.5.92	24	4060	MULTA-ASN1	US	abuse@multacom.com
+111.7.96.0	111.7.96.137	24	4059	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+185.224.128.0	185.224.128.215	24	3255	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+78.128.114.0	78.128.114.78	24	3234	TAMATIYA-AS	BG	noc@4vendeta.com
+64.62.197.0	64.62.197.199	24	3103	HURRICANE	US	abuse@he.net
+79.124.62.0	79.124.62.78	24	2946	DM_AUTO	BG	abuse@dm-auto.eu
+193.163.125.0	193.163.125.3	24	2859	CYBER-CASA	GB	>>UNKNOWN<<
+85.217.144.0	85.217.144.24	24	2719	-	-	-
+183.136.225.0	183.136.225.5	24	2717	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+92.118.39.0	92.118.39.82	24	2653	PPTECHNOLOGY	GB	abuse@vegatele.com
+167.94.146.0	167.94.146.16	24	2619	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.82	24	2524	CENSYS-ARIN-02	US	None
+92.63.197.0	92.63.197.71	24	2453	SIBIRINVEST	NL	qwalarty@ukr.net
