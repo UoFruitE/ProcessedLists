@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-10T14:15:29.324357
+#    updated: 2023-03-10T15:15:28.410769
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 89.248.163.0	89.248.163.165	24	9441	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.134	24	8917	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.22	24	8917	INT-NETWORK	SC	abuse@ipvolume.net
 179.60.147.0	179.60.147.156	24	8715	FLYSERVERS-ASN	PA	>>UNKNOWN<<
-94.102.61.0	94.102.61.38	24	7262	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.87	24	6461	-	-	-
+94.102.61.0	94.102.61.28	24	7262	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.89	24	6461	-	-	-
 123.160.221.0	123.160.221.25	24	5593	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 92.63.197.0	92.63.197.153	24	4967	SIBIRINVEST	NL	qwalarty@ukr.net
-167.248.133.0	167.248.133.162	24	4483	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.139	24	4431	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.154	24	4483	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.143	24	4431	CENSYS-ARIN-01	US	None
 111.7.96.0	111.7.96.149	24	4246	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-78.128.114.0	78.128.114.78	24	3817	TAMATIYA-AS	BG	noc@4vendeta.com
+78.128.114.0	78.128.114.74	24	3817	TAMATIYA-AS	BG	noc@4vendeta.com
 193.163.125.0	193.163.125.128	24	2999	CYBER-CASA	GB	>>UNKNOWN<<
 85.217.144.0	85.217.144.52	24	2974	-	-	-
 64.62.197.0	64.62.197.127	24	2955	HURRICANE	US	abuse@he.net
-92.118.39.0	92.118.39.91	24	2899	PPTECHNOLOGY	GB	abuse@vegatele.com
-185.224.128.0	185.224.128.237	24	2745	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-167.94.145.0	167.94.145.82	24	2726	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.31	24	2698	CENSYS-ARIN-02	US	None
+92.118.39.0	92.118.39.92	24	2899	PPTECHNOLOGY	GB	abuse@vegatele.com
+185.224.128.0	185.224.128.17	24	2745	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+167.94.145.0	167.94.145.23	24	2726	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.30	24	2698	CENSYS-ARIN-02	US	None
 185.81.68.0	185.81.68.253	24	2498	SELECTEL-MSK	RU	abuse@selectel.ru
-185.156.73.0	185.156.73.154	24	2308	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.57	24	2308	SIBIRINVEST	NL	qwalarty@ukr.net
