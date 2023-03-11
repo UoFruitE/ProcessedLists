@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-11T08:45:26.489734
+#    updated: 2023-03-11T09:45:28.468919
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 111.7.96.0	111.7.96.135	24	4280	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 205.210.31.0	205.210.31.129	24	4192	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.137	24	4064	GOOGLE-CLOUD-PLATFORM	US	None
-78.128.114.0	78.128.114.78	24	3906	TAMATIYA-AS	BG	noc@4vendeta.com
-79.124.58.0	79.124.58.186	24	3697	TAMATIYA-AS	BG	noc@4vendeta.com
-185.224.128.0	185.224.128.17	24	3324	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+78.128.114.0	78.128.114.26	24	3906	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.58.0	79.124.58.186	24	3698	TAMATIYA-AS	BG	noc@4vendeta.com
+185.224.128.0	185.224.128.243	24	3324	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 85.217.144.0	85.217.144.52	24	3240	-	-	-
 193.163.125.0	193.163.125.199	24	3199	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.166	24	3159	HURRICANE	US	abuse@he.net
-185.156.73.0	185.156.73.154	24	3124	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.57	24	3124	SIBIRINVEST	NL	qwalarty@ukr.net
 92.118.39.0	92.118.39.91	24	2880	PPTECHNOLOGY	GB	abuse@vegatele.com
