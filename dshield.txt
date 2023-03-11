@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-11T12:00:26.713732
+#    updated: 2023-03-11T13:00:26.340164
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,10 +34,10 @@
 123.160.221.0	123.160.221.29	24	5820	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 176.111.174.0	176.111.174.81	24	5588	-	-	-
 167.94.138.0	167.94.138.107	24	4701	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.148	24	4622	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.148	24	4623	CENSYS-ARIN-03	US	None
 111.7.96.0	111.7.96.135	24	4280	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-205.210.31.0	205.210.31.129	24	4192	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.137	24	4064	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.129	24	4193	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.137	24	4065	GOOGLE-CLOUD-PLATFORM	US	None
 78.128.114.0	78.128.114.26	24	3906	TAMATIYA-AS	BG	noc@4vendeta.com
 79.124.58.0	79.124.58.186	24	3698	TAMATIYA-AS	BG	noc@4vendeta.com
 185.224.128.0	185.224.128.243	24	3324	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
