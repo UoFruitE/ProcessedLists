@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-14T10:00:30.010118
+#    updated: 2023-03-14T11:00:30.373334
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.154	24	9190	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.132	24	9190	INT-NETWORK	SC	abuse@ipvolume.net
 179.60.147.0	179.60.147.156	24	8883	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 94.102.61.0	94.102.61.53	24	8168	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.105	24	6777	-	-	-
+176.111.174.0	176.111.174.109	24	6777	-	-	-
 123.160.221.0	123.160.221.57	24	6264	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.63.197.0	92.63.197.94	24	5711	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.131	24	5711	SIBIRINVEST	NL	qwalarty@ukr.net
 167.248.133.0	167.248.133.166	24	5117	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.157	24	5103	CENSYS-ARIN-01	US	None
-111.7.96.0	111.7.96.147	24	4669	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+111.7.96.0	111.7.96.138	24	4669	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 89.248.163.0	89.248.163.110	24	4504	INT-NETWORK	SC	abuse@ipvolume.net
-79.124.58.0	79.124.58.142	24	4331	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.58.0	79.124.58.166	24	4331	TAMATIYA-AS	BG	noc@4vendeta.com
 78.128.114.0	78.128.114.78	24	3810	TAMATIYA-AS	BG	noc@4vendeta.com
-185.156.73.0	185.156.73.154	24	3462	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.57	24	3463	SIBIRINVEST	NL	qwalarty@ukr.net
 85.217.144.0	85.217.144.15	24	3424	-	-	-
-193.163.125.0	193.163.125.67	24	3341	CYBER-CASA	GB	>>UNKNOWN<<
-64.62.197.0	64.62.197.227	24	3267	HURRICANE	US	abuse@he.net
+193.163.125.0	193.163.125.53	24	3341	CYBER-CASA	GB	>>UNKNOWN<<
+64.62.197.0	64.62.197.72	24	3267	HURRICANE	US	abuse@he.net
 92.118.39.0	92.118.39.91	24	3235	PPTECHNOLOGY	GB	abuse@vegatele.com
-167.94.145.0	167.94.145.20	24	3118	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.91	24	3118	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.60	24	3076	CENSYS-ARIN-02	US	None
-154.89.5.0	154.89.5.212	24	2913	MULTA-ASN1	US	abuse@multacom.com
+154.89.5.0	154.89.5.68	24	2913	MULTA-ASN1	US	abuse@multacom.com
