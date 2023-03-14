@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-14T11:00:30.373334
+#    updated: 2023-03-14T12:15:29.492297
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 92.118.39.0	92.118.39.91	24	3235	PPTECHNOLOGY	GB	abuse@vegatele.com
 167.94.145.0	167.94.145.91	24	3118	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.60	24	3076	CENSYS-ARIN-02	US	None
-154.89.5.0	154.89.5.68	24	2913	MULTA-ASN1	US	abuse@multacom.com
+154.89.5.0	154.89.5.68	24	2914	MULTA-ASN1	US	abuse@multacom.com
