@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-18T11:00:25.231035
+#    updated: 2023-03-18T12:00:25.811475
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,10 +31,10 @@
 94.102.61.0	94.102.61.42	24	8158	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.83	24	7325	-	-	-
 92.63.197.0	92.63.197.131	24	6775	SIBIRINVEST	NL	qwalarty@ukr.net
-167.248.133.0	167.248.133.126	24	5379	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.126	24	5380	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.104	24	5362	CENSYS-ARIN-01	US	None
-154.89.5.0	154.89.5.92	24	4900	MULTA-ASN1	US	abuse@multacom.com
-205.210.31.0	205.210.31.56	24	4896	GOOGLE-CLOUD-PLATFORM	US	None
+154.89.5.0	154.89.5.92	24	4901	MULTA-ASN1	US	abuse@multacom.com
+205.210.31.0	205.210.31.56	24	4897	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.48	24	4826	GOOGLE-CLOUD-PLATFORM	US	None
 183.136.225.0	183.136.225.42	24	4340	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 80.82.77.0	80.82.77.139	24	3914	INT-NETWORK	SC	abuse@ipvolume.net
