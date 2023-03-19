@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-19T03:45:23.126961
+#    updated: 2023-03-19T04:45:24.089162
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.46	24	9361	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.104	24	9361	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.148	24	9260	INT-NETWORK	SC	abuse@ipvolume.net
 91.218.115.0	91.218.115.175	24	8197	HOSTKEY-RU-AS	NL	abuse@exitec.de
-94.102.61.0	94.102.61.41	24	8013	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.87	24	6466	-	-	-
-167.248.133.0	167.248.133.34	24	5124	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.100	24	5039	CENSYS-ARIN-01	US	None
-183.136.225.0	183.136.225.9	24	4034	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-193.163.125.0	193.163.125.246	24	3493	CYBER-CASA	GB	>>UNKNOWN<<
+94.102.61.0	94.102.61.41	24	8014	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.85	24	6466	-	-	-
+167.248.133.0	167.248.133.34	24	5125	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.100	24	5040	CENSYS-ARIN-01	US	None
+183.136.225.0	183.136.225.42	24	4034	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+193.163.125.0	193.163.125.246	24	3494	CYBER-CASA	GB	>>UNKNOWN<<
 92.63.197.0	92.63.197.157	24	3489	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.127	24	3378	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.90	24	3378	HURRICANE	US	abuse@he.net
 92.118.39.0	92.118.39.92	24	3293	PPTECHNOLOGY	GB	abuse@vegatele.com
-79.124.58.0	79.124.58.166	24	3160	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.58.0	79.124.58.166	24	3162	TAMATIYA-AS	BG	noc@4vendeta.com
 167.94.145.0	167.94.145.20	24	3088	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.22	24	3076	CENSYS-ARIN-02	US	None
 185.156.73.0	185.156.73.57	24	3065	SIBIRINVEST	NL	qwalarty@ukr.net
 80.82.77.0	80.82.77.144	24	3063	INT-NETWORK	SC	abuse@ipvolume.net
 185.224.128.0	185.224.128.17	24	2756	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-45.93.16.0	45.93.16.228	24	2697	RELIABLESITE	US	abuse@reliablesite.net
+45.93.16.0	45.93.16.228	24	2701	RELIABLESITE	US	abuse@reliablesite.net
 85.217.144.0	85.217.144.151	24	2695	-	-	-
