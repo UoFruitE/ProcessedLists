@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-20T09:00:24.560725
+#    updated: 2023-03-20T10:00:24.733512
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,12 +35,12 @@
 79.124.62.0	79.124.62.82	24	4488	DM_AUTO	BG	abuse@dm-auto.eu
 183.136.225.0	183.136.225.9	24	4181	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.72	24	3948	CYBER-CASA	GB	>>UNKNOWN<<
-64.62.197.0	64.62.197.235	24	3859	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.133	24	3859	HURRICANE	US	abuse@he.net
 64.112.72.0	64.112.72.214	24	3582	SPRINTLINK	US	abuse@sprint.net
 167.94.145.0	167.94.145.20	24	3504	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.17	24	3504	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 167.94.146.0	167.94.146.30	24	3481	CENSYS-ARIN-02	US	None
-92.118.39.0	92.118.39.92	24	3428	PPTECHNOLOGY	GB	abuse@vegatele.com
+92.118.39.0	92.118.39.91	24	3428	PPTECHNOLOGY	GB	abuse@vegatele.com
 85.217.144.0	85.217.144.148	24	3174	-	-	-
 194.110.203.0	194.110.203.221	24	2829	-	-	-
 212.70.149.0	212.70.149.38	24	2761	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
