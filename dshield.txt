@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-22T04:00:26.650030
+#    updated: 2023-03-22T05:00:26.226198
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.22	24	9389	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.45	24	9390	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.15	24	9183	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.4	24	8470	INT-NETWORK	SC	abuse@ipvolume.net
 158.255.7.0	158.255.7.153	24	8166	HOSTKEY-RU-AS	NL	abuse@exitec.de
-167.248.133.0	167.248.133.130	24	5175	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.137	24	5175	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.111	24	5082	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.159	24	4679	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.181	24	4619	GOOGLE-CLOUD-PLATFORM	US	None
 176.111.174.0	176.111.174.107	24	4046	-	-	-
 193.163.125.0	193.163.125.223	24	3514	CYBER-CASA	GB	>>UNKNOWN<<
 185.224.128.0	185.224.128.17	24	3281	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-92.63.197.0	92.63.197.153	24	3226	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.149	24	3226	SIBIRINVEST	NL	qwalarty@ukr.net
 64.62.197.0	64.62.197.5	24	3159	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.21	24	3085	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.21	24	3087	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.31	24	3066	CENSYS-ARIN-02	US	None
 45.93.16.0	45.93.16.15	24	3008	RELIABLESITE	US	abuse@reliablesite.net
 91.240.118.0	91.240.118.225	24	2971	CHANGWAY-AS	HK	noc@ameurotel.com
-183.136.225.0	183.136.225.43	24	2916	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.9	24	2917	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 79.124.58.0	79.124.58.146	24	2834	TAMATIYA-AS	BG	noc@4vendeta.com
 92.118.39.0	92.118.39.92	24	2672	PPTECHNOLOGY	GB	abuse@vegatele.com
