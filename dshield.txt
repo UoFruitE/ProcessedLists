@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-24T07:00:25.744248
+#    updated: 2023-03-24T08:00:26.047610
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.197	24	9477	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.242	24	9477	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.200	24	9245	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.84	24	8541	-	-	-
-94.102.61.0	94.102.61.6	24	8479	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.161	24	5535	CENSYS-ARIN-03	US	None
+176.111.174.0	176.111.174.88	24	8541	-	-	-
+94.102.61.0	94.102.61.39	24	8479	INT-NETWORK	SC	abuse@ipvolume.net
+167.248.133.0	167.248.133.159	24	5535	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.129	24	5447	CENSYS-ARIN-01	US	None
 92.63.197.0	92.63.197.131	24	4598	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.177	24	3785	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.133	24	3785	CYBER-CASA	GB	>>UNKNOWN<<
 185.224.128.0	185.224.128.17	24	3776	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-64.62.197.0	64.62.197.89	24	3542	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.85	24	3542	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.30	24	3401	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.20	24	3361	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.25	24	3361	CENSYS-ARIN-02	US	None
 92.118.39.0	92.118.39.91	24	3356	PPTECHNOLOGY	GB	abuse@vegatele.com
 185.156.73.0	185.156.73.107	24	3333	SIBIRINVEST	NL	qwalarty@ukr.net
 91.240.118.0	91.240.118.59	24	2962	CHANGWAY-AS	HK	noc@ameurotel.com
 193.142.146.0	193.142.146.214	24	2743	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 212.70.149.0	212.70.149.38	24	2658	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-146.88.240.0	146.88.240.15	24	2518	ARBOR	US	hostmaster@arbor.net
-205.210.31.0	205.210.31.29	24	2458	GOOGLE-CLOUD-PLATFORM	US	None
+146.88.240.0	146.88.240.4	24	2518	ARBOR	US	hostmaster@arbor.net
+205.210.31.0	205.210.31.29	24	2459	GOOGLE-CLOUD-PLATFORM	US	None
 80.82.77.0	80.82.77.234	24	2398	INT-NETWORK	SC	abuse@ipvolume.net
