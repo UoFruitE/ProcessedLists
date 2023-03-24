@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-24T13:15:26.201418
+#    updated: 2023-03-24T14:15:25.370658
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,7 +32,7 @@
 94.102.61.0	94.102.61.39	24	8480	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.161	24	5536	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.129	24	5447	CENSYS-ARIN-01	US	None
-92.63.197.0	92.63.197.157	24	4598	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.131	24	4598	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.133	24	3786	CYBER-CASA	GB	>>UNKNOWN<<
 185.224.128.0	185.224.128.17	24	3776	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 64.62.197.0	64.62.197.89	24	3543	HURRICANE	US	abuse@he.net
@@ -44,5 +44,5 @@
 193.142.146.0	193.142.146.214	24	2743	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 212.70.149.0	212.70.149.38	24	2658	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 146.88.240.0	146.88.240.4	24	2518	ARBOR	US	hostmaster@arbor.net
-205.210.31.0	205.210.31.29	24	2464	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.29	24	2465	GOOGLE-CLOUD-PLATFORM	US	None
 80.82.77.0	80.82.77.234	24	2398	INT-NETWORK	SC	abuse@ipvolume.net
