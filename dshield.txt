@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-26T01:45:24.405513
+#    updated: 2023-03-26T02:45:25.227971
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.195	24	9492	INT-NETWORK	SC	abuse@ipvolume.net
-94.102.61.0	94.102.61.4	24	8520	INT-NETWORK	SC	abuse@ipvolume.net
-92.63.197.0	92.63.197.157	24	7479	SIBIRINVEST	NL	qwalarty@ukr.net
-167.94.138.0	167.94.138.130	24	5929	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.168	24	5887	CENSYS-ARIN-03	US	None
-193.163.125.0	193.163.125.250	24	4272	CYBER-CASA	GB	>>UNKNOWN<<
-185.156.73.0	185.156.73.154	24	4218	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.143	24	3957	HURRICANE	US	abuse@he.net
-92.118.39.0	92.118.39.82	24	3862	PPTECHNOLOGY	GB	abuse@vegatele.com
-167.94.145.0	167.94.145.17	24	3793	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.20	24	3761	CENSYS-ARIN-02	US	None
-185.224.128.0	185.224.128.17	24	3636	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-176.111.174.0	176.111.174.111	24	3284	-	-	-
-193.142.146.0	193.142.146.35	24	2984	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-80.82.77.0	80.82.77.234	24	2709	INT-NETWORK	SC	abuse@ipvolume.net
-146.88.240.0	146.88.240.4	24	2706	ARBOR	US	hostmaster@arbor.net
-85.217.144.0	85.217.144.52	24	2558	-	-	-
-183.136.225.0	183.136.225.5	24	2511	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-212.70.149.0	212.70.149.46	24	2491	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-89.248.163.0	89.248.163.200	24	2452	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.195	24	9494	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.30	24	8532	INT-NETWORK	SC	abuse@ipvolume.net
+92.63.197.0	92.63.197.153	24	7481	SIBIRINVEST	NL	qwalarty@ukr.net
+167.94.138.0	167.94.138.130	24	5933	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.155	24	5891	CENSYS-ARIN-03	US	None
+193.163.125.0	193.163.125.250	24	4275	CYBER-CASA	GB	>>UNKNOWN<<
+185.156.73.0	185.156.73.154	24	4223	SIBIRINVEST	NL	qwalarty@ukr.net
+64.62.197.0	64.62.197.143	24	3961	HURRICANE	US	abuse@he.net
+92.118.39.0	92.118.39.82	24	3871	PPTECHNOLOGY	GB	abuse@vegatele.com
+167.94.145.0	167.94.145.17	24	3798	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.23	24	3767	CENSYS-ARIN-02	US	None
+185.224.128.0	185.224.128.17	24	3641	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+176.111.174.0	176.111.174.111	24	3286	-	-	-
+193.142.146.0	193.142.146.35	24	2985	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+80.82.77.0	80.82.77.33	24	2716	INT-NETWORK	SC	abuse@ipvolume.net
+146.88.240.0	146.88.240.4	24	2709	ARBOR	US	hostmaster@arbor.net
+85.217.144.0	85.217.144.52	24	2562	-	-	-
+183.136.225.0	183.136.225.32	24	2522	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+212.70.149.0	212.70.149.46	24	2493	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+89.248.163.0	89.248.163.200	24	2454	INT-NETWORK	SC	abuse@ipvolume.net
