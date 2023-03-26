@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-26T09:00:25.411656
+#    updated: 2023-03-26T08:00:25.560673
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,10 +35,10 @@
 185.156.73.0	185.156.73.107	24	4247	SIBIRINVEST	NL	qwalarty@ukr.net
 64.62.197.0	64.62.197.143	24	3962	HURRICANE	US	abuse@he.net
 92.118.39.0	92.118.39.82	24	3894	PPTECHNOLOGY	GB	abuse@vegatele.com
-167.94.145.0	167.94.145.17	24	3814	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.74	24	3783	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.28	24	3814	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.23	24	3783	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.17	24	3683	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-176.111.174.0	176.111.174.107	24	3286	-	-	-
+176.111.174.0	176.111.174.95	24	3286	-	-	-
 193.142.146.0	193.142.146.35	24	3003	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 80.82.77.0	80.82.77.139	24	2731	INT-NETWORK	SC	abuse@ipvolume.net
 146.88.240.0	146.88.240.4	24	2709	ARBOR	US	hostmaster@arbor.net
