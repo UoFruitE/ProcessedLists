@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-30T11:00:27.756306
+#    updated: 2023-03-30T12:15:27.189910
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.52	24	9300	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.108	24	9196	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.193	24	9300	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.200	24	9196	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.2	24	8463	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.98	24	7355	-	-	-
 92.63.197.0	92.63.197.131	24	6576	SIBIRINVEST	NL	qwalarty@ukr.net
@@ -35,14 +35,14 @@
 167.248.133.0	167.248.133.162	24	5428	CENSYS-ARIN-03	US	None
 79.124.58.0	79.124.58.166	24	4473	TAMATIYA-AS	BG	noc@4vendeta.com
 183.136.225.0	183.136.225.5	24	4297	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-193.163.125.0	193.163.125.30	24	3823	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.12	24	3823	CYBER-CASA	GB	>>UNKNOWN<<
 185.156.73.0	185.156.73.57	24	3742	SIBIRINVEST	NL	qwalarty@ukr.net
 185.224.128.0	185.224.128.237	24	3673	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 64.62.197.0	64.62.197.99	24	3526	HURRICANE	US	abuse@he.net
-185.234.216.0	185.234.216.17	24	3360	REDLINE-AS	UA	abuse@openitc.co.uk
+185.234.216.0	185.234.216.17	24	3361	REDLINE-AS	UA	abuse@openitc.co.uk
 80.82.77.0	80.82.77.144	24	3236	INT-NETWORK	SC	abuse@ipvolume.net
 80.66.83.0	80.66.83.55	24	3026	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 185.81.68.0	185.81.68.253	24	2593	SELECTEL-MSK	RU	abuse@selectel.ru
 146.88.240.0	146.88.240.4	24	2456	ARBOR	US	hostmaster@arbor.net
-212.70.149.0	212.70.149.10	24	2289	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+212.70.149.0	212.70.149.46	24	2289	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 85.217.144.0	85.217.144.173	24	2161	-	-	-
