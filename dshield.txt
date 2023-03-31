@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-30T21:30:20.596537
+#    updated: 2023-03-30T22:30:21.165305
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.14	24	8996	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.200	24	8782	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.104	24	8997	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.200	24	8793	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.54	24	8193	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.111	24	7752	-	-	-
-92.63.197.0	92.63.197.157	24	6001	SIBIRINVEST	NL	qwalarty@ukr.net
-185.234.216.0	185.234.216.16	24	5894	REDLINE-AS	UA	abuse@openitc.co.uk
-167.248.133.0	167.248.133.147	24	4496	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.159	24	4478	CENSYS-ARIN-01	US	None
-79.124.58.0	79.124.58.146	24	3464	TAMATIYA-AS	BG	noc@4vendeta.com
-183.136.225.0	183.136.225.42	24	3384	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+176.111.174.0	176.111.174.112	24	7753	-	-	-
+92.63.197.0	92.63.197.149	24	6001	SIBIRINVEST	NL	qwalarty@ukr.net
+185.234.216.0	185.234.216.10	24	5894	REDLINE-AS	UA	abuse@openitc.co.uk
+167.248.133.0	167.248.133.171	24	4501	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.159	24	4484	CENSYS-ARIN-01	US	None
+79.124.58.0	79.124.58.146	24	3465	TAMATIYA-AS	BG	noc@4vendeta.com
+183.136.225.0	183.136.225.42	24	3385	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 64.62.197.0	64.62.197.173	24	3360	HURRICANE	US	abuse@he.net
-185.156.73.0	185.156.73.154	24	3098	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.127	24	3090	CYBER-CASA	GB	>>UNKNOWN<<
-80.66.77.0	80.66.77.236	24	2465	-	-	-
-185.224.128.0	185.224.128.17	24	2353	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-185.81.68.0	185.81.68.253	24	2259	SELECTEL-MSK	RU	abuse@selectel.ru
+185.156.73.0	185.156.73.154	24	3101	SIBIRINVEST	NL	qwalarty@ukr.net
+193.163.125.0	193.163.125.127	24	3096	CYBER-CASA	GB	>>UNKNOWN<<
+80.66.77.0	80.66.77.236	24	2468	-	-	-
+185.224.128.0	185.224.128.17	24	2355	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+146.88.240.0	146.88.240.4	24	2342	ARBOR	US	hostmaster@arbor.net
+185.81.68.0	185.81.68.253	24	2260	SELECTEL-MSK	RU	abuse@selectel.ru
 212.70.149.0	212.70.149.10	24	1931	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-80.66.83.0	80.66.83.104	24	1864	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+80.66.83.0	80.66.83.104	24	1894	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 85.217.144.0	85.217.144.52	24	1649	-	-	-
-5.8.18.0	5.8.18.30	24	1572	INT-NETWORK	SC	abuse@ipvolume.net
