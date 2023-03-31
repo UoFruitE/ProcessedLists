@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-03-31T08:00:25.863955
+#    updated: 2023-03-31T09:00:26.545419
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,9 +26,9 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.193	24	9257	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.14	24	9257	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.200	24	9125	INT-NETWORK	SC	abuse@ipvolume.net
-94.102.61.0	94.102.61.53	24	8687	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.41	24	8687	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.88	24	8270	-	-	-
 92.63.197.0	92.63.197.149	24	6584	SIBIRINVEST	NL	qwalarty@ukr.net
 185.234.216.0	185.234.216.10	24	6490	REDLINE-AS	UA	abuse@openitc.co.uk
@@ -44,5 +44,5 @@
 185.81.68.0	185.81.68.253	24	2586	SELECTEL-MSK	RU	abuse@selectel.ru
 146.88.240.0	146.88.240.4	24	2391	ARBOR	US	hostmaster@arbor.net
 212.70.149.0	212.70.149.10	24	2168	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-80.66.83.0	80.66.83.20	24	2063	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+80.66.83.0	80.66.83.104	24	2063	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 205.210.31.0	205.210.31.145	24	1914	GOOGLE-CLOUD-PLATFORM	US	None
