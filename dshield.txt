@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-02T08:30:01.660885
+#    updated: 2023-04-02T09:45:28.379676
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.104	24	9265	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.194	24	9265	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.24	24	9218	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.37	24	8662	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.81	24	8547	-	-	-
-185.234.216.0	185.234.216.19	24	6927	REDLINE-AS	UA	abuse@openitc.co.uk
-92.63.197.0	92.63.197.131	24	5671	SIBIRINVEST	NL	qwalarty@ukr.net
+185.234.216.0	185.234.216.17	24	6927	REDLINE-AS	UA	abuse@openitc.co.uk
+92.63.197.0	92.63.197.157	24	5671	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.138.0	167.94.138.146	24	5322	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.171	24	5301	CENSYS-ARIN-03	US	None
-183.136.225.0	183.136.225.43	24	4028	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-185.156.73.0	185.156.73.154	24	3767	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.129	24	5301	CENSYS-ARIN-03	US	None
+183.136.225.0	183.136.225.9	24	4028	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+185.156.73.0	185.156.73.107	24	3767	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.99	24	3704	CYBER-CASA	GB	>>UNKNOWN<<
 78.128.113.0	78.128.113.102	24	3656	MITI2000	BG	>>UNKNOWN<<
 64.62.197.0	64.62.197.59	24	3318	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.77	24	3309	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.19	24	3226	CENSYS-ARIN-02	US	None
 80.66.77.0	80.66.77.235	24	3021	-	-	-
-80.66.83.0	80.66.83.104	24	2793	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+80.66.83.0	80.66.83.104	24	2794	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 5.8.18.0	5.8.18.8	24	2760	INT-NETWORK	SC	abuse@ipvolume.net
-185.81.68.0	185.81.68.102	24	2640	SELECTEL-MSK	RU	abuse@selectel.ru
-79.124.58.0	79.124.58.166	24	2586	TAMATIYA-AS	BG	noc@4vendeta.com
+185.81.68.0	185.81.68.102	24	2641	SELECTEL-MSK	RU	abuse@selectel.ru
+79.124.58.0	79.124.58.166	24	2588	TAMATIYA-AS	BG	noc@4vendeta.com
