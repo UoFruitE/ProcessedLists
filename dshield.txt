@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-12T06:00:27.627156
+#    updated: 2023-04-12T07:00:26.794943
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,10 +38,10 @@
 183.136.225.0	183.136.225.32	24	4551	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 185.156.73.0	185.156.73.107	24	4544	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.128	24	3925	CYBER-CASA	GB	>>UNKNOWN<<
-92.63.197.0	92.63.197.153	24	3901	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.82	24	3901	SIBIRINVEST	NL	qwalarty@ukr.net
 78.128.113.0	78.128.113.250	24	3764	MITI2000	BG	>>UNKNOWN<<
 64.62.197.0	64.62.197.119	24	3706	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.19	24	3668	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.30	24	3668	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.17	24	3569	CENSYS-ARIN-02	US	None
 212.70.149.0	212.70.149.138	24	3416	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 5.8.18.0	5.8.18.8	24	3231	INT-NETWORK	SC	abuse@ipvolume.net
