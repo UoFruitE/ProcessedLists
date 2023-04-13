@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-13T12:15:33.016204
+#    updated: 2023-04-13T13:15:33.233184
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,22 +26,22 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.104	24	9469	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.91	24	8807	-	-	-
-94.102.61.0	94.102.61.48	24	8172	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.103	24	9469	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.91	24	8808	-	-	-
+94.102.61.0	94.102.61.28	24	8172	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.163	24	5673	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.131	24	5590	CENSYS-ARIN-01	US	None
 185.156.73.0	185.156.73.53	24	5402	SIBIRINVEST	NL	qwalarty@ukr.net
-89.248.163.0	89.248.163.189	24	4868	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.189	24	4869	INT-NETWORK	SC	abuse@ipvolume.net
 79.124.58.0	79.124.58.146	24	4729	TAMATIYA-AS	BG	noc@4vendeta.com
 183.136.225.0	183.136.225.32	24	4582	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 78.128.113.0	78.128.113.46	24	3990	MITI2000	BG	>>UNKNOWN<<
 193.163.125.0	193.163.125.71	24	3986	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.51	24	3874	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.75	24	3702	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.26	24	3702	CENSYS-ARIN-02	US	None
 92.63.197.0	92.63.197.149	24	3651	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.145.0	167.94.145.30	24	3644	CENSYS-ARIN-02	US	None
-212.70.149.0	212.70.149.34	24	3392	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+212.70.149.0	212.70.149.34	24	3393	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 5.8.18.0	5.8.18.8	24	3389	INT-NETWORK	SC	abuse@ipvolume.net
 91.191.209.0	91.191.209.190	24	3103	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 193.35.18.0	193.35.18.12	24	3060	-	-	-
