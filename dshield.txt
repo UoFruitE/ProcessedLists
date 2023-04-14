@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-14T11:00:32.110079
+#    updated: 2023-04-14T12:15:31.210843
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 89.248.165.0	89.248.165.187	24	9476	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.112	24	7265	-	-	-
 94.102.61.0	94.102.61.30	24	7098	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.153	24	5715	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.153	24	5716	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.105	24	5650	CENSYS-ARIN-01	US	None
 185.156.73.0	185.156.73.121	24	4710	SIBIRINVEST	NL	qwalarty@ukr.net
 89.248.163.0	89.248.163.148	24	4662	INT-NETWORK	SC	abuse@ipvolume.net
@@ -44,5 +44,5 @@
 167.94.145.0	167.94.145.25	24	3632	CENSYS-ARIN-02	US	None
 91.191.209.0	91.191.209.198	24	2968	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 185.224.128.0	185.224.128.213	24	2815	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-205.210.31.0	205.210.31.141	24	2710	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.141	24	2711	GOOGLE-CLOUD-PLATFORM	US	None
 146.88.240.0	146.88.240.4	24	2694	ARBOR	US	hostmaster@arbor.net
