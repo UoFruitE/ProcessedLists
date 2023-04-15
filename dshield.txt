@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-15T06:00:30.109969
+#    updated: 2023-04-15T07:00:29.388308
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,12 +26,12 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.184	24	9403	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.195	24	9403	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.74	24	8689	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.81	24	7875	-	-	-
-94.102.61.0	94.102.61.30	24	6464	INT-NETWORK	SC	abuse@ipvolume.net
-92.63.197.0	92.63.197.149	24	5415	SIBIRINVEST	NL	qwalarty@ukr.net
-185.156.73.0	185.156.73.57	24	5338	SIBIRINVEST	NL	qwalarty@ukr.net
+176.111.174.0	176.111.174.97	24	7875	-	-	-
+94.102.61.0	94.102.61.40	24	6464	INT-NETWORK	SC	abuse@ipvolume.net
+92.63.197.0	92.63.197.157	24	5415	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.154	24	5338	SIBIRINVEST	NL	qwalarty@ukr.net
 167.248.133.0	167.248.133.140	24	5335	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.137	24	5255	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.46	24	5125	GOOGLE-CLOUD-PLATFORM	US	None
@@ -40,9 +40,9 @@
 212.70.149.0	212.70.149.138	24	4067	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 193.163.125.0	193.163.125.223	24	3827	CYBER-CASA	GB	>>UNKNOWN<<
 154.89.5.0	154.89.5.48	24	3769	MULTA-ASN1	US	abuse@multacom.com
-167.94.145.0	167.94.145.23	24	3481	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.25	24	3422	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.27	24	3481	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.27	24	3422	CENSYS-ARIN-02	US	None
 78.128.113.0	78.128.113.250	24	3382	MITI2000	BG	>>UNKNOWN<<
 64.62.197.0	64.62.197.125	24	3374	HURRICANE	US	abuse@he.net
-79.124.58.0	79.124.58.146	24	3252	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.58.0	79.124.58.130	24	3252	TAMATIYA-AS	BG	noc@4vendeta.com
 185.224.128.0	185.224.128.106	24	3162	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
