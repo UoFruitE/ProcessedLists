@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-16T07:00:29.407203
+#    updated: 2023-04-16T08:00:28.766606
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.59	24	9426	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.148	24	8722	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.81	24	8555	-	-	-
-94.102.61.0	94.102.61.28	24	7853	INT-NETWORK	SC	abuse@ipvolume.net
-92.63.197.0	92.63.197.157	24	7177	SIBIRINVEST	NL	qwalarty@ukr.net
-185.156.73.0	185.156.73.107	24	6516	SIBIRINVEST	NL	qwalarty@ukr.net
-167.248.133.0	167.248.133.158	24	5290	CENSYS-ARIN-03	US	None
+89.248.165.0	89.248.165.104	24	9426	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.144	24	8722	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.91	24	8555	-	-	-
+94.102.61.0	94.102.61.6	24	7853	INT-NETWORK	SC	abuse@ipvolume.net
+92.63.197.0	92.63.197.153	24	7177	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.107	24	6517	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.162	24	5290	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.152	24	5259	CENSYS-ARIN-01	US	None
 212.70.149.0	212.70.149.138	24	4686	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 194.26.135.0	194.26.135.109	24	4249	ASBAXETN	RU	radu.rcg@gmail.com
 183.136.225.0	183.136.225.46	24	4243	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.234	24	3811	CYBER-CASA	GB	>>UNKNOWN<<
 91.191.209.0	91.191.209.198	24	3662	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
-167.94.145.0	167.94.145.28	24	3414	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.19	24	3414	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.171	24	3400	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.65	24	3376	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.22	24	3376	CENSYS-ARIN-02	US	None
 78.128.113.0	78.128.113.78	24	3253	MITI2000	BG	>>UNKNOWN<<
-80.66.77.0	80.66.77.238	24	3221	-	-	-
+80.66.77.0	80.66.77.236	24	3221	-	-	-
 79.124.58.0	79.124.58.146	24	2899	TAMATIYA-AS	BG	noc@4vendeta.com
 79.124.56.0	79.124.56.190	24	2809	TAMATIYA-AS	BG	noc@4vendeta.com
