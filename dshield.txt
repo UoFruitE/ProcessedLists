@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-21T04:45:34.416099
+#    updated: 2023-04-21T06:00:34.833881
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.186	24	9168	INT-NETWORK	SC	abuse@ipvolume.net
-94.102.61.0	94.102.61.41	24	8265	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.95	24	8085	-	-	-
-35.203.211.0	35.203.211.197	24	7347	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.171	24	7302	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.78	24	7290	GOOGLE	US	network-abuse@google.com
+89.248.165.0	89.248.165.118	24	9168	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.47	24	8267	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.88	24	8085	-	-	-
+35.203.211.0	35.203.211.216	24	7347	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.16	24	7302	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.161	24	7291	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.191	24	7278	GOOGLE	US	network-abuse@google.com
-92.63.197.0	92.63.197.153	24	6604	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.94	24	6604	SIBIRINVEST	NL	qwalarty@ukr.net
 198.235.24.0	198.235.24.74	24	5196	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.58	24	5056	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.164	24	4892	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.124	24	4892	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.98	24	4815	CENSYS-ARIN-01	US	None
-183.136.225.0	183.136.225.42	24	4319	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.9	24	4319	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 89.248.163.0	89.248.163.200	24	4201	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.154	24	3881	SIBIRINVEST	NL	qwalarty@ukr.net
+185.156.73.0	185.156.73.57	24	3881	SIBIRINVEST	NL	qwalarty@ukr.net
 212.70.149.0	212.70.149.138	24	3852	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-193.163.125.0	193.163.125.218	24	3378	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.37	24	3378	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.150	24	3228	HURRICANE	US	abuse@he.net
-78.128.113.0	78.128.113.102	24	3185	MITI2000	BG	>>UNKNOWN<<
+78.128.113.0	78.128.113.78	24	3185	MITI2000	BG	>>UNKNOWN<<
 79.124.58.0	79.124.58.158	24	3131	TAMATIYA-AS	BG	noc@4vendeta.com
