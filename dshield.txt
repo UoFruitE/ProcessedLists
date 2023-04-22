@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-04-22T03:45:28.022069
+#    updated: 2023-04-22T04:30:27.817913
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 89.248.165.0	89.248.165.118	24	9082	INT-NETWORK	SC	abuse@ipvolume.net
-94.102.61.0	94.102.61.41	24	8372	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.105	24	8080	-	-	-
-89.248.163.0	89.248.163.189	24	7135	INT-NETWORK	SC	abuse@ipvolume.net
-35.203.211.0	35.203.211.247	24	7127	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.157	24	7115	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.170	24	7094	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.34	24	6935	GOOGLE	US	network-abuse@google.com
-92.63.197.0	92.63.197.131	24	5806	SIBIRINVEST	NL	qwalarty@ukr.net
+94.102.61.0	94.102.61.46	24	8372	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.84	24	8080	-	-	-
+89.248.163.0	89.248.163.189	24	7136	INT-NETWORK	SC	abuse@ipvolume.net
+35.203.211.0	35.203.211.226	24	7127	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.183	24	7115	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.74	24	7094	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.134	24	6935	GOOGLE	US	network-abuse@google.com
+92.63.197.0	92.63.197.149	24	5806	SIBIRINVEST	NL	qwalarty@ukr.net
 198.235.24.0	198.235.24.232	24	5687	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.183	24	5584	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.154	24	4831	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.151	24	4832	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.125	24	4714	CENSYS-ARIN-01	US	None
-183.136.225.0	183.136.225.43	24	4393	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.9	24	4394	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 185.156.73.0	185.156.73.107	24	3969	SIBIRINVEST	NL	qwalarty@ukr.net
-212.70.149.0	212.70.149.138	24	3937	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+212.70.149.0	212.70.149.138	24	3938	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 79.124.58.0	79.124.58.166	24	3430	TAMATIYA-AS	BG	noc@4vendeta.com
-193.163.125.0	193.163.125.103	24	3190	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.103	24	3191	CYBER-CASA	GB	>>UNKNOWN<<
 185.224.128.0	185.224.128.15	24	3182	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 64.62.197.0	64.62.197.39	24	3175	HURRICANE	US	abuse@he.net
