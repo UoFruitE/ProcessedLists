@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-01T13:15:27.104982
+#    updated: 2023-05-01T14:15:27.445874
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,21 +26,21 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.162	24	9600	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.187	24	9281	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.108	24	9600	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.22	24	9281	INT-NETWORK	SC	abuse@ipvolume.net
 104.156.155.0	104.156.155.5	24	8203	ACDRESEARCH	US	None
-176.111.174.0	176.111.174.98	24	7934	-	-	-
-94.102.61.0	94.102.61.3	24	7062	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.82	24	6586	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.23	24	6504	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.120	24	6484	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.155	24	6459	GOOGLE	US	network-abuse@google.com
+176.111.174.0	176.111.174.91	24	7934	-	-	-
+94.102.61.0	94.102.61.54	24	7062	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.150.0	162.216.150.36	24	6586	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.4	24	6504	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.141	24	6484	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.107	24	6459	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.225	24	4813	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.72	24	4782	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.128	24	4061	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.159	24	4061	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.52	24	3912	CENSYS-ARIN-01	US	None
-78.128.113.0	78.128.113.78	24	3433	MITI2000	BG	>>UNKNOWN<<
-183.136.225.0	183.136.225.9	24	3395	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+78.128.113.0	78.128.113.54	24	3433	MITI2000	BG	>>UNKNOWN<<
+183.136.225.0	183.136.225.5	24	3395	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 91.191.209.0	91.191.209.218	24	3290	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 185.156.73.0	185.156.73.154	24	3257	SIBIRINVEST	NL	qwalarty@ukr.net
 212.70.149.0	212.70.149.138	24	3114	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
