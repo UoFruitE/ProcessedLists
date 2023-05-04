@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-04T10:00:29.241077
+#    updated: 2023-05-04T11:00:28.583752
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.85	24	9455	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.33	24	9380	INT-NETWORK	SC	abuse@ipvolume.net
-94.102.61.0	94.102.61.40	24	7683	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.221	24	9455	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.30	24	9380	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.50	24	7683	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.112	24	7385	-	-	-
 198.235.24.0	198.235.24.123	24	5529	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.171	24	5429	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.159	24	4823	CENSYS-ARIN-03	US	None
+205.210.31.0	205.210.31.135	24	5429	GOOGLE-CLOUD-PLATFORM	US	None
+167.248.133.0	167.248.133.166	24	4823	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.135	24	4781	CENSYS-ARIN-01	US	None
-92.63.197.0	92.63.197.149	24	4470	SIBIRINVEST	NL	qwalarty@ukr.net
-183.136.225.0	183.136.225.5	24	4360	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+92.63.197.0	92.63.197.153	24	4470	SIBIRINVEST	NL	qwalarty@ukr.net
+183.136.225.0	183.136.225.46	24	4360	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 91.191.209.0	91.191.209.26	24	4354	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 104.156.155.0	104.156.155.6	24	4339	ACDRESEARCH	US	None
-78.128.113.0	78.128.113.106	24	4138	MITI2000	BG	>>UNKNOWN<<
-193.163.125.0	193.163.125.73	24	3338	CYBER-CASA	GB	>>UNKNOWN<<
-162.216.150.0	162.216.150.217	24	3259	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.178	24	3213	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.75	24	3165	GOOGLE	US	network-abuse@google.com
+78.128.113.0	78.128.113.78	24	4138	MITI2000	BG	>>UNKNOWN<<
+193.163.125.0	193.163.125.17	24	3338	CYBER-CASA	GB	>>UNKNOWN<<
+162.216.150.0	162.216.150.217	24	3261	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.178	24	3215	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.75	24	3167	GOOGLE	US	network-abuse@google.com
 64.62.197.0	64.62.197.145	24	3103	HURRICANE	US	abuse@he.net
+35.203.210.0	35.203.210.20	24	3091	GOOGLE	US	network-abuse@google.com
 79.124.56.0	79.124.56.190	24	3089	TAMATIYA-AS	BG	noc@4vendeta.com
-35.203.210.0	35.203.210.20	24	3088	GOOGLE	US	network-abuse@google.com
