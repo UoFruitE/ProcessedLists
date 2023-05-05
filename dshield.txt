@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-05T04:00:28.127469
+#    updated: 2023-05-05T05:00:29.750694
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,21 +26,21 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.85	24	9199	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.16	24	9103	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.59	24	9199	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.64	24	9103	INT-NETWORK	SC	abuse@ipvolume.net
 104.156.155.0	104.156.155.9	24	8144	ACDRESEARCH	US	None
-162.216.150.0	162.216.150.196	24	7798	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.249	24	7798	GOOGLE	US	network-abuse@google.com
 176.111.174.0	176.111.174.82	24	7742	-	-	-
-162.216.149.0	162.216.149.244	24	7705	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.24	24	7673	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.110	24	7667	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.38	24	7183	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.149.0	162.216.149.131	24	7705	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.118	24	7673	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.154	24	7667	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.21	24	7183	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.90	24	4724	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.40	24	4537	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.152	24	4020	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.37	24	4010	CENSYS-ARIN-03	US	None
-78.128.113.0	78.128.113.102	24	3559	MITI2000	BG	>>UNKNOWN<<
-183.136.225.0	183.136.225.10	24	3531	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+205.210.31.0	205.210.31.132	24	4537	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.138.0	167.94.138.152	24	4021	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.161	24	4010	CENSYS-ARIN-03	US	None
+78.128.113.0	78.128.113.78	24	3560	MITI2000	BG	>>UNKNOWN<<
+183.136.225.0	183.136.225.5	24	3531	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 194.26.135.0	194.26.135.29	24	3443	ASBAXETN	RU	radu.rcg@gmail.com
 92.63.197.0	92.63.197.157	24	3416	SIBIRINVEST	NL	qwalarty@ukr.net
 91.191.209.0	91.191.209.190	24	3415	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
