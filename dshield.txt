@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-05T16:30:17.544980
+#    updated: 2023-05-05T15:30:16.021503
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.56	24	8788	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.100	24	8438	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.200	24	8787	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.40	24	8434	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.109	24	6162	-	-	-
-94.102.61.0	94.102.61.4	24	5768	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.90	24	5409	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.130	24	5225	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.64	24	5189	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.45	24	5179	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.198	24	3417	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.218	24	3312	GOOGLE-CLOUD-PLATFORM	US	None
-45.134.144.0	45.134.144.235	24	3264	HUSAM-NETWORK	NL	witechcom.1@gmail.com
-167.94.138.0	167.94.138.154	24	2729	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.163	24	2698	CENSYS-ARIN-03	US	None
-194.26.135.0	194.26.135.85	24	2634	ASBAXETN	RU	radu.rcg@gmail.com
-78.128.113.0	78.128.113.54	24	2408	MITI2000	BG	>>UNKNOWN<<
-64.62.197.0	64.62.197.103	24	2297	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.9	24	2296	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-91.191.209.0	91.191.209.218	24	2072	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
+94.102.61.0	94.102.61.50	24	5759	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.150.0	162.216.150.90	24	5405	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.104	24	5223	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.171	24	5186	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.199	24	5178	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.198	24	3416	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.237	24	3311	GOOGLE-CLOUD-PLATFORM	US	None
+45.134.144.0	45.134.144.235	24	3262	HUSAM-NETWORK	NL	witechcom.1@gmail.com
+167.94.138.0	167.94.138.154	24	2720	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.128	24	2690	CENSYS-ARIN-03	US	None
+194.26.135.0	194.26.135.85	24	2613	ASBAXETN	RU	radu.rcg@gmail.com
+78.128.113.0	78.128.113.102	24	2402	MITI2000	BG	>>UNKNOWN<<
+183.136.225.0	183.136.225.9	24	2285	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+64.62.197.0	64.62.197.103	24	2280	HURRICANE	US	abuse@he.net
+91.191.209.0	91.191.209.218	24	2068	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 185.81.68.0	185.81.68.102	24	1984	SELECTEL-MSK	RU	abuse@selectel.ru
-185.233.19.0	185.233.19.92	24	1979	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.98	24	1970	WINDSTREAM	US	abuse@windstream.net
