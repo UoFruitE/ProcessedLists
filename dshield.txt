@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-06T04:45:27.471791
+#    updated: 2023-05-06T03:45:27.993986
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.56	24	9559	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.118	24	9396	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.77	24	9559	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.118	24	9395	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.109	24	7855	-	-	-
-94.102.61.0	94.102.61.7	24	7528	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.202	24	7244	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.240	24	7130	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.39	24	7527	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.150.0	162.216.150.247	24	7244	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.62	24	7130	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.45	24	7088	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.252	24	7072	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.164	24	4798	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.210.0	35.203.210.171	24	7072	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.123	24	4797	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.218	24	4649	GOOGLE-CLOUD-PLATFORM	US	None
-45.134.144.0	45.134.144.235	24	4263	HUSAM-NETWORK	NL	witechcom.1@gmail.com
+45.134.144.0	45.134.144.235	24	4262	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 167.94.138.0	167.94.138.141	24	4089	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.139	24	4081	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.148	24	4081	CENSYS-ARIN-03	US	None
 194.26.135.0	194.26.135.85	24	4045	ASBAXETN	RU	radu.rcg@gmail.com
-78.128.113.0	78.128.113.78	24	3805	MITI2000	BG	>>UNKNOWN<<
-183.136.225.0	183.136.225.9	24	3520	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-185.233.19.0	185.233.19.98	24	3433	WINDSTREAM	US	abuse@windstream.net
+78.128.113.0	78.128.113.78	24	3803	MITI2000	BG	>>UNKNOWN<<
+183.136.225.0	183.136.225.5	24	3520	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+185.233.19.0	185.233.19.92	24	3427	WINDSTREAM	US	abuse@windstream.net
 91.191.209.0	91.191.209.218	24	3312	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 185.81.68.0	185.81.68.102	24	2990	SELECTEL-MSK	RU	abuse@selectel.ru
-193.163.125.0	193.163.125.227	24	2737	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.227	24	2736	CYBER-CASA	GB	>>UNKNOWN<<
