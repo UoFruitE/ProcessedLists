@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-08T12:45:43.409914
+#    updated: 2023-05-08T11:45:42.462508
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,11 +26,11 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.30	24	9677	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.16	24	9677	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.85	24	9402	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.98	24	8016	-	-	-
 94.102.61.0	94.102.61.3	24	7522	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.92	24	5898	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.170	24	5898	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.207	24	5876	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.158	24	5865	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.212	24	5794	GOOGLE	US	network-abuse@google.com
@@ -40,7 +40,7 @@
 92.63.197.0	92.63.197.153	24	4238	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.138.0	167.94.138.147	24	4206	CENSYS-ARIN-01	US	None
 78.128.113.0	78.128.113.102	24	3908	MITI2000	BG	>>UNKNOWN<<
-91.191.209.0	91.191.209.190	24	3764	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
+91.191.209.0	91.191.209.218	24	3764	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 45.134.144.0	45.134.144.235	24	3657	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 183.136.225.0	183.136.225.43	24	3592	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.202	24	3025	CYBER-CASA	GB	>>UNKNOWN<<
