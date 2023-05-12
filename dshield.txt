@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-12T07:00:31.284741
+#    updated: 2023-05-12T08:00:31.487408
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.169	24	9663	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.71	24	9663	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.186	24	9245	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.91	24	8025	-	-	-
 94.102.61.0	94.102.61.31	24	7629	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.135	24	7347	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.66	24	7335	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.7	24	7233	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.69	24	7347	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.189	24	7335	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.188	24	7233	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.127	24	7170	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.127	24	4909	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.238	24	4755	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.146	24	4274	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.157	24	4229	CENSYS-ARIN-03	US	None
 94.102.49.0	94.102.49.28	24	3665	INT-NETWORK	SC	abuse@ipvolume.net
-185.233.19.0	185.233.19.94	24	3176	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.30	24	3176	WINDSTREAM	US	abuse@windstream.net
 193.163.125.0	193.163.125.225	24	2956	CYBER-CASA	GB	>>UNKNOWN<<
 183.136.225.0	183.136.225.5	24	2879	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-78.128.113.0	78.128.113.102	24	2819	MITI2000	BG	>>UNKNOWN<<
+78.128.113.0	78.128.113.250	24	2819	MITI2000	BG	>>UNKNOWN<<
 91.191.209.0	91.191.209.198	24	2810	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
-167.94.146.0	167.94.146.67	24	2737	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.71	24	2737	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.207	24	2727	HURRICANE	US	abuse@he.net
