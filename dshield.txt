@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-17T07:00:27.256697
+#    updated: 2023-05-17T08:00:27.448691
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,12 +27,12 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 89.248.163.0	89.248.163.165	24	9615	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.242	24	9207	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.184	24	9207	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.109	24	8449	-	-	-
-94.102.61.0	94.102.61.41	24	8356	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.47	24	8356	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.192	24	5941	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.166	24	5656	GOOGLE-CLOUD-PLATFORM	US	None
-92.63.197.0	92.63.197.157	24	5234	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.131	24	5234	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.138.0	167.94.138.140	24	5188	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.137	24	5180	CENSYS-ARIN-03	US	None
 185.156.73.0	185.156.73.91	24	4613	SIBIRINVEST	NL	qwalarty@ukr.net
