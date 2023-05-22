@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-22T10:00:29.891286
+#    updated: 2023-05-22T11:00:29.402507
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.163.0	89.248.163.16	24	9596	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.86	24	8431	-	-	-
-94.102.61.0	94.102.61.4	24	8355	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.165.0	89.248.165.221	24	8284	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.224	24	6926	GOOGLE	US	network-abuse@google.com
+89.248.163.0	89.248.163.165	24	9596	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.91	24	8431	-	-	-
+94.102.61.0	94.102.61.5	24	8355	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.66	24	8284	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.150.0	162.216.150.165	24	6926	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.203	24	6806	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.204	24	6797	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.97	24	6755	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.253	24	6755	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.168	24	5533	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.99	24	5399	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.134	24	4821	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.140	24	4820	CENSYS-ARIN-03	US	None
 185.233.19.0	185.233.19.68	24	3659	WINDSTREAM	US	abuse@windstream.net
-79.124.59.0	79.124.59.254	24	3497	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.59.0	79.124.59.130	24	3497	TAMATIYA-AS	BG	noc@4vendeta.com
 193.163.125.0	193.163.125.251	24	3348	CYBER-CASA	GB	>>UNKNOWN<<
 183.136.225.0	183.136.225.9	24	3327	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 79.124.56.0	79.124.56.190	24	3052	TAMATIYA-AS	BG	noc@4vendeta.com
 64.62.197.0	64.62.197.22	24	2965	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.16	24	2951	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.21	24	2940	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.25	24	2951	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.57	24	2940	CENSYS-ARIN-02	US	None
