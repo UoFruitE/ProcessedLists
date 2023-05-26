@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-26T10:00:29.325301
+#    updated: 2023-05-26T11:00:29.316232
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.57	24	9125	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.168	24	8585	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.84	24	8384	-	-	-
-162.216.150.0	162.216.150.8	24	7869	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.40	24	7829	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.149.0	162.216.149.123	24	7791	GOOGLE	US	network-abuse@google.com
+89.248.165.0	89.248.165.186	24	9125	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.245	24	8585	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.97	24	8384	-	-	-
+162.216.150.0	162.216.150.105	24	7869	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.44	24	7829	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.149.0	162.216.149.159	24	7791	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.161	24	7694	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.86	24	7640	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.13	24	7640	GOOGLE	US	network-abuse@google.com
 91.148.190.0	91.148.190.130	24	6073	-	-	-
 198.235.24.0	198.235.24.178	24	5593	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.78	24	5288	GOOGLE-CLOUD-PLATFORM	US	None
-92.63.197.0	92.63.197.94	24	4908	SIBIRINVEST	NL	qwalarty@ukr.net
+205.210.31.0	205.210.31.64	24	5288	GOOGLE-CLOUD-PLATFORM	US	None
+92.63.197.0	92.63.197.149	24	4908	SIBIRINVEST	NL	qwalarty@ukr.net
 167.248.133.0	167.248.133.144	24	4808	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.138	24	4756	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.133	24	4756	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.173	24	3362	CYBER-CASA	GB	>>UNKNOWN<<
 183.136.225.0	183.136.225.9	24	3353	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 79.124.59.0	79.124.59.130	24	3339	TAMATIYA-AS	BG	noc@4vendeta.com
 64.62.197.0	64.62.197.202	24	3264	HURRICANE	US	abuse@he.net
-45.134.144.0	45.134.144.212	24	3109	HUSAM-NETWORK	NL	witechcom.1@gmail.com
+45.134.144.0	45.134.144.212	24	3110	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 167.94.145.0	167.94.145.86	24	3042	CENSYS-ARIN-02	US	None
