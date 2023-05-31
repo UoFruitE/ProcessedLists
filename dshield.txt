@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-05-31T10:00:26.292171
+#    updated: 2023-05-31T11:15:25.740415
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.169	24	9580	INT-NETWORK	SC	abuse@ipvolume.net
-91.148.190.0	91.148.190.158	24	8976	-	-	-
+89.248.165.0	89.248.165.57	24	9580	INT-NETWORK	SC	abuse@ipvolume.net
+91.148.190.0	91.148.190.162	24	8976	-	-	-
 89.248.163.0	89.248.163.113	24	8815	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.27	24	8022	INT-NETWORK	SC	abuse@ipvolume.net
 176.111.174.0	176.111.174.82	24	6667	-	-	-
@@ -40,8 +40,8 @@
 62.122.184.0	62.122.184.195	24	3288	ASBAXETN	RU	radu.rcg@gmail.com
 193.163.125.0	193.163.125.201	24	3237	CYBER-CASA	GB	>>UNKNOWN<<
 79.124.59.0	79.124.59.130	24	3138	TAMATIYA-AS	BG	noc@4vendeta.com
-167.94.145.0	167.94.145.31	24	3048	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.77	24	3039	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.19	24	3048	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.27	24	3039	CENSYS-ARIN-02	US	None
 78.128.113.0	78.128.113.78	24	2856	MITI2000	BG	>>UNKNOWN<<
 64.62.197.0	64.62.197.143	24	2681	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.17	24	2576	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
