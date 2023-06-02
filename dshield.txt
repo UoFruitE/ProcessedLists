@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-02T06:00:36.655922
+#    updated: 2023-06-02T07:00:36.151409
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.57	24	9465	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.86	24	9465	INT-NETWORK	SC	abuse@ipvolume.net
 91.148.190.0	91.148.190.162	24	8595	-	-	-
-89.248.163.0	89.248.163.165	24	8451	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.110	24	7494	-	-	-
-94.102.61.0	94.102.61.54	24	7022	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.19	24	8451	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.112	24	7494	-	-	-
+94.102.61.0	94.102.61.49	24	7022	INT-NETWORK	SC	abuse@ipvolume.net
 162.216.149.0	162.216.149.171	24	6793	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.121	24	6778	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.210	24	6768	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.135	24	6778	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.6	24	6768	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.133	24	6725	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.39	24	4937	GOOGLE-CLOUD-PLATFORM	US	None
 92.63.197.0	92.63.197.149	24	4825	SIBIRINVEST	NL	qwalarty@ukr.net
 205.210.31.0	205.210.31.30	24	4792	GOOGLE-CLOUD-PLATFORM	US	None
-62.122.184.0	62.122.184.190	24	4447	ASBAXETN	RU	radu.rcg@gmail.com
-167.248.133.0	167.248.133.159	24	3955	CENSYS-ARIN-03	US	None
+62.122.184.0	62.122.184.195	24	4447	ASBAXETN	RU	radu.rcg@gmail.com
+167.248.133.0	167.248.133.172	24	3955	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.111	24	3944	CENSYS-ARIN-01	US	None
 183.136.225.0	183.136.225.5	24	3421	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-80.94.95.0	80.94.95.246	24	3397	DATACENTER	RO	>>UNKNOWN<<
+80.94.95.0	80.94.95.249	24	3397	DATACENTER	RO	>>UNKNOWN<<
 64.62.197.0	64.62.197.178	24	2742	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.70	24	2664	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.46	24	2664	CYBER-CASA	GB	>>UNKNOWN<<
 79.124.59.0	79.124.59.254	24	2574	TAMATIYA-AS	BG	noc@4vendeta.com
