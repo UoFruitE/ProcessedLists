@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-05T10:00:28.715030
+#    updated: 2023-06-05T11:00:28.873052
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 89.248.165.0	89.248.165.40	24	9494	INT-NETWORK	SC	abuse@ipvolume.net
-91.148.190.0	91.148.190.166	24	8961	-	-	-
-89.248.163.0	89.248.163.100	24	8924	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.95	24	8058	-	-	-
+91.148.190.0	91.148.190.158	24	8964	-	-	-
+89.248.163.0	89.248.163.131	24	8924	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.81	24	8058	-	-	-
 94.102.61.0	94.102.61.40	24	7444	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.22	24	6529	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.141	24	6493	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.85	24	6529	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.155	24	6493	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.64	24	6431	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.128	24	6424	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.101	24	5208	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.59	24	5009	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.138	24	4540	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.172	24	4540	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.148	24	4533	CENSYS-ARIN-01	US	None
-80.94.95.0	80.94.95.249	24	3936	DATACENTER	RO	>>UNKNOWN<<
+80.94.95.0	80.94.95.226	24	3936	DATACENTER	RO	>>UNKNOWN<<
 183.136.225.0	183.136.225.10	24	3813	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.63.197.0	92.63.197.94	24	3597	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.70	24	3598	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.195	24	3120	CYBER-CASA	GB	>>UNKNOWN<<
 62.122.184.0	62.122.184.191	24	3086	ASBAXETN	RU	radu.rcg@gmail.com
-167.94.146.0	167.94.146.22	24	3025	CENSYS-ARIN-02	US	None
-64.62.197.0	64.62.197.193	24	2936	HURRICANE	US	abuse@he.net
+167.94.146.0	167.94.146.19	24	3025	CENSYS-ARIN-02	US	None
+64.62.197.0	64.62.197.179	24	2936	HURRICANE	US	abuse@he.net
