@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-05T07:00:28.008010
+#    updated: 2023-06-05T08:00:28.265074
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,13 +26,13 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-89.248.165.0	89.248.165.40	24	9493	INT-NETWORK	SC	abuse@ipvolume.net
-91.148.190.0	91.148.190.162	24	8960	-	-	-
-89.248.163.0	89.248.163.131	24	8924	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.81	24	8058	-	-	-
+89.248.165.0	89.248.165.40	24	9494	INT-NETWORK	SC	abuse@ipvolume.net
+91.148.190.0	91.148.190.158	24	8961	-	-	-
+89.248.163.0	89.248.163.100	24	8924	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.84	24	8058	-	-	-
 94.102.61.0	94.102.61.40	24	7444	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.85	24	6529	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.249	24	6493	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.181	24	6529	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.213	24	6493	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.64	24	6431	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.128	24	6424	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.101	24	5208	GOOGLE-CLOUD-PLATFORM	US	None
@@ -42,7 +42,7 @@
 80.94.95.0	80.94.95.226	24	3936	DATACENTER	RO	>>UNKNOWN<<
 183.136.225.0	183.136.225.5	24	3813	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 92.63.197.0	92.63.197.94	24	3597	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.195	24	3120	CYBER-CASA	GB	>>UNKNOWN<<
-62.122.184.0	62.122.184.190	24	3086	ASBAXETN	RU	radu.rcg@gmail.com
+193.163.125.0	193.163.125.38	24	3120	CYBER-CASA	GB	>>UNKNOWN<<
+62.122.184.0	62.122.184.191	24	3086	ASBAXETN	RU	radu.rcg@gmail.com
 167.94.146.0	167.94.146.22	24	3025	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.193	24	2936	HURRICANE	US	abuse@he.net
