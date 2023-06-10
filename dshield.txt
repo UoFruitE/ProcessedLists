@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-10T14:15:43.024888
+#    updated: 2023-06-10T15:15:43.564367
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,9 +30,9 @@
 89.248.165.0	89.248.165.169	24	9339	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.167	24	8269	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.38	24	7747	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.79	24	7460	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.90	24	7460	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.82	24	7444	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.220	24	7412	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.42	24	7412	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.126	24	7403	GOOGLE	US	network-abuse@google.com
 176.111.174.0	176.111.174.112	24	5965	-	-	-
 198.235.24.0	198.235.24.176	24	5271	GOOGLE-CLOUD-PLATFORM	US	None
@@ -40,7 +40,7 @@
 167.248.133.0	167.248.133.153	24	4498	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.129	24	4365	CENSYS-ARIN-01	US	None
 183.136.225.0	183.136.225.10	24	3961	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-79.124.60.0	79.124.60.222	24	3642	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.60.0	79.124.60.218	24	3642	TAMATIYA-AS	BG	noc@4vendeta.com
 92.63.197.0	92.63.197.131	24	3546	SIBIRINVEST	NL	qwalarty@ukr.net
 185.156.73.0	185.156.73.150	24	3353	SIBIRINVEST	NL	qwalarty@ukr.net
 62.122.184.0	62.122.184.166	24	3152	ASBAXETN	RU	radu.rcg@gmail.com
