@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-14T09:00:34.927700
+#    updated: 2023-06-14T08:00:34.929337
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,9 +27,9 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 205.210.31.0	205.210.31.107	24	767	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.112	24	766	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.237	24	766	GOOGLE-CLOUD-PLATFORM	US	None
 64.62.197.0	64.62.197.178	24	759	HURRICANE	US	abuse@he.net
-45.128.232.0	45.128.232.67	24	753	PUREVOLTAGE-INC	US	admin@purevoltage.com
+45.128.232.0	45.128.232.141	24	753	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.224.128.0	185.224.128.17	24	748	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 167.248.133.0	167.248.133.137	24	747	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.128	24	738	CENSYS-ARIN-01	US	None
@@ -37,9 +37,9 @@
 193.163.125.0	193.163.125.130	24	734	CYBER-CASA	GB	>>UNKNOWN<<
 89.248.163.0	89.248.163.166	24	726	INT-NETWORK	SC	abuse@ipvolume.net
 94.102.61.0	94.102.61.53	24	721	INT-NETWORK	SC	abuse@ipvolume.net
-167.94.146.0	167.94.146.68	24	707	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.25	24	706	CENSYS-ARIN-02	US	None
-185.233.19.0	185.233.19.11	24	704	WINDSTREAM	US	abuse@windstream.net
+167.94.146.0	167.94.146.18	24	707	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.20	24	706	CENSYS-ARIN-02	US	None
+185.233.19.0	185.233.19.94	24	704	WINDSTREAM	US	abuse@windstream.net
 146.88.240.0	146.88.240.4	24	701	ARBOR	US	hostmaster@arbor.net
 89.248.165.0	89.248.165.45	24	698	INT-NETWORK	SC	abuse@ipvolume.net
 95.214.55.0	95.214.55.85	24	662	PL-SKYTECH-AS	PL	abuse@skynode.pl
