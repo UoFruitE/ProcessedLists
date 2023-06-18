@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-18T14:00:31.976848
+#    updated: 2023-06-18T15:00:31.466049
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,19 +27,19 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 198.235.24.0	198.235.24.167	24	758	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.38	24	755	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.38	24	756	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.58	24	751	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.80	24	737	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.163	24	733	CENSYS-ARIN-03	US	None
-162.216.150.0	162.216.150.44	24	728	GOOGLE	US	network-abuse@google.com
+167.94.138.0	167.94.138.80	24	739	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.163	24	735	CENSYS-ARIN-03	US	None
+162.216.150.0	162.216.150.106	24	728	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.112	24	727	GOOGLE	US	network-abuse@google.com
-183.136.225.0	183.136.225.5	24	725	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-35.203.211.0	35.203.211.43	24	723	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.120	24	716	GOOGLE	US	network-abuse@google.com
-193.163.125.0	193.163.125.10	24	697	CYBER-CASA	GB	>>UNKNOWN<<
-45.128.232.0	45.128.232.140	24	690	PUREVOLTAGE-INC	US	admin@purevoltage.com
-64.62.197.0	64.62.197.122	24	687	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.77	24	674	CENSYS-ARIN-02	US	None
+183.136.225.0	183.136.225.5	24	727	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+35.203.211.0	35.203.211.235	24	723	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.118	24	716	GOOGLE	US	network-abuse@google.com
+193.163.125.0	193.163.125.10	24	698	CYBER-CASA	GB	>>UNKNOWN<<
+45.128.232.0	45.128.232.141	24	691	PUREVOLTAGE-INC	US	admin@purevoltage.com
+64.62.197.0	64.62.197.11	24	689	HURRICANE	US	abuse@he.net
+167.94.146.0	167.94.146.64	24	674	CENSYS-ARIN-02	US	None
 89.248.165.0	89.248.165.193	24	659	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.145.0	167.94.145.31	24	658	CENSYS-ARIN-02	US	None
 185.233.19.0	185.233.19.92	24	658	WINDSTREAM	US	abuse@windstream.net
