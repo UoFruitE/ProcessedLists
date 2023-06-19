@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-19T11:45:30.223593
+#    updated: 2023-06-19T10:45:30.251280
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.162	24	757	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.226	24	757	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.135	24	754	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.156	24	749	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.144	24	749	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.149	24	736	CENSYS-ARIN-01	US	None
-162.216.149.0	162.216.149.119	24	727	GOOGLE	US	network-abuse@google.com
-64.62.197.0	64.62.197.103	24	726	HURRICANE	US	abuse@he.net
-94.102.61.0	94.102.61.2	24	726	INT-NETWORK	SC	abuse@ipvolume.net
-35.203.210.0	35.203.210.221	24	719	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.53	24	718	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.225	24	717	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.142	24	727	GOOGLE	US	network-abuse@google.com
+64.62.197.0	64.62.197.165	24	726	HURRICANE	US	abuse@he.net
+94.102.61.0	94.102.61.5	24	726	INT-NETWORK	SC	abuse@ipvolume.net
+35.203.210.0	35.203.210.118	24	719	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.10	24	718	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.27	24	717	GOOGLE	US	network-abuse@google.com
 183.136.225.0	183.136.225.42	24	708	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.145	24	695	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.30	24	678	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.22	24	678	CENSYS-ARIN-02	US	None
 109.207.200.0	109.207.200.44	24	677	MAXIMUMA-AS	UA	admin@maximuma.net
-167.94.146.0	167.94.146.72	24	673	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.25	24	673	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.121	24	672	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-89.248.165.0	89.248.165.186	24	668	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.238	24	668	INT-NETWORK	SC	abuse@ipvolume.net
 78.128.114.0	78.128.114.26	24	665	TAMATIYA-AS	BG	noc@4vendeta.com
-176.111.174.0	176.111.174.97	24	664	-	-	-
+176.111.174.0	176.111.174.152	24	664	-	-	-
 185.233.19.0	185.233.19.14	24	664	WINDSTREAM	US	abuse@windstream.net
