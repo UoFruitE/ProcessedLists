@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-19T16:45:30.796686
+#    updated: 2023-06-19T18:00:18.481175
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.8	24	757	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.135	24	754	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.144	24	751	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.149	24	739	CENSYS-ARIN-01	US	None
-94.102.61.0	94.102.61.39	24	729	INT-NETWORK	SC	abuse@ipvolume.net
-64.62.197.0	64.62.197.165	24	727	HURRICANE	US	abuse@he.net
-162.216.149.0	162.216.149.142	24	727	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.115	24	720	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.53	24	718	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.22	24	717	GOOGLE	US	network-abuse@google.com
-183.136.225.0	183.136.225.42	24	712	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-193.163.125.0	193.163.125.145	24	697	CYBER-CASA	GB	>>UNKNOWN<<
-109.207.200.0	109.207.200.44	24	680	MAXIMUMA-AS	UA	admin@maximuma.net
-167.94.145.0	167.94.145.28	24	680	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.59	24	675	CENSYS-ARIN-02	US	None
+64.62.197.0	64.62.197.157	24	703	HURRICANE	US	abuse@he.net
+205.210.31.0	205.210.31.30	24	697	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.28	24	691	INT-NETWORK	SC	abuse@ipvolume.net
+198.235.24.0	198.235.24.27	24	690	GOOGLE-CLOUD-PLATFORM	US	None
+167.248.133.0	167.248.133.151	24	682	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.146	24	680	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.121	24	674	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-89.248.165.0	89.248.165.169	24	669	INT-NETWORK	SC	abuse@ipvolume.net
-78.128.114.0	78.128.114.26	24	667	TAMATIYA-AS	BG	noc@4vendeta.com
-176.111.174.0	176.111.174.88	24	666	-	-	-
-185.233.19.0	185.233.19.14	24	666	WINDSTREAM	US	abuse@windstream.net
+183.136.225.0	183.136.225.42	24	663	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+89.248.165.0	89.248.165.186	24	642	INT-NETWORK	SC	abuse@ipvolume.net
+146.88.240.0	146.88.240.4	24	640	ARBOR	US	hostmaster@arbor.net
+45.155.91.0	45.155.91.76	24	637	DCNBSI-AS-AP DCTV Cable Network Broadband Services Inc	PH	abuse@dctv.com.ph
+193.163.125.0	193.163.125.167	24	628	CYBER-CASA	GB	>>UNKNOWN<<
+167.94.146.0	167.94.146.28	24	613	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.30	24	609	CENSYS-ARIN-02	US	None
+162.216.150.0	162.216.150.93	24	579	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.242	24	573	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.163	24	572	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.122	24	570	GOOGLE	US	network-abuse@google.com
+176.111.174.0	176.111.174.82	24	564	-	-	-
+87.120.88.0	87.120.88.59	24	557	NET1-AS	BG	abuse@net1.bg
