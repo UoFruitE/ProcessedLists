@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-06-19T13:30:30.214270
+#    updated: 2023-06-19T14:45:30.202115
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.226	24	757	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.8	24	757	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.135	24	754	GOOGLE-CLOUD-PLATFORM	US	None
 167.248.133.0	167.248.133.156	24	749	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.149	24	737	CENSYS-ARIN-01	US	None
-94.102.61.0	94.102.61.49	24	727	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.2	24	727	INT-NETWORK	SC	abuse@ipvolume.net
 162.216.149.0	162.216.149.119	24	727	GOOGLE	US	network-abuse@google.com
 64.62.197.0	64.62.197.103	24	726	HURRICANE	US	abuse@he.net
-35.203.210.0	35.203.210.118	24	720	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.53	24	718	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.196	24	717	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.221	24	720	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.10	24	718	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.254	24	717	GOOGLE	US	network-abuse@google.com
 183.136.225.0	183.136.225.42	24	710	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.145	24	695	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.30	24	679	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.22	24	679	CENSYS-ARIN-02	US	None
 109.207.200.0	109.207.200.44	24	678	MAXIMUMA-AS	UA	admin@maximuma.net
-167.94.146.0	167.94.146.31	24	673	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.28	24	673	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.121	24	672	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-89.248.165.0	89.248.165.86	24	669	INT-NETWORK	SC	abuse@ipvolume.net
-176.111.174.0	176.111.174.86	24	666	-	-	-
+89.248.165.0	89.248.165.63	24	669	INT-NETWORK	SC	abuse@ipvolume.net
+176.111.174.0	176.111.174.152	24	666	-	-	-
 78.128.114.0	78.128.114.26	24	665	TAMATIYA-AS	BG	noc@4vendeta.com
-185.233.19.0	185.233.19.94	24	665	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.14	24	665	WINDSTREAM	US	abuse@windstream.net
