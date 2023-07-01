@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-01T12:00:17.306473
+#    updated: 2023-07-01T13:00:17.093754
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,20 +29,20 @@
 185.233.19.0	185.233.19.68	24	676	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.212	24	637	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.109	24	636	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.34	24	625	INT-NETWORK	SC	abuse@ipvolume.net
 162.216.149.0	162.216.149.206	24	625	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.34	24	624	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.150.0	162.216.150.237	24	604	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.237	24	605	GOOGLE	US	network-abuse@google.com
+167.94.138.0	167.94.138.146	24	604	CENSYS-ARIN-01	US	None
 35.203.210.0	35.203.210.244	24	603	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.15	24	603	GOOGLE	US	network-abuse@google.com
-167.94.138.0	167.94.138.146	24	603	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.156	24	591	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.156	24	592	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.86	24	590	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.27	24	583	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.5	24	569	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.5	24	570	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 45.128.232.0	45.128.232.183	24	548	PUREVOLTAGE-INC	US	admin@purevoltage.com
 167.94.146.0	167.94.146.16	24	534	CENSYS-ARIN-02	US	None
 45.134.144.0	45.134.144.194	24	532	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 176.111.174.0	176.111.174.95	24	532	-	-	-
-89.248.165.0	89.248.165.193	24	524	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.186	24	525	INT-NETWORK	SC	abuse@ipvolume.net
 193.35.18.0	193.35.18.169	24	520	-	-	-
 167.94.145.0	167.94.145.20	24	517	CENSYS-ARIN-02	US	None
