@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-05T05:45:17.129244
+#    updated: 2023-07-05T07:00:17.689974
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 185.233.19.0	185.233.19.68	24	570	WINDSTREAM	US	abuse@windstream.net
 45.134.144.0	45.134.144.194	24	557	HUSAM-NETWORK	NL	witechcom.1@gmail.com
 64.62.197.0	64.62.197.46	24	555	HURRICANE	US	abuse@he.net
-89.248.163.0	89.248.163.112	24	554	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.112	24	555	INT-NETWORK	SC	abuse@ipvolume.net
 193.163.125.0	193.163.125.233	24	552	CYBER-CASA	GB	>>UNKNOWN<<
-176.111.174.0	176.111.174.97	24	544	-	-	-
+176.111.174.0	176.111.174.91	24	544	-	-	-
 89.248.165.0	89.248.165.187	24	536	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.145.0	167.94.145.17	24	535	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.19	24	527	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.17	24	527	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 193.35.18.0	193.35.18.183	24	524	-	-	-
 176.97.210.0	176.97.210.61	24	516	FERDINANDZINK	DE	abuse@vodafone.net.tr
-84.54.51.0	84.54.51.156	24	512	TIER-NET	US	None
+84.54.51.0	84.54.51.13	24	512	TIER-NET	US	None
