@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-07T09:00:18.508270
+#    updated: 2023-07-07T10:00:18.237514
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,10 +39,10 @@
 64.62.197.0	64.62.197.174	24	587	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.5	24	582	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.66	24	565	CYBER-CASA	GB	>>UNKNOWN<<
-176.111.174.0	176.111.174.81	24	538	-	-	-
-167.94.145.0	167.94.145.18	24	533	CENSYS-ARIN-02	US	None
+176.111.174.0	176.111.174.81	24	539	-	-	-
+167.94.145.0	167.94.145.18	24	534	CENSYS-ARIN-02	US	None
+193.35.18.0	193.35.18.179	24	530	-	-	-
 167.94.146.0	167.94.146.27	24	529	CENSYS-ARIN-02	US	None
-193.35.18.0	193.35.18.179	24	529	-	-	-
 79.124.62.0	79.124.62.86	24	522	DM_AUTO	BG	abuse@dm-auto.eu
-45.128.232.0	45.128.232.183	24	520	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.224.128.0	185.224.128.17	24	520	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+45.128.232.0	45.128.232.183	24	521	PUREVOLTAGE-INC	US	admin@purevoltage.com
+185.224.128.0	185.224.128.17	24	521	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
