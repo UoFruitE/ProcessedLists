@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-07T07:00:18.219165
+#    updated: 2023-07-07T08:00:18.172536
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,21 +28,21 @@
 #     
 185.233.19.0	185.233.19.105	24	685	WINDSTREAM	US	abuse@windstream.net
 162.216.149.0	162.216.149.6	24	650	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.100	24	633	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.99	24	632	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.20	24	633	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.200	24	632	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.83	24	630	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.250	24	628	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.136	24	627	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.45	24	608	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.156	24	602	CENSYS-ARIN-03	US	None
+94.102.61.0	94.102.61.50	24	610	INT-NETWORK	SC	abuse@ipvolume.net
+167.248.133.0	167.248.133.174	24	604	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.102	24	588	CENSYS-ARIN-01	US	None
 64.62.197.0	64.62.197.174	24	587	HURRICANE	US	abuse@he.net
-167.94.138.0	167.94.138.140	24	586	CENSYS-ARIN-01	US	None
-183.136.225.0	183.136.225.5	24	581	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.5	24	582	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.163.125.0	193.163.125.66	24	563	CYBER-CASA	GB	>>UNKNOWN<<
-176.111.174.0	176.111.174.81	24	537	-	-	-
-167.94.145.0	167.94.145.18	24	532	CENSYS-ARIN-02	US	None
+176.111.174.0	176.111.174.112	24	538	-	-	-
+167.94.145.0	167.94.145.27	24	533	CENSYS-ARIN-02	US	None
 193.35.18.0	193.35.18.179	24	529	-	-	-
-167.94.146.0	167.94.146.19	24	527	CENSYS-ARIN-02	US	None
-79.124.62.0	79.124.62.78	24	520	DM_AUTO	BG	abuse@dm-auto.eu
-45.128.232.0	45.128.232.84	24	519	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.224.128.0	185.224.128.17	24	519	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+167.94.146.0	167.94.146.27	24	527	CENSYS-ARIN-02	US	None
+79.124.62.0	79.124.62.82	24	521	DM_AUTO	BG	abuse@dm-auto.eu
+185.224.128.0	185.224.128.17	24	520	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+45.128.232.0	45.128.232.125	24	519	PUREVOLTAGE-INC	US	admin@purevoltage.com
