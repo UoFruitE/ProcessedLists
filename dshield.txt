@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-09T09:30:17.956528
+#    updated: 2023-07-09T11:45:17.474540
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,17 +32,17 @@
 167.94.138.0	167.94.138.154	24	594	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.130	24	587	CENSYS-ARIN-03	US	None
 35.203.210.0	35.203.210.182	24	577	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.173	24	575	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.218	24	571	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.132	24	568	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.57	24	575	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.171	24	571	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.23	24	568	GOOGLE	US	network-abuse@google.com
 89.248.163.0	89.248.163.200	24	568	INT-NETWORK	SC	abuse@ipvolume.net
-65.49.1.0	65.49.1.71	24	565	HURRICANE	US	abuse@he.net
+65.49.1.0	65.49.1.20	24	565	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.9	24	563	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 45.128.232.0	45.128.232.206	24	555	PUREVOLTAGE-INC	US	admin@purevoltage.com
 176.111.174.0	176.111.174.152	24	540	-	-	-
 146.88.241.0	146.88.241.175	24	537	-	-	-
-193.163.125.0	193.163.125.176	24	535	CYBER-CASA	GB	>>UNKNOWN<<
-141.98.11.0	141.98.11.116	24	532	HOSTBALTIC	LT	>>UNKNOWN<<
-167.94.145.0	167.94.145.23	24	529	CENSYS-ARIN-02	US	None
+193.163.125.0	193.163.125.239	24	535	CYBER-CASA	GB	>>UNKNOWN<<
+141.98.11.0	141.98.11.207	24	532	HOSTBALTIC	LT	>>UNKNOWN<<
+167.94.145.0	167.94.145.31	24	529	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.197	24	528	HURRICANE	US	abuse@he.net
 89.248.165.0	89.248.165.187	24	527	INT-NETWORK	SC	abuse@ipvolume.net
