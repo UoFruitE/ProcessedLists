@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-11T05:00:18.067352
+#    updated: 2023-07-11T06:00:18.547395
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.31	24	759	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.128	24	759	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.93	24	750	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.143	24	749	CENSYS-ARIN-01	US	None
 94.102.61.0	94.102.61.38	24	747	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.146	24	746	CENSYS-ARIN-03	US	None
 84.54.51.0	84.54.51.13	24	734	TIER-NET	US	None
 183.136.225.0	183.136.225.9	24	719	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-193.163.125.0	193.163.125.83	24	697	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.31	24	697	CYBER-CASA	GB	>>UNKNOWN<<
 176.111.174.0	176.111.174.85	24	694	-	-	-
 167.94.146.0	167.94.146.24	24	690	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.16	24	682	CENSYS-ARIN-02	US	None
-89.248.165.0	89.248.165.189	24	676	INT-NETWORK	SC	abuse@ipvolume.net
-89.248.163.0	89.248.163.101	24	655	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.109	24	676	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.103	24	655	INT-NETWORK	SC	abuse@ipvolume.net
 176.97.210.0	176.97.210.59	24	649	FERDINANDZINK	DE	abuse@vodafone.net.tr
 141.98.11.0	141.98.11.113	24	642	HOSTBALTIC	LT	>>UNKNOWN<<
 92.63.197.0	92.63.197.210	24	634	SIBIRINVEST	NL	qwalarty@ukr.net
-35.203.210.0	35.203.210.197	24	633	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.3	24	633	GOOGLE	US	network-abuse@google.com
 64.62.197.0	64.62.197.203	24	631	HURRICANE	US	abuse@he.net
 79.124.62.0	79.124.62.82	24	630	DM_AUTO	BG	abuse@dm-auto.eu
 95.214.55.0	95.214.55.244	24	622	PL-SKYTECH-AS	PL	abuse@skynode.pl
