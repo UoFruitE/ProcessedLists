@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-14T17:30:16.674112
+#    updated: 2023-07-14T18:30:17.327129
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-94.102.61.0	94.102.61.4	24	682	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.123	24	670	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.134	24	662	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.149.0	162.216.149.35	24	647	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.51	24	645	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.28	24	682	INT-NETWORK	SC	abuse@ipvolume.net
+198.235.24.0	198.235.24.123	24	672	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.130	24	664	GOOGLE-CLOUD-PLATFORM	US	None
+162.216.149.0	162.216.149.195	24	650	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.149	24	646	GOOGLE	US	network-abuse@google.com
+167.94.138.0	167.94.138.128	24	643	CENSYS-ARIN-01	US	None
+35.203.211.0	35.203.211.111	24	641	GOOGLE	US	network-abuse@google.com
 64.62.197.0	64.62.197.86	24	638	HURRICANE	US	abuse@he.net
-167.94.138.0	167.94.138.128	24	637	CENSYS-ARIN-01	US	None
-35.203.211.0	35.203.211.20	24	636	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.115	24	632	GOOGLE	US	network-abuse@google.com
-167.248.133.0	167.248.133.136	24	630	CENSYS-ARIN-03	US	None
-176.111.174.0	176.111.174.86	24	619	-	-	-
-183.136.225.0	183.136.225.42	24	615	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-193.35.18.0	193.35.18.169	24	614	-	-	-
-65.49.1.0	65.49.1.86	24	610	HURRICANE	US	abuse@he.net
-141.98.11.0	141.98.11.113	24	587	HOSTBALTIC	LT	>>UNKNOWN<<
-45.128.232.0	45.128.232.84	24	586	PUREVOLTAGE-INC	US	admin@purevoltage.com
-84.54.51.0	84.54.51.4	24	584	TIER-NET	US	None
-89.248.165.0	89.248.165.221	24	579	INT-NETWORK	SC	abuse@ipvolume.net
-193.163.125.0	193.163.125.79	24	579	CYBER-CASA	GB	>>UNKNOWN<<
-45.155.91.0	45.155.91.23	24	568	DCNBSI-AS-AP DCTV Cable Network Broadband Services Inc	PH	abuse@dctv.com.ph
+35.203.210.0	35.203.210.7	24	637	GOOGLE	US	network-abuse@google.com
+167.248.133.0	167.248.133.134	24	633	CENSYS-ARIN-03	US	None
+176.111.174.0	176.111.174.86	24	622	-	-	-
+183.136.225.0	183.136.225.5	24	622	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+193.35.18.0	193.35.18.169	24	618	-	-	-
+65.49.1.0	65.49.1.86	24	611	HURRICANE	US	abuse@he.net
+141.98.11.0	141.98.11.113	24	597	HOSTBALTIC	LT	>>UNKNOWN<<
+45.128.232.0	45.128.232.183	24	593	PUREVOLTAGE-INC	US	admin@purevoltage.com
+84.54.51.0	84.54.51.4	24	586	TIER-NET	US	None
+193.163.125.0	193.163.125.223	24	586	CYBER-CASA	GB	>>UNKNOWN<<
+89.248.165.0	89.248.165.186	24	585	INT-NETWORK	SC	abuse@ipvolume.net
+45.155.91.0	45.155.91.76	24	576	DCNBSI-AS-AP DCTV Cable Network Broadband Services Inc	PH	abuse@dctv.com.ph
