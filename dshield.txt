@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-14T07:00:24.990538
+#    updated: 2023-07-14T08:00:24.685326
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,13 +26,13 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-205.210.31.0	205.210.31.45	24	771	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.96	24	771	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.197	24	770	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.4	24	751	INT-NETWORK	SC	abuse@ipvolume.net
-35.203.211.0	35.203.211.162	24	748	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.253	24	747	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.42	24	751	INT-NETWORK	SC	abuse@ipvolume.net
+35.203.211.0	35.203.211.182	24	748	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.222	24	747	GOOGLE	US	network-abuse@google.com
 193.35.18.0	193.35.18.249	24	740	-	-	-
-35.203.210.0	35.203.210.157	24	739	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.102	24	739	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.15	24	738	GOOGLE	US	network-abuse@google.com
 45.155.91.0	45.155.91.23	24	733	DCNBSI-AS-AP DCTV Cable Network Broadband Services Inc	PH	abuse@dctv.com.ph
 167.248.133.0	167.248.133.172	24	721	CENSYS-ARIN-03	US	None
@@ -44,5 +44,5 @@
 45.128.232.0	45.128.232.140	24	690	PUREVOLTAGE-INC	US	admin@purevoltage.com
 64.62.197.0	64.62.197.75	24	690	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.17	24	682	HURRICANE	US	abuse@he.net
-84.54.51.0	84.54.51.162	24	673	TIER-NET	US	None
-141.98.11.0	141.98.11.11	24	672	HOSTBALTIC	LT	>>UNKNOWN<<
+84.54.51.0	84.54.51.142	24	673	TIER-NET	US	None
+141.98.11.0	141.98.11.207	24	672	HOSTBALTIC	LT	>>UNKNOWN<<
