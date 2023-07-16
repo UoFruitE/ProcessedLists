@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-16T04:00:24.788505
+#    updated: 2023-07-16T02:45:23.608793
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.112	24	762	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.46	24	755	INT-NETWORK	SC	abuse@ipvolume.net
-205.210.31.0	205.210.31.253	24	746	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.209	24	760	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.40	24	754	INT-NETWORK	SC	abuse@ipvolume.net
+205.210.31.0	205.210.31.230	24	746	GOOGLE-CLOUD-PLATFORM	US	None
 185.233.19.0	185.233.19.149	24	743	WINDSTREAM	US	abuse@windstream.net
-183.136.225.0	183.136.225.9	24	732	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.5	24	732	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.94.138.0	167.94.138.104	24	725	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.159	24	725	CENSYS-ARIN-03	US	None
-35.203.210.0	35.203.210.211	24	717	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.190	24	715	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.125	24	712	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.57	24	717	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.254	24	715	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.232	24	712	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.111	24	709	GOOGLE	US	network-abuse@google.com
 65.49.1.0	65.49.1.48	24	685	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.93	24	684	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.57	24	680	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.87	24	684	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.31	24	680	CENSYS-ARIN-02	US	None
 84.54.51.0	84.54.51.4	24	677	TIER-NET	US	None
 45.128.232.0	45.128.232.166	24	674	PUREVOLTAGE-INC	US	admin@purevoltage.com
 176.97.210.0	176.97.210.59	24	667	FERDINANDZINK	DE	abuse@vodafone.net.tr
 193.163.125.0	193.163.125.238	24	667	CYBER-CASA	GB	>>UNKNOWN<<
-89.248.163.0	89.248.163.100	24	664	INT-NETWORK	SC	abuse@ipvolume.net
-64.62.197.0	64.62.197.47	24	660	HURRICANE	US	abuse@he.net
+89.248.163.0	89.248.163.100	24	663	INT-NETWORK	SC	abuse@ipvolume.net
+64.62.197.0	64.62.197.183	24	660	HURRICANE	US	abuse@he.net
