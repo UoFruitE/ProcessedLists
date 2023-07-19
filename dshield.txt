@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-19T07:30:16.349634
+#    updated: 2023-07-19T09:45:17.026939
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 65.49.1.0	65.49.1.68	24	544	HURRICANE	US	abuse@he.net
 84.54.51.0	84.54.51.4	24	535	TIER-NET	US	None
 89.248.165.0	89.248.165.66	24	526	INT-NETWORK	SC	abuse@ipvolume.net
-64.62.197.0	64.62.197.75	24	517	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.60	24	517	HURRICANE	US	abuse@he.net
 193.35.18.0	193.35.18.249	24	515	-	-	-
 193.163.125.0	193.163.125.236	24	515	CYBER-CASA	GB	>>UNKNOWN<<
-45.140.17.0	45.140.17.7	24	511	SELECTEL-MSK	RU	abuse@selectel.ru
-167.94.146.0	167.94.146.30	24	502	CENSYS-ARIN-02	US	None
-146.88.241.0	146.88.241.21	24	497	-	-	-
+45.140.17.0	45.140.17.7	24	512	SELECTEL-MSK	RU	abuse@selectel.ru
+167.94.146.0	167.94.146.26	24	502	CENSYS-ARIN-02	US	None
+146.88.241.0	146.88.241.71	24	497	-	-	-
 77.90.185.0	77.90.185.150	24	489	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.145.0	167.94.145.21	24	488	CENSYS-ARIN-02	US	None
 79.124.62.0	79.124.62.82	24	485	DM_AUTO	BG	abuse@dm-auto.eu
