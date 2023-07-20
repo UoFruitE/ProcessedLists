@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-20T13:15:18.835844
+#    updated: 2023-07-20T14:15:19.858874
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-77.90.185.0	77.90.185.70	24	754	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.70	24	755	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 198.235.24.0	198.235.24.117	24	751	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.218	24	739	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.5	24	725	INT-NETWORK	SC	abuse@ipvolume.net
@@ -44,5 +44,5 @@
 84.54.51.0	84.54.51.12	24	633	TIER-NET	US	None
 193.163.125.0	193.163.125.161	24	630	CYBER-CASA	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.100	24	629	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.43	24	627	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.181	24	627	HURRICANE	US	abuse@he.net
 92.63.197.0	92.63.197.210	24	584	SIBIRINVEST	NL	qwalarty@ukr.net
