@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-22T02:45:22.623868
+#    updated: 2023-07-22T03:45:22.285706
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,14 +28,14 @@
 #     
 77.90.185.0	77.90.185.121	24	765	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 94.102.61.0	94.102.61.28	24	758	INT-NETWORK	SC	abuse@ipvolume.net
-205.210.31.0	205.210.31.90	24	753	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.100	24	753	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.28	24	746	GOOGLE-CLOUD-PLATFORM	US	None
 183.136.225.0	183.136.225.42	24	732	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-162.216.150.0	162.216.150.143	24	727	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.5	24	727	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.175	24	722	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.126	24	720	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.211	24	720	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.126	24	719	GOOGLE	US	network-abuse@google.com
-185.233.19.0	185.233.19.241	24	708	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.241	24	709	WINDSTREAM	US	abuse@windstream.net
 167.248.133.0	167.248.133.140	24	703	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.154	24	697	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.17	24	695	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
