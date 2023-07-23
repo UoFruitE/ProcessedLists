@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-23T15:00:19.364625
+#    updated: 2023-07-23T16:15:20.058859
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,7 +37,7 @@
 183.136.225.0	183.136.225.10	24	724	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 162.216.150.0	162.216.150.148	24	722	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.24	24	718	GOOGLE	US	network-abuse@google.com
-92.63.197.0	92.63.197.210	24	706	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.131	24	706	SIBIRINVEST	NL	qwalarty@ukr.net
 185.224.128.0	185.224.128.17	24	699	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 193.35.18.0	193.35.18.187	24	697	-	-	-
 176.111.174.0	176.111.174.98	24	684	-	-	-
@@ -45,4 +45,4 @@
 65.49.1.0	65.49.1.12	24	681	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.223	24	680	CYBER-CASA	GB	>>UNKNOWN<<
 167.94.146.0	167.94.146.21	24	676	CENSYS-ARIN-02	US	None
-45.128.232.0	45.128.232.168	24	666	PUREVOLTAGE-INC	US	admin@purevoltage.com
+45.128.232.0	45.128.232.125	24	666	PUREVOLTAGE-INC	US	admin@purevoltage.com
