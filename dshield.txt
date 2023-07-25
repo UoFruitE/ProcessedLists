@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-25T21:30:14.092964
+#    updated: 2023-07-25T20:30:13.925512
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-193.35.18.0	193.35.18.51	24	576	-	-	-
-94.102.61.0	94.102.61.5	24	559	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.9	24	540	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.177	24	532	GOOGLE-CLOUD-PLATFORM	US	None
+193.35.18.0	193.35.18.51	24	573	-	-	-
+94.102.61.0	94.102.61.34	24	558	INT-NETWORK	SC	abuse@ipvolume.net
+198.235.24.0	198.235.24.9	24	538	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.150	24	528	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-185.224.128.0	185.224.128.17	24	524	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-167.248.133.0	167.248.133.152	24	515	CENSYS-ARIN-03	US	None
+205.210.31.0	205.210.31.217	24	528	GOOGLE-CLOUD-PLATFORM	US	None
+185.224.128.0	185.224.128.17	24	523	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+167.248.133.0	167.248.133.152	24	508	CENSYS-ARIN-03	US	None
 45.140.17.0	45.140.17.7	24	502	SELECTEL-MSK	RU	abuse@selectel.ru
-183.136.225.0	183.136.225.9	24	501	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.138.0	167.94.138.149	24	495	CENSYS-ARIN-01	US	None
+183.136.225.0	183.136.225.9	24	494	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 65.49.1.0	65.49.1.28	24	491	HURRICANE	US	abuse@he.net
-92.63.197.0	92.63.197.110	24	484	SIBIRINVEST	NL	qwalarty@ukr.net
-45.128.232.0	45.128.232.168	24	473	PUREVOLTAGE-INC	US	admin@purevoltage.com
+167.94.138.0	167.94.138.149	24	486	CENSYS-ARIN-01	US	None
+92.63.197.0	92.63.197.110	24	480	SIBIRINVEST	NL	qwalarty@ukr.net
+45.128.232.0	45.128.232.168	24	466	PUREVOLTAGE-INC	US	admin@purevoltage.com
 64.62.197.0	64.62.197.149	24	462	HURRICANE	US	abuse@he.net
-84.54.51.0	84.54.51.254	24	453	TIER-NET	US	None
-193.163.125.0	193.163.125.171	24	442	CYBER-CASA	GB	>>UNKNOWN<<
-89.248.165.0	89.248.165.183	24	436	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.57	24	436	SIBIRINVEST	NL	qwalarty@ukr.net
-185.233.19.0	185.233.19.242	24	431	WINDSTREAM	US	abuse@windstream.net
-45.93.16.0	45.93.16.194	24	421	RELIABLESITE	US	abuse@reliablesite.net
+84.54.51.0	84.54.51.12	24	449	TIER-NET	US	None
+193.163.125.0	193.163.125.171	24	439	CYBER-CASA	GB	>>UNKNOWN<<
+185.156.73.0	185.156.73.57	24	431	SIBIRINVEST	NL	qwalarty@ukr.net
+89.248.165.0	89.248.165.30	24	429	INT-NETWORK	SC	abuse@ipvolume.net
+185.233.19.0	185.233.19.242	24	424	WINDSTREAM	US	abuse@windstream.net
+45.93.16.0	45.93.16.194	24	416	RELIABLESITE	US	abuse@reliablesite.net
