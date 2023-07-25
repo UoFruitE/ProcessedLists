@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-25T04:00:17.153465
+#    updated: 2023-07-25T05:00:17.845941
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 77.90.185.0	77.90.185.150	24	796	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-94.102.61.0	94.102.61.52	24	769	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.27	24	769	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.35	24	735	CENSYS-ARIN-03	US	None
 185.224.128.0	185.224.128.17	24	732	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 183.136.225.0	183.136.225.10	24	731	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.138.0	167.94.138.50	24	725	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.130	24	725	CENSYS-ARIN-01	US	None
 92.63.197.0	92.63.197.210	24	718	SIBIRINVEST	NL	qwalarty@ukr.net
 193.35.18.0	193.35.18.24	24	701	-	-	-
-185.156.73.0	185.156.73.57	24	695	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.38	24	688	HURRICANE	US	abuse@he.net
+185.156.73.0	185.156.73.57	24	696	SIBIRINVEST	NL	qwalarty@ukr.net
+64.62.197.0	64.62.197.116	24	688	HURRICANE	US	abuse@he.net
 89.248.165.0	89.248.165.14	24	678	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.163.0	89.248.163.109	24	661	INT-NETWORK	SC	abuse@ipvolume.net
 193.163.125.0	193.163.125.151	24	646	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.30	24	643	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.25	24	643	CENSYS-ARIN-02	US	None
 84.54.51.0	84.54.51.13	24	638	TIER-NET	US	None
 65.49.1.0	65.49.1.12	24	634	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.21	24	633	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.24	24	634	CENSYS-ARIN-02	US	None
 198.235.24.0	198.235.24.246	24	630	GOOGLE-CLOUD-PLATFORM	US	None
 45.128.232.0	45.128.232.166	24	629	PUREVOLTAGE-INC	US	admin@purevoltage.com
 205.210.31.0	205.210.31.223	24	626	GOOGLE-CLOUD-PLATFORM	US	None
