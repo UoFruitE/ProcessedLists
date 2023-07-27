@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-27T12:15:19.520655
+#    updated: 2023-07-27T13:15:19.624421
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-94.102.61.0	94.102.61.28	24	619	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.28	24	620	INT-NETWORK	SC	abuse@ipvolume.net
 77.90.185.0	77.90.185.150	24	614	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 198.235.24.0	198.235.24.104	24	607	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.135	24	597	GOOGLE-CLOUD-PLATFORM	US	None
 193.35.18.0	193.35.18.33	24	568	-	-	-
-183.136.225.0	183.136.225.46	24	560	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.46	24	561	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.248.133.0	167.248.133.173	24	546	CENSYS-ARIN-03	US	None
-92.63.197.0	92.63.197.92	24	543	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.110	24	543	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.138.0	167.94.138.147	24	533	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.17	24	523	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-45.140.17.0	45.140.17.204	24	510	SELECTEL-MSK	RU	abuse@selectel.ru
+45.140.17.0	45.140.17.204	24	511	SELECTEL-MSK	RU	abuse@selectel.ru
 45.128.232.0	45.128.232.109	24	505	PUREVOLTAGE-INC	US	admin@purevoltage.com
 193.163.125.0	193.163.125.173	24	501	CYBER-CASA	GB	>>UNKNOWN<<
 185.156.73.0	185.156.73.92	24	499	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.146.0	167.94.146.19	24	494	CENSYS-ARIN-02	US	None
 146.88.241.0	146.88.241.134	24	489	-	-	-
 185.233.19.0	185.233.19.243	24	488	WINDSTREAM	US	abuse@windstream.net
-89.248.163.0	89.248.163.200	24	484	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.200	24	485	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.214	24	483	INT-NETWORK	SC	abuse@ipvolume.net
 65.49.1.0	65.49.1.112	24	482	HURRICANE	US	abuse@he.net
