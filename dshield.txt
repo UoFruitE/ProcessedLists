@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-27T11:00:19.624163
+#    updated: 2023-07-27T12:15:19.520655
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 185.156.73.0	185.156.73.92	24	499	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.146.0	167.94.146.19	24	494	CENSYS-ARIN-02	US	None
 146.88.241.0	146.88.241.134	24	489	-	-	-
-185.233.19.0	185.233.19.243	24	487	WINDSTREAM	US	abuse@windstream.net
-89.248.163.0	89.248.163.200	24	483	INT-NETWORK	SC	abuse@ipvolume.net
+185.233.19.0	185.233.19.243	24	488	WINDSTREAM	US	abuse@windstream.net
+89.248.163.0	89.248.163.200	24	484	INT-NETWORK	SC	abuse@ipvolume.net
 89.248.165.0	89.248.165.214	24	483	INT-NETWORK	SC	abuse@ipvolume.net
 65.49.1.0	65.49.1.112	24	482	HURRICANE	US	abuse@he.net
