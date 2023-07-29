@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-29T05:45:16.938739
+#    updated: 2023-07-29T04:45:17.495360
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,14 +35,14 @@
 35.203.211.0	35.203.211.137	24	626	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.26	24	621	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.43	24	619	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.150.0	162.216.150.150	24	616	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.252	24	616	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.15	24	615	GOOGLE	US	network-abuse@google.com
-77.90.185.0	77.90.185.144	24	606	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-92.63.197.0	92.63.197.92	24	602	SIBIRINVEST	NL	qwalarty@ukr.net
+77.90.185.0	77.90.185.70	24	606	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+92.63.197.0	92.63.197.89	24	602	SIBIRINVEST	NL	qwalarty@ukr.net
 183.136.225.0	183.136.225.10	24	601	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.248.133.0	167.248.133.163	24	595	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.100	24	588	CENSYS-ARIN-01	US	None
 45.140.17.0	45.140.17.7	24	578	SELECTEL-MSK	RU	abuse@selectel.ru
-89.248.165.0	89.248.165.14	24	568	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.165.0	89.248.165.2	24	568	INT-NETWORK	SC	abuse@ipvolume.net
 45.128.232.0	45.128.232.184	24	566	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.156.73.0	185.156.73.90	24	563	SIBIRINVEST	NL	qwalarty@ukr.net
