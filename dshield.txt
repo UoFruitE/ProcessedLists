@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-07-31T07:00:16.303150
+#    updated: 2023-07-31T08:00:16.744545
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.18	24	664	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.44	24	664	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.226	24	664	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.142	24	640	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 35.203.211.0	35.203.211.252	24	638	GOOGLE	US	network-abuse@google.com
@@ -35,7 +35,7 @@
 162.216.150.0	162.216.150.213	24	633	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.28	24	631	INT-NETWORK	SC	abuse@ipvolume.net
 35.203.210.0	35.203.210.4	24	629	GOOGLE	US	network-abuse@google.com
-194.26.135.0	194.26.135.129	24	628	ASBAXETN	RU	radu.rcg@gmail.com
+194.26.135.0	194.26.135.247	24	628	ASBAXETN	RU	radu.rcg@gmail.com
 64.62.197.0	64.62.197.26	24	610	HURRICANE	US	abuse@he.net
 167.248.133.0	167.248.133.164	24	601	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.146	24	599	CENSYS-ARIN-01	US	None
@@ -43,6 +43,6 @@
 185.233.19.0	185.233.19.243	24	588	WINDSTREAM	US	abuse@windstream.net
 183.136.225.0	183.136.225.10	24	585	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.94.146.0	167.94.146.58	24	581	CENSYS-ARIN-02	US	None
-45.140.17.0	45.140.17.7	24	578	SELECTEL-MSK	RU	abuse@selectel.ru
+45.140.17.0	45.140.17.7	24	579	SELECTEL-MSK	RU	abuse@selectel.ru
 45.128.232.0	45.128.232.140	24	573	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.156.73.0	185.156.73.57	24	569	SIBIRINVEST	NL	qwalarty@ukr.net
