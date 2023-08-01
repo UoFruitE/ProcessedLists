@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-01T17:15:11.781590
+#    updated: 2023-08-01T18:15:12.634825
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-77.90.185.0	77.90.185.143	24	614	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-194.26.135.0	194.26.135.31	24	605	ASBAXETN	RU	radu.rcg@gmail.com
-205.210.31.0	205.210.31.2	24	566	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.249	24	562	GOOGLE-CLOUD-PLATFORM	US	None
-45.140.17.0	45.140.17.23	24	546	SELECTEL-MSK	RU	abuse@selectel.ru
-94.102.61.0	94.102.61.28	24	544	INT-NETWORK	SC	abuse@ipvolume.net
-65.49.1.0	65.49.1.34	24	540	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.9	24	540	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.63.197.0	92.63.197.90	24	539	SIBIRINVEST	NL	qwalarty@ukr.net
-167.248.133.0	167.248.133.173	24	538	CENSYS-ARIN-03	US	None
-79.124.62.0	79.124.62.82	24	535	DM_AUTO	BG	abuse@dm-auto.eu
-45.93.16.0	45.93.16.194	24	534	RELIABLESITE	US	abuse@reliablesite.net
-167.94.138.0	167.94.138.103	24	534	CENSYS-ARIN-01	US	None
-185.224.128.0	185.224.128.17	24	521	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-185.156.73.0	185.156.73.107	24	516	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.164	24	508	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.33	24	495	CYBER-CASA	GB	>>UNKNOWN<<
-193.35.18.0	193.35.18.187	24	493	-	-	-
-45.128.232.0	45.128.232.118	24	490	PUREVOLTAGE-INC	US	admin@purevoltage.com
-146.88.241.0	146.88.241.116	24	488	-	-	-
+77.90.185.0	77.90.185.90	24	615	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+194.26.135.0	194.26.135.31	24	606	ASBAXETN	RU	radu.rcg@gmail.com
+205.210.31.0	205.210.31.2	24	567	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.35	24	562	GOOGLE-CLOUD-PLATFORM	US	None
+45.140.17.0	45.140.17.23	24	548	SELECTEL-MSK	RU	abuse@selectel.ru
+94.102.61.0	94.102.61.34	24	546	INT-NETWORK	SC	abuse@ipvolume.net
+183.136.225.0	183.136.225.9	24	545	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.248.133.0	167.248.133.134	24	543	CENSYS-ARIN-03	US	None
+45.93.16.0	45.93.16.194	24	543	RELIABLESITE	US	abuse@reliablesite.net
+79.124.62.0	79.124.62.82	24	542	DM_AUTO	BG	abuse@dm-auto.eu
+65.49.1.0	65.49.1.17	24	541	HURRICANE	US	abuse@he.net
+92.63.197.0	92.63.197.91	24	539	SIBIRINVEST	NL	qwalarty@ukr.net
+167.94.138.0	167.94.138.103	24	536	CENSYS-ARIN-01	US	None
+185.224.128.0	185.224.128.17	24	533	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.156.73.0	185.156.73.107	24	519	SIBIRINVEST	NL	qwalarty@ukr.net
+64.62.197.0	64.62.197.164	24	509	HURRICANE	US	abuse@he.net
+193.163.125.0	193.163.125.87	24	500	CYBER-CASA	GB	>>UNKNOWN<<
+193.35.18.0	193.35.18.51	24	498	-	-	-
+84.54.51.0	84.54.51.254	24	494	TIER-NET	US	None
+146.88.241.0	146.88.241.86	24	494	-	-	-
