@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-02T11:00:19.200366
+#    updated: 2023-08-02T12:15:18.945222
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,13 +28,13 @@
 #     
 77.90.185.0	77.90.185.90	24	666	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 194.26.135.0	194.26.135.247	24	661	ASBAXETN	RU	radu.rcg@gmail.com
-79.124.62.0	79.124.62.130	24	641	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.78	24	641	DM_AUTO	BG	abuse@dm-auto.eu
 205.210.31.0	205.210.31.2	24	634	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.35	24	630	GOOGLE-CLOUD-PLATFORM	US	None
 45.93.16.0	45.93.16.194	24	617	RELIABLESITE	US	abuse@reliablesite.net
 167.248.133.0	167.248.133.141	24	614	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.103	24	612	CENSYS-ARIN-01	US	None
-94.102.61.0	94.102.61.28	24	608	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.34	24	608	INT-NETWORK	SC	abuse@ipvolume.net
 183.136.225.0	183.136.225.9	24	605	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 92.63.197.0	92.63.197.90	24	604	SIBIRINVEST	NL	qwalarty@ukr.net
 185.224.128.0	185.224.128.17	24	602	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
