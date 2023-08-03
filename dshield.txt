@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-03T13:15:18.879874
+#    updated: 2023-08-03T14:15:19.187774
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.170	24	620	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.107	24	620	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.29	24	612	INT-NETWORK	SC	abuse@ipvolume.net
 45.140.17.0	45.140.17.23	24	610	SELECTEL-MSK	RU	abuse@selectel.ru
 77.90.185.0	77.90.185.80	24	608	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
@@ -43,6 +43,6 @@
 193.163.125.0	193.163.125.14	24	540	CYBER-CASA	GB	>>UNKNOWN<<
 45.128.232.0	45.128.232.122	24	529	PUREVOLTAGE-INC	US	admin@purevoltage.com
 84.54.51.0	84.54.51.4	24	524	TIER-NET	US	None
-89.248.163.0	89.248.163.200	24	522	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.245	24	522	INT-NETWORK	SC	abuse@ipvolume.net
 141.98.11.0	141.98.11.60	24	520	HOSTBALTIC	LT	>>UNKNOWN<<
 45.155.91.0	45.155.91.149	24	519	DCNBSI-AS-AP DCTV Cable Network Broadband Services Inc	PH	abuse@dctv.com.ph
