@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-03T17:30:12.414203
+#    updated: 2023-08-03T18:30:13.178264
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-162.216.150.0	162.216.150.140	24	613	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.126	24	609	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.38	24	607	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.187	24	614	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.245	24	611	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.38	24	608	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.5	24	604	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.149.0	162.216.149.35	24	602	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.102	24	582	GOOGLE-CLOUD-PLATFORM	US	None
+162.216.149.0	162.216.149.184	24	602	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.102	24	584	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.162	24	573	GOOGLE-CLOUD-PLATFORM	US	None
-65.49.1.0	65.49.1.75	24	545	HURRICANE	US	abuse@he.net
-77.90.185.0	77.90.185.71	24	545	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.80	24	548	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+185.224.128.0	185.224.128.142	24	546	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+65.49.1.0	65.49.1.83	24	545	HURRICANE	US	abuse@he.net
+194.26.135.0	194.26.135.248	24	541	ASBAXETN	RU	radu.rcg@gmail.com
 45.128.232.0	45.128.232.84	24	540	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.224.128.0	185.224.128.142	24	540	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-194.26.135.0	194.26.135.248	24	539	ASBAXETN	RU	radu.rcg@gmail.com
-92.63.197.0	92.63.197.131	24	534	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.85	24	533	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.82	24	533	DM_AUTO	BG	abuse@dm-auto.eu
-183.136.225.0	183.136.225.48	24	529	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.138.0	167.94.138.97	24	527	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.152	24	516	CENSYS-ARIN-03	US	None
-45.140.17.0	45.140.17.23	24	509	SELECTEL-MSK	RU	abuse@selectel.ru
-193.163.125.0	193.163.125.245	24	498	CYBER-CASA	GB	>>UNKNOWN<<
+92.63.197.0	92.63.197.94	24	538	SIBIRINVEST	NL	qwalarty@ukr.net
+79.124.62.0	79.124.62.82	24	537	DM_AUTO	BG	abuse@dm-auto.eu
+64.62.197.0	64.62.197.82	24	533	HURRICANE	US	abuse@he.net
+167.94.138.0	167.94.138.97	24	532	CENSYS-ARIN-01	US	None
+183.136.225.0	183.136.225.48	24	531	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.248.133.0	167.248.133.152	24	520	CENSYS-ARIN-03	US	None
+45.140.17.0	45.140.17.201	24	511	SELECTEL-MSK	RU	abuse@selectel.ru
+193.163.125.0	193.163.125.245	24	507	CYBER-CASA	GB	>>UNKNOWN<<
