@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-04T10:00:19.773367
+#    updated: 2023-08-04T11:00:19.266251
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 94.102.61.0	94.102.61.47	24	673	INT-NETWORK	SC	abuse@ipvolume.net
-35.203.210.0	35.203.210.8	24	668	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.149	24	668	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.99	24	668	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.187	24	668	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.81	24	660	GOOGLE	US	network-abuse@google.com
@@ -35,14 +35,14 @@
 205.210.31.0	205.210.31.162	24	654	GOOGLE-CLOUD-PLATFORM	US	None
 185.224.128.0	185.224.128.142	24	623	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 167.94.138.0	167.94.138.97	24	615	CENSYS-ARIN-01	US	None
-194.26.135.0	194.26.135.248	24	614	ASBAXETN	RU	radu.rcg@gmail.com
+194.26.135.0	194.26.135.248	24	615	ASBAXETN	RU	radu.rcg@gmail.com
 77.90.185.0	77.90.185.19	24	609	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.248.133.0	167.248.133.152	24	608	CENSYS-ARIN-03	US	None
-183.136.225.0	183.136.225.48	24	606	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.63.197.0	92.63.197.94	24	605	SIBIRINVEST	NL	qwalarty@ukr.net
+183.136.225.0	183.136.225.42	24	606	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+92.63.197.0	92.63.197.91	24	605	SIBIRINVEST	NL	qwalarty@ukr.net
 65.49.1.0	65.49.1.83	24	604	HURRICANE	US	abuse@he.net
 45.128.232.0	45.128.232.84	24	601	PUREVOLTAGE-INC	US	admin@purevoltage.com
 79.124.62.0	79.124.62.82	24	601	DM_AUTO	BG	abuse@dm-auto.eu
 193.163.125.0	193.163.125.245	24	601	CYBER-CASA	GB	>>UNKNOWN<<
-64.62.197.0	64.62.197.82	24	591	HURRICANE	US	abuse@he.net
-193.35.18.0	193.35.18.206	24	579	-	-	-
+64.62.197.0	64.62.197.85	24	591	HURRICANE	US	abuse@he.net
+193.35.18.0	193.35.18.249	24	579	-	-	-
