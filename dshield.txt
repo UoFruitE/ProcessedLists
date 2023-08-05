@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-05T16:00:22.061300
+#    updated: 2023-08-05T17:00:21.958035
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-35.203.210.0	35.203.210.173	24	787	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.47	24	775	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.231	24	774	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.21	24	787	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.138	24	775	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.73	24	774	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.28	24	773	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.149.0	162.216.149.239	24	770	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.170	24	770	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.237	24	763	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.90	24	761	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.98	24	761	GOOGLE-CLOUD-PLATFORM	US	None
 92.63.197.0	92.63.197.90	24	742	SIBIRINVEST	NL	qwalarty@ukr.net
 77.90.185.0	77.90.185.122	24	733	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.138.0	167.94.138.101	24	729	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.151	24	729	CENSYS-ARIN-03	US	None
-194.26.135.0	194.26.135.132	24	721	ASBAXETN	RU	radu.rcg@gmail.com
+194.26.135.0	194.26.135.33	24	721	ASBAXETN	RU	radu.rcg@gmail.com
 183.136.225.0	183.136.225.48	24	718	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 185.224.128.0	185.224.128.141	24	704	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 65.49.1.0	65.49.1.11	24	698	HURRICANE	US	abuse@he.net
 185.156.73.0	185.156.73.93	24	695	SIBIRINVEST	NL	qwalarty@ukr.net
 193.163.125.0	193.163.125.173	24	691	CYBER-CASA	GB	>>UNKNOWN<<
 193.35.18.0	193.35.18.169	24	687	-	-	-
-167.94.145.0	167.94.145.84	24	686	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.82	24	686	CENSYS-ARIN-02	US	None
 185.233.19.0	185.233.19.242	24	685	WINDSTREAM	US	abuse@windstream.net
