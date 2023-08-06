@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-06T09:30:15.841554
+#    updated: 2023-08-06T10:45:16.968632
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,16 +32,16 @@
 162.216.149.0	162.216.149.227	24	648	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.41	24	647	INT-NETWORK	SC	abuse@ipvolume.net
 35.203.210.0	35.203.210.16	24	646	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.108	24	642	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.231	24	642	GOOGLE	US	network-abuse@google.com
 194.26.135.0	194.26.135.109	24	642	ASBAXETN	RU	radu.rcg@gmail.com
 185.224.128.0	185.224.128.17	24	640	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 193.163.125.0	193.163.125.108	24	607	CYBER-CASA	GB	>>UNKNOWN<<
 167.248.133.0	167.248.133.171	24	604	CENSYS-ARIN-03	US	None
 79.124.62.0	79.124.62.130	24	600	DM_AUTO	BG	abuse@dm-auto.eu
 167.94.138.0	167.94.138.111	24	598	CENSYS-ARIN-01	US	None
-92.63.197.0	92.63.197.110	24	597	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.93	24	597	SIBIRINVEST	NL	qwalarty@ukr.net
 65.49.1.0	65.49.1.65	24	592	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.9	24	585	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.45	24	585	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 45.128.232.0	45.128.232.118	24	582	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.233.19.0	185.233.19.241	24	577	WINDSTREAM	US	abuse@windstream.net
 185.156.73.0	185.156.73.90	24	562	SIBIRINVEST	NL	qwalarty@ukr.net
