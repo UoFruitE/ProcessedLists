@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-07T16:15:10.369581
+#    updated: 2023-08-07T17:15:10.979949
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 77.90.185.0	77.90.185.72	24	610	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-162.216.150.0	162.216.150.158	24	564	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.181	24	563	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.151	24	560	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.57	24	560	GOOGLE	US	network-abuse@google.com
-79.124.62.0	79.124.62.86	24	552	DM_AUTO	BG	abuse@dm-auto.eu
-198.235.24.0	198.235.24.220	24	545	GOOGLE-CLOUD-PLATFORM	US	None
-185.233.19.0	185.233.19.242	24	540	WINDSTREAM	US	abuse@windstream.net
-205.210.31.0	205.210.31.211	24	539	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.27	24	534	INT-NETWORK	SC	abuse@ipvolume.net
-183.136.225.0	183.136.225.5	24	518	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-65.49.1.0	65.49.1.77	24	509	HURRICANE	US	abuse@he.net
-146.88.241.0	146.88.241.28	24	502	-	-	-
-64.62.197.0	64.62.197.237	24	496	HURRICANE	US	abuse@he.net
-167.94.138.0	167.94.138.128	24	493	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.140	24	485	CENSYS-ARIN-03	US	None
-45.128.232.0	45.128.232.125	24	481	PUREVOLTAGE-INC	US	admin@purevoltage.com
-84.54.51.0	84.54.51.12	24	479	TIER-NET	US	None
-89.248.165.0	89.248.165.238	24	468	INT-NETWORK	SC	abuse@ipvolume.net
-167.94.146.0	167.94.146.75	24	460	CENSYS-ARIN-02	US	None
+162.216.150.0	162.216.150.242	24	565	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.181	24	564	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.151	24	561	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.57	24	561	GOOGLE	US	network-abuse@google.com
+79.124.62.0	79.124.62.86	24	555	DM_AUTO	BG	abuse@dm-auto.eu
+185.233.19.0	185.233.19.242	24	549	WINDSTREAM	US	abuse@windstream.net
+198.235.24.0	198.235.24.220	24	547	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.27	24	543	INT-NETWORK	SC	abuse@ipvolume.net
+205.210.31.0	205.210.31.211	24	541	GOOGLE-CLOUD-PLATFORM	US	None
+183.136.225.0	183.136.225.5	24	523	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+65.49.1.0	65.49.1.77	24	514	HURRICANE	US	abuse@he.net
+146.88.241.0	146.88.241.138	24	506	-	-	-
+64.62.197.0	64.62.197.237	24	504	HURRICANE	US	abuse@he.net
+167.94.138.0	167.94.138.128	24	497	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.150	24	491	CENSYS-ARIN-03	US	None
+45.128.232.0	45.128.232.125	24	490	PUREVOLTAGE-INC	US	admin@purevoltage.com
+84.54.51.0	84.54.51.12	24	483	TIER-NET	US	None
+89.248.165.0	89.248.165.169	24	470	INT-NETWORK	SC	abuse@ipvolume.net
+167.94.146.0	167.94.146.75	24	464	CENSYS-ARIN-02	US	None
