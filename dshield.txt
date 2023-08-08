@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-08T13:15:17.067185
+#    updated: 2023-08-08T12:15:17.577815
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,14 +31,14 @@
 94.102.61.0	94.102.61.42	24	652	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.220	24	630	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.211	24	621	GOOGLE-CLOUD-PLATFORM	US	None
-79.124.62.0	79.124.62.86	24	617	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.82	24	617	DM_AUTO	BG	abuse@dm-auto.eu
 162.216.150.0	162.216.150.167	24	606	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.181	24	604	GOOGLE	US	network-abuse@google.com
-183.136.225.0	183.136.225.5	24	603	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-35.203.211.0	35.203.211.96	24	602	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.173	24	600	GOOGLE	US	network-abuse@google.com
-167.94.138.0	167.94.138.128	24	584	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.140	24	578	CENSYS-ARIN-03	US	None
+35.203.211.0	35.203.211.198	24	602	GOOGLE	US	network-abuse@google.com
+183.136.225.0	183.136.225.5	24	601	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+35.203.210.0	35.203.210.154	24	600	GOOGLE	US	network-abuse@google.com
+167.94.138.0	167.94.138.128	24	583	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.150	24	578	CENSYS-ARIN-03	US	None
 185.224.128.0	185.224.128.184	24	573	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 146.88.241.0	146.88.241.68	24	572	-	-	-
 193.163.125.0	193.163.125.183	24	568	CYBER-CASA	GB	>>UNKNOWN<<
