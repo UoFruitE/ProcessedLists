@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-08T04:00:17.082415
+#    updated: 2023-08-08T05:00:17.584245
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 185.233.19.0	185.233.19.184	24	686	WINDSTREAM	US	abuse@windstream.net
-77.90.185.0	77.90.185.10	24	666	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.72	24	666	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 94.102.61.0	94.102.61.42	24	650	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.220	24	629	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.211	24	620	GOOGLE-CLOUD-PLATFORM	US	None
 79.124.62.0	79.124.62.86	24	615	DM_AUTO	BG	abuse@dm-auto.eu
-162.216.150.0	162.216.150.242	24	605	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.158	24	605	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.181	24	603	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.96	24	601	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.198	24	601	GOOGLE	US	network-abuse@google.com
 183.136.225.0	183.136.225.5	24	600	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-35.203.210.0	35.203.210.173	24	599	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.3	24	599	GOOGLE	US	network-abuse@google.com
 167.94.138.0	167.94.138.128	24	582	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.140	24	577	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.150	24	577	CENSYS-ARIN-03	US	None
 185.224.128.0	185.224.128.184	24	572	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 146.88.241.0	146.88.241.118	24	571	-	-	-
 193.163.125.0	193.163.125.183	24	567	CYBER-CASA	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.68	24	564	HURRICANE	US	abuse@he.net
 193.35.18.0	193.35.18.206	24	562	-	-	-
 64.62.197.0	64.62.197.59	24	556	HURRICANE	US	abuse@he.net
-45.128.232.0	45.128.232.140	24	552	PUREVOLTAGE-INC	US	admin@purevoltage.com
+45.128.232.0	45.128.232.183	24	552	PUREVOLTAGE-INC	US	admin@purevoltage.com
