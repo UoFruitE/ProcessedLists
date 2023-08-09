@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-09T12:15:17.769433
+#    updated: 2023-08-09T11:15:17.960435
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,8 +37,8 @@
 79.124.62.0	79.124.62.130	24	551	DM_AUTO	BG	abuse@dm-auto.eu
 92.63.197.0	92.63.197.210	24	551	SIBIRINVEST	NL	qwalarty@ukr.net
 183.136.225.0	183.136.225.5	24	549	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-185.233.19.0	185.233.19.242	24	548	WINDSTREAM	US	abuse@windstream.net
 193.35.18.0	193.35.18.249	24	548	-	-	-
+185.233.19.0	185.233.19.242	24	547	WINDSTREAM	US	abuse@windstream.net
 84.54.51.0	84.54.51.142	24	543	TIER-NET	US	None
 65.49.1.0	65.49.1.94	24	539	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.26	24	536	CENSYS-ARIN-02	US	None
