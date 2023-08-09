@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-09T04:00:17.762745
+#    updated: 2023-08-09T05:00:17.136184
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-94.102.61.0	94.102.61.47	24	660	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.27	24	660	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.146	24	605	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.151	24	596	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 198.235.24.0	198.235.24.31	24	592	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.152	24	567	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.106	24	567	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.141	24	563	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-45.140.17.0	45.140.17.33	24	561	SELECTEL-MSK	RU	abuse@selectel.ru
-167.248.133.0	167.248.133.146	24	559	CENSYS-ARIN-03	US	None
+45.140.17.0	45.140.17.33	24	562	SELECTEL-MSK	RU	abuse@selectel.ru
+167.248.133.0	167.248.133.169	24	559	CENSYS-ARIN-03	US	None
 79.124.62.0	79.124.62.130	24	550	DM_AUTO	BG	abuse@dm-auto.eu
-92.63.197.0	92.63.197.92	24	550	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.91	24	550	SIBIRINVEST	NL	qwalarty@ukr.net
 183.136.225.0	183.136.225.5	24	549	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.35.18.0	193.35.18.249	24	548	-	-	-
 185.233.19.0	185.233.19.242	24	547	WINDSTREAM	US	abuse@windstream.net
-84.54.51.0	84.54.51.142	24	542	TIER-NET	US	None
-65.49.1.0	65.49.1.94	24	539	HURRICANE	US	abuse@he.net
-167.94.145.0	167.94.145.56	24	536	CENSYS-ARIN-02	US	None
+84.54.51.0	84.54.51.142	24	543	TIER-NET	US	None
+65.49.1.0	65.49.1.14	24	539	HURRICANE	US	abuse@he.net
+167.94.145.0	167.94.145.89	24	536	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.23	24	527	CYBER-CASA	GB	>>UNKNOWN<<
 89.248.165.0	89.248.165.163	24	522	INT-NETWORK	SC	abuse@ipvolume.net
-45.128.232.0	45.128.232.109	24	519	PUREVOLTAGE-INC	US	admin@purevoltage.com
-167.94.146.0	167.94.146.77	24	514	CENSYS-ARIN-02	US	None
+45.128.232.0	45.128.232.84	24	519	PUREVOLTAGE-INC	US	admin@purevoltage.com
+167.94.146.0	167.94.146.65	24	514	CENSYS-ARIN-02	US	None
