@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-10T05:00:17.975753
+#    updated: 2023-08-10T06:00:18.174923
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 94.102.61.0	94.102.61.49	24	612	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.180	24	604	GOOGLE-CLOUD-PLATFORM	US	None
-77.90.185.0	77.90.185.10	24	600	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.19	24	600	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.248.133.0	167.248.133.149	24	587	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.254	24	586	GOOGLE-CLOUD-PLATFORM	US	None
 92.63.197.0	92.63.197.90	24	583	SIBIRINVEST	NL	qwalarty@ukr.net
@@ -37,11 +37,11 @@
 193.105.134.0	193.105.134.40	24	578	ICME	IM	abuse@icmenet.com
 65.49.1.0	65.49.1.30	24	557	HURRICANE	US	abuse@he.net
 141.98.11.0	141.98.11.73	24	553	HOSTBALTIC	LT	>>UNKNOWN<<
-45.140.17.0	45.140.17.33	24	549	SELECTEL-MSK	RU	abuse@selectel.ru
+45.140.17.0	45.140.17.6	24	549	SELECTEL-MSK	RU	abuse@selectel.ru
 84.54.51.0	84.54.51.92	24	549	TIER-NET	US	None
 79.124.62.0	79.124.62.130	24	543	DM_AUTO	BG	abuse@dm-auto.eu
 89.248.165.0	89.248.165.198	24	542	INT-NETWORK	SC	abuse@ipvolume.net
-193.163.125.0	193.163.125.95	24	538	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.210	24	538	CYBER-CASA	GB	>>UNKNOWN<<
 185.156.73.0	185.156.73.94	24	535	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.146.0	167.94.146.72	24	533	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.23	24	530	CENSYS-ARIN-02	US	None
