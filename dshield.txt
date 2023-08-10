@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-10T06:00:18.174923
+#    updated: 2023-08-10T07:00:17.642726
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,7 +36,7 @@
 167.94.138.0	167.94.138.145	24	580	CENSYS-ARIN-01	US	None
 193.105.134.0	193.105.134.40	24	578	ICME	IM	abuse@icmenet.com
 65.49.1.0	65.49.1.30	24	557	HURRICANE	US	abuse@he.net
-141.98.11.0	141.98.11.73	24	553	HOSTBALTIC	LT	>>UNKNOWN<<
+141.98.11.0	141.98.11.60	24	553	HOSTBALTIC	LT	>>UNKNOWN<<
 45.140.17.0	45.140.17.6	24	549	SELECTEL-MSK	RU	abuse@selectel.ru
 84.54.51.0	84.54.51.92	24	549	TIER-NET	US	None
 79.124.62.0	79.124.62.130	24	543	DM_AUTO	BG	abuse@dm-auto.eu
