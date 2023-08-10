@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-10T07:00:17.642726
+#    updated: 2023-08-10T08:00:17.341966
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,18 +27,18 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 94.102.61.0	94.102.61.49	24	612	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.180	24	604	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.119	24	604	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.19	24	600	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.248.133.0	167.248.133.149	24	587	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.254	24	586	GOOGLE-CLOUD-PLATFORM	US	None
 92.63.197.0	92.63.197.90	24	583	SIBIRINVEST	NL	qwalarty@ukr.net
 183.136.225.0	183.136.225.48	24	582	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.94.138.0	167.94.138.145	24	580	CENSYS-ARIN-01	US	None
-193.105.134.0	193.105.134.40	24	578	ICME	IM	abuse@icmenet.com
+193.105.134.0	193.105.134.40	24	579	ICME	IM	abuse@icmenet.com
 65.49.1.0	65.49.1.30	24	557	HURRICANE	US	abuse@he.net
-141.98.11.0	141.98.11.60	24	553	HOSTBALTIC	LT	>>UNKNOWN<<
+141.98.11.0	141.98.11.73	24	553	HOSTBALTIC	LT	>>UNKNOWN<<
 45.140.17.0	45.140.17.6	24	549	SELECTEL-MSK	RU	abuse@selectel.ru
-84.54.51.0	84.54.51.92	24	549	TIER-NET	US	None
+84.54.51.0	84.54.51.252	24	549	TIER-NET	US	None
 79.124.62.0	79.124.62.130	24	543	DM_AUTO	BG	abuse@dm-auto.eu
 89.248.165.0	89.248.165.198	24	542	INT-NETWORK	SC	abuse@ipvolume.net
 193.163.125.0	193.163.125.210	24	538	CYBER-CASA	GB	>>UNKNOWN<<
