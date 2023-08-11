@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-11T16:15:18.314389
+#    updated: 2023-08-11T17:30:18.166607
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 193.163.125.0	193.163.125.80	24	523	CYBER-CASA	GB	>>UNKNOWN<<
 79.124.62.0	79.124.62.78	24	518	DM_AUTO	BG	abuse@dm-auto.eu
 45.128.232.0	45.128.232.152	24	511	PUREVOLTAGE-INC	US	admin@purevoltage.com
-141.98.11.0	141.98.11.19	24	506	HOSTBALTIC	LT	>>UNKNOWN<<
+141.98.11.0	141.98.11.116	24	506	HOSTBALTIC	LT	>>UNKNOWN<<
 45.140.17.0	45.140.17.33	24	502	SELECTEL-MSK	RU	abuse@selectel.ru
 185.233.19.0	185.233.19.243	24	499	WINDSTREAM	US	abuse@windstream.net
