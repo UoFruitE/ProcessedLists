@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-11T05:00:16.770390
+#    updated: 2023-08-11T06:00:17.252721
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 162.216.150.0	162.216.150.138	24	619	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.107	24	618	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.126	24	617	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.123	24	608	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.66	24	618	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.126	24	618	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.169	24	608	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.249	24	599	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.20	24	593	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.80	24	591	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.150	24	582	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-167.248.133.0	167.248.133.132	24	549	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.154	24	549	CENSYS-ARIN-03	US	None
 64.62.197.0	64.62.197.229	24	543	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.29	24	540	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.31	24	540	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 167.94.138.0	167.94.138.134	24	539	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.17	24	537	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 65.49.1.0	65.49.1.68	24	529	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.80	24	523	CYBER-CASA	GB	>>UNKNOWN<<
-79.124.62.0	79.124.62.62	24	516	DM_AUTO	BG	abuse@dm-auto.eu
-45.128.232.0	45.128.232.84	24	510	PUREVOLTAGE-INC	US	admin@purevoltage.com
+193.163.125.0	193.163.125.96	24	523	CYBER-CASA	GB	>>UNKNOWN<<
+79.124.62.0	79.124.62.78	24	517	DM_AUTO	BG	abuse@dm-auto.eu
+45.128.232.0	45.128.232.152	24	510	PUREVOLTAGE-INC	US	admin@purevoltage.com
 141.98.11.0	141.98.11.19	24	505	HOSTBALTIC	LT	>>UNKNOWN<<
-45.140.17.0	45.140.17.33	24	500	SELECTEL-MSK	RU	abuse@selectel.ru
+45.140.17.0	45.140.17.212	24	500	SELECTEL-MSK	RU	abuse@selectel.ru
 185.233.19.0	185.233.19.243	24	499	WINDSTREAM	US	abuse@windstream.net
