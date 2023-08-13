@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-13T09:00:12.230592
+#    updated: 2023-08-13T10:00:12.661355
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 162.216.149.0	162.216.149.75	24	505	GOOGLE	US	network-abuse@google.com
 77.90.185.0	77.90.185.80	24	499	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-162.216.150.0	162.216.150.139	24	493	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.131	24	493	GOOGLE	US	network-abuse@google.com
 205.210.31.0	205.210.31.42	24	489	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.205	24	487	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.157	24	484	GOOGLE-CLOUD-PLATFORM	US	None
@@ -41,7 +41,7 @@
 185.233.19.0	185.233.19.242	24	407	WINDSTREAM	US	abuse@windstream.net
 193.35.18.0	193.35.18.169	24	407	-	-	-
 65.49.1.0	65.49.1.17	24	405	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.82	24	401	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.82	24	402	DM_AUTO	BG	abuse@dm-auto.eu
 80.66.83.0	80.66.83.62	24	401	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 92.63.197.0	92.63.197.94	24	401	SIBIRINVEST	NL	qwalarty@ukr.net
 185.224.128.0	185.224.128.17	24	394	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
