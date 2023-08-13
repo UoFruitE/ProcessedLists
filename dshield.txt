@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-12T22:30:16.103365
+#    updated: 2023-08-13T00:15:09.037209
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-77.90.185.0	77.90.185.144	24	636	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-35.203.211.0	35.203.211.133	24	629	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.214	24	627	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.155	24	625	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.30	24	622	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.45	24	606	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.209	24	558	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.225	24	558	GOOGLE-CLOUD-PLATFORM	US	None
-79.124.62.0	79.124.62.82	24	549	DM_AUTO	BG	abuse@dm-auto.eu
-167.94.138.0	167.94.138.145	24	540	CENSYS-ARIN-01	US	None
-183.136.225.0	183.136.225.9	24	535	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.248.133.0	167.248.133.151	24	527	CENSYS-ARIN-03	US	None
-45.128.232.0	45.128.232.111	24	523	PUREVOLTAGE-INC	US	admin@purevoltage.com
-80.66.83.0	80.66.83.77	24	520	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
-185.224.128.0	185.224.128.17	24	505	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-65.49.1.0	65.49.1.98	24	504	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.128	24	499	HURRICANE	US	abuse@he.net
-176.111.174.0	176.111.174.152	24	486	-	-	-
-167.94.145.0	167.94.145.18	24	485	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.21	24	483	CENSYS-ARIN-02	US	None
+162.216.149.0	162.216.149.75	24	468	GOOGLE	US	network-abuse@google.com
+77.90.185.0	77.90.185.150	24	462	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+35.203.210.0	35.203.210.17	24	454	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.245	24	451	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.157	24	446	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.17	24	444	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.32	24	434	INT-NETWORK	SC	abuse@ipvolume.net
+35.203.211.0	35.203.211.138	24	427	GOOGLE	US	network-abuse@google.com
+193.163.125.0	193.163.125.96	24	420	CYBER-CASA	GB	>>UNKNOWN<<
+65.49.1.0	65.49.1.17	24	384	HURRICANE	US	abuse@he.net
+45.128.232.0	45.128.232.111	24	380	PUREVOLTAGE-INC	US	admin@purevoltage.com
+84.54.51.0	84.54.51.4	24	378	TIER-NET	US	None
+167.94.146.0	167.94.146.29	24	378	CENSYS-ARIN-02	US	None
+185.233.19.0	185.233.19.242	24	377	WINDSTREAM	US	abuse@windstream.net
+193.35.18.0	193.35.18.169	24	376	-	-	-
+80.66.83.0	80.66.83.62	24	371	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+79.124.62.0	79.124.62.82	24	371	DM_AUTO	BG	abuse@dm-auto.eu
+92.63.197.0	92.63.197.89	24	371	SIBIRINVEST	NL	qwalarty@ukr.net
+185.224.128.0	185.224.128.17	24	366	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+194.26.135.0	194.26.135.109	24	363	ASBAXETN	RU	radu.rcg@gmail.com
