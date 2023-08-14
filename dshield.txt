@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-14T08:00:06.411366
+#    updated: 2023-08-14T09:00:06.323317
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,11 +28,11 @@
 #     
 185.233.19.0	185.233.19.186	24	339	WINDSTREAM	US	abuse@windstream.net
 193.163.125.0	193.163.125.131	24	310	CYBER-CASA	GB	>>UNKNOWN<<
-84.54.51.0	84.54.51.4	24	307	TIER-NET	US	None
 146.88.241.0	146.88.241.120	24	307	-	-	-
+84.54.51.0	84.54.51.4	24	307	TIER-NET	US	None
 193.35.18.0	193.35.18.33	24	304	-	-	-
-162.216.150.0	162.216.150.44	24	302	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.174	24	302	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.44	24	302	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.247	24	301	GOOGLE	US	network-abuse@google.com
 194.26.135.0	194.26.135.74	24	300	ASBAXETN	RU	radu.rcg@gmail.com
 64.62.197.0	64.62.197.90	24	296	HURRICANE	US	abuse@he.net
@@ -44,5 +44,5 @@
 45.128.232.0	45.128.232.109	24	289	PUREVOLTAGE-INC	US	admin@purevoltage.com
 45.93.16.0	45.93.16.194	24	288	RELIABLESITE	US	abuse@reliablesite.net
 205.210.31.0	205.210.31.96	24	288	GOOGLE-CLOUD-PLATFORM	US	None
-37.44.238.0	37.44.238.188	24	280	HARMONYHOSTING-AS	FR	abuse@be1host.com
 65.49.1.0	65.49.1.65	24	280	HURRICANE	US	abuse@he.net
+37.44.238.0	37.44.238.188	24	280	HARMONYHOSTING-AS	FR	abuse@be1host.com
