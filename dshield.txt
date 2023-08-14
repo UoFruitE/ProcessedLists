@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-13T23:30:12.326936
+#    updated: 2023-08-14T00:30:06.488454
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-162.216.149.0	162.216.149.75	24	505	GOOGLE	US	network-abuse@google.com
-77.90.185.0	77.90.185.80	24	501	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-162.216.150.0	162.216.150.64	24	493	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.42	24	490	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.205	24	488	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.157	24	484	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.211.0	35.203.211.93	24	467	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.27	24	467	INT-NETWORK	SC	abuse@ipvolume.net
-193.163.125.0	193.163.125.96	24	454	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.146.0	167.94.146.72	24	411	CENSYS-ARIN-02	US	None
-84.54.51.0	84.54.51.4	24	410	TIER-NET	US	None
-45.128.232.0	45.128.232.111	24	409	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.233.19.0	185.233.19.242	24	409	WINDSTREAM	US	abuse@windstream.net
-193.35.18.0	193.35.18.249	24	409	-	-	-
-65.49.1.0	65.49.1.17	24	405	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.82	24	404	DM_AUTO	BG	abuse@dm-auto.eu
-80.66.83.0	80.66.83.62	24	404	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
-92.63.197.0	92.63.197.94	24	403	SIBIRINVEST	NL	qwalarty@ukr.net
-185.224.128.0	185.224.128.17	24	396	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-37.44.238.0	37.44.238.188	24	394	HARMONYHOSTING-AS	FR	abuse@be1host.com
+185.233.19.0	185.233.19.241	24	331	WINDSTREAM	US	abuse@windstream.net
+193.163.125.0	193.163.125.131	24	304	CYBER-CASA	GB	>>UNKNOWN<<
+84.54.51.0	84.54.51.4	24	300	TIER-NET	US	None
+146.88.241.0	146.88.241.40	24	300	-	-	-
+193.35.18.0	193.35.18.33	24	297	-	-	-
+194.26.135.0	194.26.135.129	24	297	ASBAXETN	RU	radu.rcg@gmail.com
+162.216.150.0	162.216.150.237	24	297	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.247	24	297	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.160	24	297	GOOGLE	US	network-abuse@google.com
+64.62.197.0	64.62.197.90	24	289	HURRICANE	US	abuse@he.net
+35.203.210.0	35.203.210.162	24	288	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.239	24	288	GOOGLE-CLOUD-PLATFORM	US	None
+185.224.128.0	185.224.128.17	24	286	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+205.210.31.0	205.210.31.96	24	285	GOOGLE-CLOUD-PLATFORM	US	None
+45.128.232.0	45.128.232.109	24	283	PUREVOLTAGE-INC	US	admin@purevoltage.com
+123.254.109.0	123.254.109.87	24	282	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+45.148.10.0	45.148.10.241	24	280	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.93.16.0	45.93.16.194	24	280	RELIABLESITE	US	abuse@reliablesite.net
+65.49.1.0	65.49.1.65	24	276	HURRICANE	US	abuse@he.net
+37.44.238.0	37.44.238.188	24	272	HARMONYHOSTING-AS	FR	abuse@be1host.com
