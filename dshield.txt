@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-14T15:15:07.169086
+#    updated: 2023-08-14T16:15:06.554723
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 45.128.232.0	45.128.232.109	24	289	PUREVOLTAGE-INC	US	admin@purevoltage.com
 205.210.31.0	205.210.31.96	24	289	GOOGLE-CLOUD-PLATFORM	US	None
 45.93.16.0	45.93.16.194	24	288	RELIABLESITE	US	abuse@reliablesite.net
-37.44.238.0	37.44.238.188	24	280	HARMONYHOSTING-AS	FR	abuse@be1host.com
 65.49.1.0	65.49.1.65	24	280	HURRICANE	US	abuse@he.net
+37.44.238.0	37.44.238.188	24	280	HARMONYHOSTING-AS	FR	abuse@be1host.com
