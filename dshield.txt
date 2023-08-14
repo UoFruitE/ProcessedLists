@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-14T09:00:06.323317
+#    updated: 2023-08-14T10:00:07.011408
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 185.233.19.0	185.233.19.186	24	339	WINDSTREAM	US	abuse@windstream.net
-193.163.125.0	193.163.125.131	24	310	CYBER-CASA	GB	>>UNKNOWN<<
-146.88.241.0	146.88.241.120	24	307	-	-	-
+193.163.125.0	193.163.125.131	24	311	CYBER-CASA	GB	>>UNKNOWN<<
 84.54.51.0	84.54.51.4	24	307	TIER-NET	US	None
+146.88.241.0	146.88.241.120	24	307	-	-	-
 193.35.18.0	193.35.18.33	24	304	-	-	-
-35.203.211.0	35.203.211.174	24	302	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.174	24	304	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.44	24	302	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.247	24	301	GOOGLE	US	network-abuse@google.com
 194.26.135.0	194.26.135.74	24	300	ASBAXETN	RU	radu.rcg@gmail.com
 64.62.197.0	64.62.197.90	24	296	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.17	24	293	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-198.235.24.0	198.235.24.239	24	292	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.162	24	291	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.211	24	292	GOOGLE-CLOUD-PLATFORM	US	None
 45.148.10.0	45.148.10.241	24	291	PPTECHNOLOGY	GB	abuse@vegatele.com
+35.203.210.0	35.203.210.162	24	291	GOOGLE	US	network-abuse@google.com
 123.254.109.0	123.254.109.225	24	290	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+205.210.31.0	205.210.31.96	24	289	GOOGLE-CLOUD-PLATFORM	US	None
 45.128.232.0	45.128.232.109	24	289	PUREVOLTAGE-INC	US	admin@purevoltage.com
 45.93.16.0	45.93.16.194	24	288	RELIABLESITE	US	abuse@reliablesite.net
-205.210.31.0	205.210.31.96	24	288	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.65	24	280	HURRICANE	US	abuse@he.net
 37.44.238.0	37.44.238.188	24	280	HARMONYHOSTING-AS	FR	abuse@be1host.com
