@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-15T03:00:13.420826
+#    updated: 2023-08-15T04:00:13.385437
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-194.26.135.0	194.26.135.133	24	665	ASBAXETN	RU	radu.rcg@gmail.com
-94.102.61.0	94.102.61.3	24	616	INT-NETWORK	SC	abuse@ipvolume.net
+194.26.135.0	194.26.135.133	24	666	ASBAXETN	RU	radu.rcg@gmail.com
+94.102.61.0	94.102.61.3	24	619	INT-NETWORK	SC	abuse@ipvolume.net
 185.233.19.0	185.233.19.249	24	576	WINDSTREAM	US	abuse@windstream.net
-84.54.51.0	84.54.51.121	24	566	TIER-NET	US	None
+84.54.51.0	84.54.51.4	24	567	TIER-NET	US	None
 167.248.133.0	167.248.133.167	24	551	CENSYS-ARIN-03	US	None
+77.90.185.0	77.90.185.157	24	550	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 183.136.225.0	183.136.225.5	24	549	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-77.90.185.0	77.90.185.157	24	547	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+80.66.83.0	80.66.83.62	24	546	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 167.94.138.0	167.94.138.110	24	546	CENSYS-ARIN-01	US	None
-80.66.83.0	80.66.83.165	24	545	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
-141.98.11.0	141.98.11.60	24	534	HOSTBALTIC	LT	>>UNKNOWN<<
-79.124.62.0	79.124.62.62	24	526	DM_AUTO	BG	abuse@dm-auto.eu
-92.63.197.0	92.63.197.91	24	522	SIBIRINVEST	NL	qwalarty@ukr.net
+141.98.11.0	141.98.11.60	24	537	HOSTBALTIC	LT	>>UNKNOWN<<
+79.124.62.0	79.124.62.62	24	529	DM_AUTO	BG	abuse@dm-auto.eu
+92.63.197.0	92.63.197.91	24	525	SIBIRINVEST	NL	qwalarty@ukr.net
 198.235.24.0	198.235.24.73	24	517	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.130	24	500	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.145.0	167.94.145.27	24	493	CENSYS-ARIN-02	US	None
 89.248.165.0	89.248.165.85	24	490	INT-NETWORK	SC	abuse@ipvolume.net
-185.224.128.0	185.224.128.17	24	484	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-94.156.102.0	94.156.102.248	24	473	NETERRA-AS	BG	abuse@neterra.net
+185.224.128.0	185.224.128.17	24	485	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+94.156.102.0	94.156.102.248	24	477	NETERRA-AS	BG	abuse@neterra.net
+167.94.146.0	167.94.146.72	24	473	CENSYS-ARIN-02	US	None
 185.156.73.0	185.156.73.89	24	473	SIBIRINVEST	NL	qwalarty@ukr.net
-167.94.146.0	167.94.146.72	24	470	CENSYS-ARIN-02	US	None
