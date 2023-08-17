@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-17T08:00:22.270053
+#    updated: 2023-08-17T09:00:22.450045
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,10 +29,10 @@
 77.90.185.0	77.90.185.19	24	644	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 185.233.19.0	185.233.19.247	24	624	WINDSTREAM	US	abuse@windstream.net
 94.102.61.0	94.102.61.39	24	623	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.222	24	610	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.193	24	610	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.8	24	584	GOOGLE-CLOUD-PLATFORM	US	None
 183.136.225.0	183.136.225.9	24	569	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.248.133.0	167.248.133.163	24	565	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.149	24	565	CENSYS-ARIN-03	US	None
 92.63.197.0	92.63.197.93	24	545	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.138.0	167.94.138.137	24	538	CENSYS-ARIN-01	US	None
 193.163.125.0	193.163.125.197	24	525	CYBER-CASA	GB	>>UNKNOWN<<
@@ -44,5 +44,5 @@
 193.35.18.0	193.35.18.101	24	504	-	-	-
 64.62.197.0	64.62.197.193	24	502	HURRICANE	US	abuse@he.net
 185.156.73.0	185.156.73.90	24	499	SIBIRINVEST	NL	qwalarty@ukr.net
-167.94.145.0	167.94.145.82	24	497	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.17	24	497	CENSYS-ARIN-02	US	None
 89.248.165.0	89.248.165.2	24	496	INT-NETWORK	SC	abuse@ipvolume.net
