@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-18T08:00:24.432427
+#    updated: 2023-08-18T09:00:25.148272
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,21 +28,21 @@
 #     
 162.216.149.0	162.216.149.116	24	663	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.217	24	660	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.231	24	659	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.34	24	658	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.4	24	642	GOOGLE-CLOUD-PLATFORM	US	None
-77.90.185.0	77.90.185.122	24	627	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+35.203.211.0	35.203.211.246	24	659	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.220	24	658	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.228	24	642	GOOGLE-CLOUD-PLATFORM	US	None
+77.90.185.0	77.90.185.120	24	627	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 205.210.31.0	205.210.31.111	24	619	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.46	24	600	INT-NETWORK	SC	abuse@ipvolume.net
 109.205.213.0	109.205.213.134	24	588	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 183.136.225.0	183.136.225.48	24	571	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.248.133.0	167.248.133.164	24	567	CENSYS-ARIN-03	US	None
-79.124.62.0	79.124.62.78	24	561	DM_AUTO	BG	abuse@dm-auto.eu
-167.94.138.0	167.94.138.144	24	559	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.175	24	567	CENSYS-ARIN-03	US	None
+79.124.62.0	79.124.62.62	24	561	DM_AUTO	BG	abuse@dm-auto.eu
+167.94.138.0	167.94.138.157	24	559	CENSYS-ARIN-01	US	None
 185.233.19.0	185.233.19.241	24	556	WINDSTREAM	US	abuse@windstream.net
 45.128.232.0	45.128.232.62	24	552	PUREVOLTAGE-INC	US	admin@purevoltage.com
 92.63.197.0	92.63.197.93	24	542	SIBIRINVEST	NL	qwalarty@ukr.net
 185.224.128.0	185.224.128.17	24	528	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-167.94.145.0	167.94.145.83	24	527	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.31	24	527	CENSYS-ARIN-02	US	None
 185.156.73.0	185.156.73.57	24	526	SIBIRINVEST	NL	qwalarty@ukr.net
-167.94.146.0	167.94.146.26	24	523	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.30	24	523	CENSYS-ARIN-02	US	None
