@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-19T14:00:25.248399
+#    updated: 2023-08-19T15:00:26.477063
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-35.203.211.0	35.203.211.27	24	642	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.199	24	639	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.76	24	642	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.188	24	639	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.130	24	638	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.184	24	636	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.38	24	624	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.213	24	622	GOOGLE-CLOUD-PLATFORM	US	None
-79.124.62.0	79.124.62.78	24	594	DM_AUTO	BG	abuse@dm-auto.eu
+35.203.210.0	35.203.210.181	24	624	GOOGLE	US	network-abuse@google.com
+205.210.31.0	205.210.31.160	24	622	GOOGLE-CLOUD-PLATFORM	US	None
+79.124.62.0	79.124.62.130	24	594	DM_AUTO	BG	abuse@dm-auto.eu
 94.102.61.0	94.102.61.38	24	581	INT-NETWORK	SC	abuse@ipvolume.net
 185.233.19.0	185.233.19.227	24	576	WINDSTREAM	US	abuse@windstream.net
 194.26.135.0	194.26.135.248	24	573	ASBAXETN	RU	radu.rcg@gmail.com
-92.63.197.0	92.63.197.92	24	569	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.131	24	569	SIBIRINVEST	NL	qwalarty@ukr.net
 77.90.185.0	77.90.185.157	24	550	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.138.0	167.94.138.156	24	550	CENSYS-ARIN-01	US	None
 183.136.225.0	183.136.225.42	24	547	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.248.133.0	167.248.133.156	24	538	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.140	24	538	CENSYS-ARIN-03	US	None
 84.54.51.0	84.54.51.235	24	528	TIER-NET	US	None
-185.156.73.0	185.156.73.107	24	528	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.127	24	517	CYBER-CASA	GB	>>UNKNOWN<<
+185.156.73.0	185.156.73.57	24	528	SIBIRINVEST	NL	qwalarty@ukr.net
+193.163.125.0	193.163.125.133	24	517	CYBER-CASA	GB	>>UNKNOWN<<
 141.98.11.0	141.98.11.19	24	513	HOSTBALTIC	LT	>>UNKNOWN<<
 193.35.18.0	193.35.18.249	24	513	-	-	-
