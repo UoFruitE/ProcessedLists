@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-20T07:30:25.415320
+#    updated: 2023-08-20T08:30:25.633831
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,14 +27,14 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 205.210.31.0	205.210.31.243	24	667	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.222	24	661	GOOGLE-CLOUD-PLATFORM	US	None
-185.233.19.0	185.233.19.247	24	652	WINDSTREAM	US	abuse@windstream.net
+198.235.24.0	198.235.24.41	24	661	GOOGLE-CLOUD-PLATFORM	US	None
+185.233.19.0	185.233.19.185	24	652	WINDSTREAM	US	abuse@windstream.net
 162.216.149.0	162.216.149.82	24	648	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.124	24	640	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.171	24	640	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.23	24	638	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.50	24	632	INT-NETWORK	SC	abuse@ipvolume.net
-35.203.210.0	35.203.210.42	24	629	GOOGLE	US	network-abuse@google.com
-194.26.135.0	194.26.135.33	24	574	ASBAXETN	RU	radu.rcg@gmail.com
+35.203.210.0	35.203.210.92	24	629	GOOGLE	US	network-abuse@google.com
+194.26.135.0	194.26.135.157	24	574	ASBAXETN	RU	radu.rcg@gmail.com
 167.248.133.0	167.248.133.154	24	571	CENSYS-ARIN-03	US	None
 193.163.125.0	193.163.125.152	24	568	CYBER-CASA	GB	>>UNKNOWN<<
 92.63.197.0	92.63.197.94	24	556	SIBIRINVEST	NL	qwalarty@ukr.net
@@ -42,7 +42,7 @@
 45.128.232.0	45.128.232.152	24	543	PUREVOLTAGE-INC	US	admin@purevoltage.com
 65.49.1.0	65.49.1.26	24	543	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.42	24	540	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-185.156.73.0	185.156.73.57	24	534	SIBIRINVEST	NL	qwalarty@ukr.net
-64.62.197.0	64.62.197.91	24	520	HURRICANE	US	abuse@he.net
-167.94.146.0	167.94.146.75	24	517	CENSYS-ARIN-02	US	None
-89.248.165.0	89.248.165.86	24	515	INT-NETWORK	SC	abuse@ipvolume.net
+185.156.73.0	185.156.73.107	24	534	SIBIRINVEST	NL	qwalarty@ukr.net
+64.62.197.0	64.62.197.135	24	520	HURRICANE	US	abuse@he.net
+167.94.146.0	167.94.146.68	24	517	CENSYS-ARIN-02	US	None
+89.248.165.0	89.248.165.85	24	515	INT-NETWORK	SC	abuse@ipvolume.net
