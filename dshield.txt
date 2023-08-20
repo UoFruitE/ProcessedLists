@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-20T11:45:25.832029
+#    updated: 2023-08-20T12:45:26.651067
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,8 +29,8 @@
 205.210.31.0	205.210.31.243	24	667	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.71	24	661	GOOGLE-CLOUD-PLATFORM	US	None
 185.233.19.0	185.233.19.242	24	652	WINDSTREAM	US	abuse@windstream.net
-162.216.149.0	162.216.149.82	24	648	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.14	24	640	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.82	24	649	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.14	24	641	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.153	24	638	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.47	24	632	INT-NETWORK	SC	abuse@ipvolume.net
 35.203.210.0	35.203.210.92	24	629	GOOGLE	US	network-abuse@google.com
