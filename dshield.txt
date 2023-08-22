@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-22T04:00:24.227882
+#    updated: 2023-08-22T05:00:25.127642
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.248	24	667	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.154	24	665	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.204	24	667	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.201	24	665	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.28	24	624	INT-NETWORK	SC	abuse@ipvolume.net
-185.233.19.0	185.233.19.245	24	613	WINDSTREAM	US	abuse@windstream.net
-77.90.185.0	77.90.185.150	24	601	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-167.248.133.0	167.248.133.159	24	596	CENSYS-ARIN-03	US	None
-89.248.163.0	89.248.163.205	24	594	INT-NETWORK	SC	abuse@ipvolume.net
-183.136.225.0	183.136.225.9	24	592	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+185.233.19.0	185.233.19.245	24	614	WINDSTREAM	US	abuse@windstream.net
+77.90.185.0	77.90.185.150	24	602	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+167.248.133.0	167.248.133.159	24	597	CENSYS-ARIN-03	US	None
+89.248.163.0	89.248.163.131	24	594	INT-NETWORK	SC	abuse@ipvolume.net
+183.136.225.0	183.136.225.9	24	593	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.94.138.0	167.94.138.102	24	590	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.17	24	589	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-167.94.138.0	167.94.138.102	24	588	CENSYS-ARIN-01	US	None
-45.128.232.0	45.128.232.183	24	585	PUREVOLTAGE-INC	US	admin@purevoltage.com
-109.205.213.0	109.205.213.12	24	576	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-84.54.51.0	84.54.51.4	24	573	TIER-NET	US	None
-79.124.62.0	79.124.62.86	24	567	DM_AUTO	BG	abuse@dm-auto.eu
+45.128.232.0	45.128.232.109	24	586	PUREVOLTAGE-INC	US	admin@purevoltage.com
+109.205.213.0	109.205.213.34	24	579	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
+84.54.51.0	84.54.51.254	24	576	TIER-NET	US	None
+79.124.62.0	79.124.62.82	24	568	DM_AUTO	BG	abuse@dm-auto.eu
 65.49.1.0	65.49.1.40	24	565	HURRICANE	US	abuse@he.net
-92.63.197.0	92.63.197.91	24	564	SIBIRINVEST	NL	qwalarty@ukr.net
+92.63.197.0	92.63.197.89	24	564	SIBIRINVEST	NL	qwalarty@ukr.net
+194.26.135.0	194.26.135.109	24	560	ASBAXETN	RU	radu.rcg@gmail.com
 80.94.95.0	80.94.95.249	24	558	DATACENTER	RO	>>UNKNOWN<<
-194.26.135.0	194.26.135.109	24	558	ASBAXETN	RU	radu.rcg@gmail.com
-167.94.145.0	167.94.145.95	24	551	CENSYS-ARIN-02	US	None
-89.248.165.0	89.248.165.102	24	546	INT-NETWORK	SC	abuse@ipvolume.net
+167.94.145.0	167.94.145.18	24	551	CENSYS-ARIN-02	US	None
+89.248.165.0	89.248.165.81	24	546	INT-NETWORK	SC	abuse@ipvolume.net
