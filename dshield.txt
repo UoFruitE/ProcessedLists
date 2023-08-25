@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-08-25T06:00:25.069416
+#    updated: 2023-08-25T07:00:25.394842
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-162.216.149.0	162.216.149.205	24	664	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.75	24	658	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.65	24	658	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.60	24	654	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.85	24	664	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.204	24	658	GOOGLE	US	network-abuse@google.com
+205.210.31.0	205.210.31.21	24	658	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.210.0	35.203.210.55	24	654	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.248	24	654	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.125	24	652	GOOGLE	US	network-abuse@google.com
-185.224.128.0	185.224.128.17	24	650	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-185.233.19.0	185.233.19.248	24	649	WINDSTREAM	US	abuse@windstream.net
+185.224.128.0	185.224.128.251	24	650	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.233.19.0	185.233.19.243	24	649	WINDSTREAM	US	abuse@windstream.net
 94.102.61.0	94.102.61.40	24	631	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.172	24	599	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.157	24	599	CENSYS-ARIN-03	US	None
 167.94.138.0	167.94.138.159	24	587	CENSYS-ARIN-01	US	None
 176.111.174.0	176.111.174.84	24	577	-	-	-
 183.136.225.0	183.136.225.5	24	577	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 65.49.1.0	65.49.1.94	24	570	HURRICANE	US	abuse@he.net
 89.248.163.0	89.248.163.189	24	570	INT-NETWORK	SC	abuse@ipvolume.net
-167.94.146.0	167.94.146.25	24	563	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.21	24	563	CENSYS-ARIN-02	US	None
 92.63.197.0	92.63.197.92	24	554	SIBIRINVEST	NL	qwalarty@ukr.net
-167.94.145.0	167.94.145.22	24	553	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.31	24	553	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.31	24	547	CYBER-CASA	GB	>>UNKNOWN<<
-77.90.185.0	77.90.185.151	24	546	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.19	24	546	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
