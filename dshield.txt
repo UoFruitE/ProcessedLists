@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-02T19:00:27.675853
+#    updated: 2023-09-02T20:00:27.206432
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,19 +30,19 @@
 185.224.128.0	185.224.128.17	24	643	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 35.203.210.0	35.203.210.254	24	634	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.53	24	624	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.238	24	624	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.85	24	624	GOOGLE-CLOUD-PLATFORM	US	None
 89.248.163.0	89.248.163.200	24	622	INT-NETWORK	SC	abuse@ipvolume.net
 198.235.24.0	198.235.24.59	24	619	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.149.0	162.216.149.122	24	615	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.74	24	608	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.213	24	615	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.87	24	608	GOOGLE	US	network-abuse@google.com
 167.94.138.0	167.94.138.156	24	602	CENSYS-ARIN-01	US	None
 77.90.185.0	77.90.185.19	24	601	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 213.109.202.0	213.109.202.52	24	598	ASBAXETN	RU	radu.rcg@gmail.com
-185.233.19.0	185.233.19.243	24	597	WINDSTREAM	US	abuse@windstream.net
-167.248.133.0	167.248.133.171	24	595	CENSYS-ARIN-03	US	None
+185.233.19.0	185.233.19.244	24	597	WINDSTREAM	US	abuse@windstream.net
+167.248.133.0	167.248.133.175	24	595	CENSYS-ARIN-03	US	None
 65.49.1.0	65.49.1.93	24	588	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.18	24	587	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.66	24	586	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.31	24	586	CENSYS-ARIN-02	US	None
 176.111.174.0	176.111.174.137	24	586	-	-	-
 45.128.232.0	45.128.232.173	24	584	PUREVOLTAGE-INC	US	admin@purevoltage.com
 183.136.225.0	183.136.225.9	24	572	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
