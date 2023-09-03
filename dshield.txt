@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-03T04:15:25.658309
+#    updated: 2023-09-03T05:15:25.989458
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.38	24	685	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.228	24	682	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.45	24	650	INT-NETWORK	SC	abuse@ipvolume.net
+198.235.24.0	198.235.24.251	24	685	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.204	24	683	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.40	24	650	INT-NETWORK	SC	abuse@ipvolume.net
+35.203.211.0	35.203.211.6	24	642	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.139	24	641	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.34	24	641	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.13	24	640	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.102	24	639	GOOGLE	US	network-abuse@google.com
-167.94.146.0	167.94.146.16	24	633	CENSYS-ARIN-02	US	None
+162.216.149.0	162.216.149.231	24	641	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.16	24	640	GOOGLE	US	network-abuse@google.com
+167.94.146.0	167.94.146.78	24	633	CENSYS-ARIN-02	US	None
 185.233.19.0	185.233.19.244	24	632	WINDSTREAM	US	abuse@windstream.net
 185.224.128.0	185.224.128.17	24	628	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-193.163.125.0	193.163.125.18	24	619	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.221	24	619	CYBER-CASA	GB	>>UNKNOWN<<
 167.248.133.0	167.248.133.133	24	608	CENSYS-ARIN-03	US	None
-45.128.232.0	45.128.232.12	24	605	PUREVOLTAGE-INC	US	admin@purevoltage.com
-77.90.185.0	77.90.185.117	24	601	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+45.128.232.0	45.128.232.140	24	605	PUREVOLTAGE-INC	US	admin@purevoltage.com
+77.90.185.0	77.90.185.19	24	601	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.138.0	167.94.138.152	24	598	CENSYS-ARIN-01	US	None
 89.248.163.0	89.248.163.189	24	582	INT-NETWORK	SC	abuse@ipvolume.net
 65.49.1.0	65.49.1.16	24	579	HURRICANE	US	abuse@he.net
-193.35.18.0	193.35.18.33	24	576	-	-	-
+193.35.18.0	193.35.18.33	24	577	-	-	-
 176.111.174.0	176.111.174.105	24	575	-	-	-
-183.136.225.0	183.136.225.5	24	573	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.5	24	574	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
