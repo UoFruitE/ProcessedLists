@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-09T16:00:27.991136
+#    updated: 2023-09-09T17:00:27.467130
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,20 +29,20 @@
 94.102.61.0	94.102.61.53	24	643	INT-NETWORK	SC	abuse@ipvolume.net
 185.224.128.0	185.224.128.17	24	635	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 198.235.24.0	198.235.24.103	24	621	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.139	24	620	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.163	24	620	GOOGLE	US	network-abuse@google.com
 205.210.31.0	205.210.31.128	24	618	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.156	24	613	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.156	24	611	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.123	24	611	CENSYS-ARIN-03	US	None
 162.216.149.0	162.216.149.9	24	599	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.116	24	595	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.32	24	595	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.254	24	594	GOOGLE	US	network-abuse@google.com
-167.94.146.0	167.94.146.76	24	594	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.72	24	594	CENSYS-ARIN-02	US	None
 179.43.191.0	179.43.191.194	24	591	PLI-AS	PA	abuse@privatelayer.com
-176.111.174.0	176.111.174.112	24	588	-	-	-
-183.136.225.0	183.136.225.5	24	588	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-45.128.232.0	45.128.232.140	24	581	PUREVOLTAGE-INC	US	admin@purevoltage.com
+176.111.174.0	176.111.174.97	24	588	-	-	-
+183.136.225.0	183.136.225.48	24	588	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+45.128.232.0	45.128.232.125	24	581	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.233.19.0	185.233.19.242	24	580	WINDSTREAM	US	abuse@windstream.net
 80.66.83.0	80.66.83.52	24	579	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
 89.248.163.0	89.248.163.245	24	571	INT-NETWORK	SC	abuse@ipvolume.net
-171.67.71.0	171.67.71.96	24	570	STANFORD	US	abuse@stanford.edu
-167.94.145.0	167.94.145.93	24	563	CENSYS-ARIN-02	US	None
+171.67.71.0	171.67.71.80	24	570	STANFORD	US	abuse@stanford.edu
+167.94.145.0	167.94.145.58	24	563	CENSYS-ARIN-02	US	None
