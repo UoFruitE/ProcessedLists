@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-14T20:45:16.222952
+#    updated: 2023-09-14T21:45:17.328103
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,22 +27,22 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 77.90.185.0	77.90.185.111	24	606	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-162.216.150.0	162.216.150.242	24	566	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.26	24	560	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.131	24	568	GOOGLE	US	network-abuse@google.com
+185.233.19.0	185.233.19.185	24	563	WINDSTREAM	US	abuse@windstream.net
+35.203.210.0	35.203.210.56	24	561	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.65	24	557	GOOGLE	US	network-abuse@google.com
-185.233.19.0	185.233.19.185	24	555	WINDSTREAM	US	abuse@windstream.net
-35.203.211.0	35.203.211.221	24	553	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.49	24	553	INT-NETWORK	SC	abuse@ipvolume.net
-198.235.24.0	198.235.24.49	24	514	GOOGLE-CLOUD-PLATFORM	US	None
-185.224.128.0	185.224.128.17	24	508	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+35.203.211.0	35.203.211.125	24	554	GOOGLE	US	network-abuse@google.com
+94.102.61.0	94.102.61.25	24	554	INT-NETWORK	SC	abuse@ipvolume.net
+185.224.128.0	185.224.128.17	24	515	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+198.235.24.0	198.235.24.126	24	514	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.138.0	167.94.138.151	24	508	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.26	24	507	GOOGLE-CLOUD-PLATFORM	US	None
-80.66.83.0	80.66.83.88	24	501	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
-167.94.138.0	167.94.138.151	24	500	CENSYS-ARIN-01	US	None
-92.63.197.0	92.63.197.91	24	494	SIBIRINVEST	NL	qwalarty@ukr.net
-89.248.163.0	89.248.163.189	24	487	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.170	24	487	CENSYS-ARIN-03	US	None
-176.111.174.0	176.111.174.86	24	485	-	-	-
-183.136.225.0	183.136.225.32	24	476	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-141.98.11.0	141.98.11.95	24	463	HOSTBALTIC	LT	>>UNKNOWN<<
-65.49.1.0	65.49.1.11	24	461	HURRICANE	US	abuse@he.net
-64.62.197.0	64.62.197.174	24	455	HURRICANE	US	abuse@he.net
+80.66.83.0	80.66.83.171	24	506	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+89.248.163.0	89.248.163.189	24	500	INT-NETWORK	SC	abuse@ipvolume.net
+92.63.197.0	92.63.197.91	24	497	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.167	24	494	CENSYS-ARIN-03	US	None
+176.111.174.0	176.111.174.86	24	494	-	-	-
+183.136.225.0	183.136.225.32	24	481	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+141.98.11.0	141.98.11.60	24	463	HOSTBALTIC	LT	>>UNKNOWN<<
+167.94.146.0	167.94.146.71	24	463	CENSYS-ARIN-02	US	None
+65.49.1.0	65.49.1.31	24	461	HURRICANE	US	abuse@he.net
