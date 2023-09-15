@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-15T14:00:33.854764
+#    updated: 2023-09-15T15:15:33.673306
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,14 +28,14 @@
 #     
 77.90.185.0	77.90.185.165	24	658	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 185.233.19.0	185.233.19.227	24	629	WINDSTREAM	US	abuse@windstream.net
-162.216.150.0	162.216.150.197	24	618	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.223	24	618	GOOGLE	US	network-abuse@google.com
 185.224.128.0	185.224.128.17	24	618	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-35.203.210.0	35.203.210.209	24	614	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.71	24	614	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.72	24	609	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.9	24	607	GOOGLE	US	network-abuse@google.com
 94.102.61.0	94.102.61.25	24	605	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.138.0	167.94.138.149	24	578	CENSYS-ARIN-01	US	None
-198.235.24.0	198.235.24.126	24	577	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.115	24	577	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.14	24	575	GOOGLE-CLOUD-PLATFORM	US	None
 92.63.197.0	92.63.197.91	24	566	SIBIRINVEST	NL	qwalarty@ukr.net
 167.248.133.0	167.248.133.129	24	566	CENSYS-ARIN-03	US	None
@@ -43,6 +43,6 @@
 176.111.174.0	176.111.174.183	24	554	-	-	-
 89.248.163.0	89.248.163.189	24	552	INT-NETWORK	SC	abuse@ipvolume.net
 183.136.225.0	183.136.225.29	24	550	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.146.0	167.94.146.18	24	535	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.30	24	535	CENSYS-ARIN-02	US	None
 37.44.238.0	37.44.238.199	24	525	HARMONYHOSTING-AS	FR	abuse@be1host.com
 167.94.145.0	167.94.145.92	24	523	CENSYS-ARIN-02	US	None
