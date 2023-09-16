@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-16T16:00:35.954175
+#    updated: 2023-09-16T17:00:36.300891
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 185.233.19.0	185.233.19.248	24	688	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.91	24	619	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.216	24	618	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.234	24	618	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.99	24	603	GOOGLE	US	network-abuse@google.com
 185.224.128.0	185.224.128.251	24	602	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 35.203.211.0	35.203.211.49	24	599	GOOGLE	US	network-abuse@google.com
@@ -42,7 +42,7 @@
 167.248.133.0	167.248.133.128	24	583	CENSYS-ARIN-03	US	None
 92.63.197.0	92.63.197.90	24	578	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.146.0	167.94.146.17	24	578	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.25	24	577	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.84	24	577	CENSYS-ARIN-02	US	None
 45.128.232.0	45.128.232.166	24	575	PUREVOLTAGE-INC	US	admin@purevoltage.com
 193.35.18.0	193.35.18.33	24	575	-	-	-
 79.124.62.0	79.124.62.78	24	568	DM_AUTO	BG	abuse@dm-auto.eu
