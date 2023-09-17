@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-17T02:15:35.248497
+#    updated: 2023-09-17T03:15:34.925526
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-198.235.24.0	198.235.24.46	24	652	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.2	24	647	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.46	24	662	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.2	24	658	GOOGLE-CLOUD-PLATFORM	US	None
 185.233.19.0	185.233.19.198	24	645	WINDSTREAM	US	abuse@windstream.net
 94.102.61.0	94.102.61.45	24	619	INT-NETWORK	SC	abuse@ipvolume.net
-162.216.149.0	162.216.149.179	24	596	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.33	24	595	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.33	24	611	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.179	24	608	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.231	24	606	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.208	24	603	GOOGLE	US	network-abuse@google.com
 77.90.185.0	77.90.185.180	24	593	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-35.203.210.0	35.203.210.231	24	591	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.242	24	591	GOOGLE	US	network-abuse@google.com
-167.94.138.0	167.94.138.146	24	589	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.146	24	590	CENSYS-ARIN-01	US	None
 176.111.174.0	176.111.174.89	24	575	-	-	-
 45.128.232.0	45.128.232.173	24	572	PUREVOLTAGE-INC	US	admin@purevoltage.com
-167.248.133.0	167.248.133.155	24	568	CENSYS-ARIN-03	US	None
-92.63.197.0	92.63.197.93	24	566	SIBIRINVEST	NL	qwalarty@ukr.net
+167.248.133.0	167.248.133.142	24	568	CENSYS-ARIN-03	US	None
+92.63.197.0	92.63.197.92	24	567	SIBIRINVEST	NL	qwalarty@ukr.net
 167.94.146.0	167.94.146.75	24	566	CENSYS-ARIN-02	US	None
 80.66.83.0	80.66.83.171	24	564	XHOST-INTERNET-SOLUTIONS	NL	>>UNKNOWN<<
+89.248.163.0	89.248.163.200	24	562	INT-NETWORK	SC	abuse@ipvolume.net
 179.43.191.0	179.43.191.194	24	557	PLI-AS	PA	abuse@privatelayer.com
-89.248.163.0	89.248.163.200	24	555	INT-NETWORK	SC	abuse@ipvolume.net
 183.136.225.0	183.136.225.29	24	554	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 193.35.18.0	193.35.18.187	24	551	-	-	-
