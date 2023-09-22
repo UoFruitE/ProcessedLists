@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-22T13:00:31.231372
+#    updated: 2023-09-22T14:15:31.507690
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 77.90.185.0	77.90.185.255	24	662	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 162.216.150.0	162.216.150.255	24	617	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	608	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.255	24	604	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	605	INT-NETWORK	SC	abuse@ipvolume.net
 162.216.149.0	162.216.149.255	24	603	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	601	GOOGLE	US	network-abuse@google.com
 205.210.31.0	205.210.31.255	24	591	GOOGLE-CLOUD-PLATFORM	US	None
@@ -37,12 +37,12 @@
 167.94.138.0	167.94.138.255	24	586	CENSYS-ARIN-01	US	None
 141.98.11.0	141.98.11.255	24	573	HOSTBALTIC	LT	>>UNKNOWN<<
 167.248.133.0	167.248.133.255	24	571	CENSYS-ARIN-03	US	None
-185.233.19.0	185.233.19.255	24	570	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.255	24	571	WINDSTREAM	US	abuse@windstream.net
 92.63.197.0	92.63.197.255	24	559	SIBIRINVEST	NL	qwalarty@ukr.net
 176.111.174.0	176.111.174.255	24	557	-	-	-
 193.35.18.0	193.35.18.255	24	556	-	-	-
-183.136.225.0	183.136.225.255	24	549	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.255	24	550	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 45.128.232.0	45.128.232.255	24	546	PUREVOLTAGE-INC	US	admin@purevoltage.com
-167.94.146.0	167.94.146.255	24	533	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	534	CENSYS-ARIN-02	US	None
 109.205.213.0	109.205.213.255	24	530	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-167.94.145.0	167.94.145.255	24	528	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	529	CENSYS-ARIN-02	US	None
