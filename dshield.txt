@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-24T18:45:18.671383
+#    updated: 2023-09-24T20:00:21.335809
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-35.203.211.0	35.203.211.255	24	586	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.255	24	573	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.255	24	570	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.150.0	162.216.150.255	24	563	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.255	24	593	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.255	24	584	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.255	24	579	GOOGLE-CLOUD-PLATFORM	US	None
+94.102.61.0	94.102.61.255	24	570	INT-NETWORK	SC	abuse@ipvolume.net
+162.216.150.0	162.216.150.255	24	567	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	565	GOOGLE	US	network-abuse@google.com
 77.90.185.0	77.90.185.255	24	560	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-94.102.61.0	94.102.61.255	24	559	INT-NETWORK	SC	abuse@ipvolume.net
-64.62.197.0	64.62.197.255	24	551	HURRICANE	US	abuse@he.net
-162.216.149.0	162.216.149.255	24	550	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.255	24	548	GOOGLE-CLOUD-PLATFORM	US	None
-193.35.18.0	193.35.18.255	24	539	-	-	-
-167.94.138.0	167.94.138.255	24	525	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.255	24	513	CENSYS-ARIN-03	US	None
-183.136.225.0	183.136.225.255	24	500	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-92.63.197.0	92.63.197.255	24	498	SIBIRINVEST	NL	qwalarty@ukr.net
-193.163.125.0	193.163.125.255	24	495	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.146.0	167.94.146.255	24	485	CENSYS-ARIN-02	US	None
-79.124.62.0	79.124.62.255	24	478	DM_AUTO	BG	abuse@dm-auto.eu
-109.205.213.0	109.205.213.255	24	477	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
-84.54.51.0	84.54.51.255	24	475	TIER-NET	US	None
-185.156.73.0	185.156.73.255	24	474	SIBIRINVEST	NL	qwalarty@ukr.net
+64.62.197.0	64.62.197.255	24	555	HURRICANE	US	abuse@he.net
+205.210.31.0	205.210.31.255	24	555	GOOGLE-CLOUD-PLATFORM	US	None
+193.35.18.0	193.35.18.255	24	553	-	-	-
+167.94.138.0	167.94.138.255	24	531	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.255	24	526	CENSYS-ARIN-03	US	None
+193.163.125.0	193.163.125.255	24	508	CYBER-CASA	GB	>>UNKNOWN<<
+183.136.225.0	183.136.225.255	24	506	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+167.94.146.0	167.94.146.255	24	505	CENSYS-ARIN-02	US	None
+92.63.197.0	92.63.197.255	24	504	SIBIRINVEST	NL	qwalarty@ukr.net
+79.124.62.0	79.124.62.255	24	484	DM_AUTO	BG	abuse@dm-auto.eu
+185.156.73.0	185.156.73.255	24	483	SIBIRINVEST	NL	qwalarty@ukr.net
+84.54.51.0	84.54.51.255	24	481	TIER-NET	US	None
+45.128.232.0	45.128.232.255	24	478	PUREVOLTAGE-INC	US	admin@purevoltage.com
