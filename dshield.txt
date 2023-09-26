@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-26T15:00:39.901117
+#    updated: 2023-09-26T16:00:39.112429
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,19 +27,19 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 94.102.61.0	94.102.61.255	24	653	INT-NETWORK	SC	abuse@ipvolume.net
-185.233.19.0	185.233.19.255	24	636	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.255	24	637	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.255	24	617	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.255	24	614	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.138.0	167.94.138.255	24	612	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	610	GOOGLE-CLOUD-PLATFORM	US	None
+79.124.62.0	79.124.62.255	24	606	DM_AUTO	BG	abuse@dm-auto.eu
 167.248.133.0	167.248.133.255	24	606	CENSYS-ARIN-03	US	None
-79.124.62.0	79.124.62.255	24	604	DM_AUTO	BG	abuse@dm-auto.eu
 193.35.18.0	193.35.18.255	24	602	-	-	-
 35.203.210.0	35.203.210.255	24	600	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	599	GOOGLE	US	network-abuse@google.com
+45.128.232.0	45.128.232.255	24	596	PUREVOLTAGE-INC	US	admin@purevoltage.com
 162.216.150.0	162.216.150.255	24	595	GOOGLE	US	network-abuse@google.com
-45.128.232.0	45.128.232.255	24	594	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.224.128.0	185.224.128.255	24	594	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.224.128.0	185.224.128.255	24	595	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 162.216.149.0	162.216.149.255	24	587	GOOGLE	US	network-abuse@google.com
 167.94.145.0	167.94.145.255	24	574	CENSYS-ARIN-02	US	None
 176.111.174.0	176.111.174.255	24	573	-	-	-
