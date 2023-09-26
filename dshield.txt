@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-26T04:45:37.329678
+#    updated: 2023-09-26T05:45:36.847003
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 94.102.61.0	94.102.61.255	24	651	INT-NETWORK	SC	abuse@ipvolume.net
 185.233.19.0	185.233.19.255	24	635	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.255	24	617	GOOGLE-CLOUD-PLATFORM	US	None
-77.90.185.0	77.90.185.255	24	610	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+77.90.185.0	77.90.185.255	24	611	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.138.0	167.94.138.255	24	610	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	610	GOOGLE-CLOUD-PLATFORM	US	None
 167.248.133.0	167.248.133.255	24	604	CENSYS-ARIN-03	US	None
@@ -40,9 +40,9 @@
 162.216.150.0	162.216.150.255	24	595	GOOGLE	US	network-abuse@google.com
 185.224.128.0	185.224.128.255	24	593	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 45.128.232.0	45.128.232.255	24	590	PUREVOLTAGE-INC	US	admin@purevoltage.com
-162.216.149.0	162.216.149.255	24	586	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	587	GOOGLE	US	network-abuse@google.com
 167.94.145.0	167.94.145.255	24	571	CENSYS-ARIN-02	US	None
-176.111.174.0	176.111.174.255	24	569	-	-	-
-193.163.125.0	193.163.125.255	24	567	CYBER-CASA	GB	>>UNKNOWN<<
+176.111.174.0	176.111.174.255	24	570	-	-	-
+193.163.125.0	193.163.125.255	24	568	CYBER-CASA	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	558	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.255	24	553	CENSYS-ARIN-02	US	None
