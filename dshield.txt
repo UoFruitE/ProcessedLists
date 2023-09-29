@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-09-29T03:15:36.869292
+#    updated: 2023-09-29T04:00:37.209574
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-162.216.150.0	162.216.150.255	24	683	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.255	24	679	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.255	24	679	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.255	24	679	GOOGLE	US	network-abuse@google.com
-198.235.24.0	198.235.24.255	24	651	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	646	GOOGLE-CLOUD-PLATFORM	US	None
-185.233.19.0	185.233.19.255	24	643	WINDSTREAM	US	abuse@windstream.net
-77.90.185.0	77.90.185.255	24	642	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-94.102.61.0	94.102.61.255	24	629	INT-NETWORK	SC	abuse@ipvolume.net
-167.248.133.0	167.248.133.255	24	624	CENSYS-ARIN-03	US	None
+162.216.150.0	162.216.150.255	24	685	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.255	24	681	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	681	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.255	24	680	GOOGLE	US	network-abuse@google.com
+198.235.24.0	198.235.24.255	24	653	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	649	GOOGLE-CLOUD-PLATFORM	US	None
+77.90.185.0	77.90.185.255	24	646	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+185.233.19.0	185.233.19.255	24	646	WINDSTREAM	US	abuse@windstream.net
+94.102.61.0	94.102.61.255	24	631	INT-NETWORK	SC	abuse@ipvolume.net
+167.248.133.0	167.248.133.255	24	626	CENSYS-ARIN-03	US	None
 79.124.62.0	79.124.62.255	24	617	DM_AUTO	BG	abuse@dm-auto.eu
-167.94.138.0	167.94.138.255	24	616	CENSYS-ARIN-01	US	None
-167.94.146.0	167.94.146.255	24	597	CENSYS-ARIN-02	US	None
+167.94.138.0	167.94.138.255	24	617	CENSYS-ARIN-01	US	None
+167.94.146.0	167.94.146.255	24	598	CENSYS-ARIN-02	US	None
 176.111.174.0	176.111.174.255	24	589	-	-	-
 193.35.18.0	193.35.18.255	24	588	-	-	-
-193.163.125.0	193.163.125.255	24	586	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	587	CYBER-CASA	GB	>>UNKNOWN<<
 194.26.135.0	194.26.135.255	24	578	ASBAXETN	RU	radu.rcg@gmail.com
-37.44.238.0	37.44.238.255	24	571	HARMONYHOSTING-AS	FR	abuse@be1host.com
+37.44.238.0	37.44.238.255	24	572	HARMONYHOSTING-AS	FR	abuse@be1host.com
 45.128.232.0	45.128.232.255	24	566	PUREVOLTAGE-INC	US	admin@purevoltage.com
 185.224.128.0	185.224.128.255	24	566	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
