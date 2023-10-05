@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-05T07:00:30.346407
+#    updated: 2023-10-05T08:00:31.065468
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 89.248.163.0	89.248.163.255	24	613	INT-NETWORK	SC	abuse@ipvolume.net
 185.233.19.0	185.233.19.255	24	613	WINDSTREAM	US	abuse@windstream.net
 37.44.238.0	37.44.238.255	24	611	HARMONYHOSTING-AS	FR	abuse@be1host.com
-94.102.61.0	94.102.61.255	24	605	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	606	INT-NETWORK	SC	abuse@ipvolume.net
 193.163.125.0	193.163.125.255	24	605	CYBER-CASA	GB	>>UNKNOWN<<
-162.216.150.0	162.216.150.255	24	599	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	600	GOOGLE	US	network-abuse@google.com
 194.26.135.0	194.26.135.255	24	597	ASBAXETN	RU	radu.rcg@gmail.com
 185.224.128.0	185.224.128.255	24	596	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+141.98.11.0	141.98.11.255	24	584	HOSTBALTIC	LT	>>UNKNOWN<<
 167.94.146.0	167.94.146.255	24	584	CENSYS-ARIN-02	US	None
-141.98.11.0	141.98.11.255	24	583	HOSTBALTIC	LT	>>UNKNOWN<<
+35.203.211.0	35.203.211.255	24	581	GOOGLE	US	network-abuse@google.com
 167.94.145.0	167.94.145.255	24	581	CENSYS-ARIN-02	US	None
-35.203.211.0	35.203.211.255	24	579	GOOGLE	US	network-abuse@google.com
