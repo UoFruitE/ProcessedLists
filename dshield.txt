@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-06T11:00:31.714470
+#    updated: 2023-10-06T12:15:34.808460
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,7 +35,7 @@
 185.233.19.0	185.233.19.255	24	627	WINDSTREAM	US	abuse@windstream.net
 198.235.24.0	198.235.24.255	24	616	GOOGLE-CLOUD-PLATFORM	US	None
 141.98.11.0	141.98.11.255	24	614	HOSTBALTIC	LT	>>UNKNOWN<<
-167.248.133.0	167.248.133.255	24	609	CENSYS-ARIN-03	US	None
+167.248.133.0	167.248.133.255	24	610	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.255	24	604	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	603	CENSYS-ARIN-01	US	None
 45.128.232.0	45.128.232.255	24	602	PUREVOLTAGE-INC	US	admin@purevoltage.com
