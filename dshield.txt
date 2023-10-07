@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-07T11:45:35.413887
+#    updated: 2023-10-07T12:45:35.373099
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,16 +31,16 @@
 193.35.18.0	193.35.18.255	24	655	-	-	-
 35.203.211.0	35.203.211.255	24	642	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	641	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	629	GOOGLE	US	network-abuse@google.com
 45.128.232.0	45.128.232.255	24	628	PUREVOLTAGE-INC	US	admin@purevoltage.com
-162.216.149.0	162.216.149.255	24	628	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.255	24	627	GOOGLE	US	network-abuse@google.com
 167.94.138.0	167.94.138.255	24	617	CENSYS-ARIN-01	US	None
 84.54.51.0	84.54.51.255	24	615	TIER-NET	US	None
 185.233.19.0	185.233.19.255	24	612	WINDSTREAM	US	abuse@windstream.net
 198.235.24.0	198.235.24.255	24	612	GOOGLE-CLOUD-PLATFORM	US	None
+167.248.133.0	167.248.133.255	24	611	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.255	24	611	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.255	24	610	CENSYS-ARIN-03	US	None
-193.163.125.0	193.163.125.255	24	601	CYBER-CASA	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	602	CYBER-CASA	GB	>>UNKNOWN<<
 89.248.163.0	89.248.163.255	24	592	INT-NETWORK	SC	abuse@ipvolume.net
 37.44.238.0	37.44.238.255	24	590	HARMONYHOSTING-AS	FR	abuse@be1host.com
 194.26.135.0	194.26.135.255	24	587	ASBAXETN	RU	radu.rcg@gmail.com
