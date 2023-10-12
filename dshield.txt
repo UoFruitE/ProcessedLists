@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-12T12:15:25.205593
+#    updated: 2023-10-12T13:15:25.019254
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 77.90.185.0	77.90.185.255	24	560	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 167.94.145.0	167.94.145.255	24	551	CENSYS-ARIN-02	US	None
 45.128.232.0	45.128.232.255	24	550	PUREVOLTAGE-INC	US	admin@purevoltage.com
-185.224.128.0	185.224.128.255	24	546	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.224.128.0	185.224.128.255	24	547	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 84.54.51.0	84.54.51.255	24	542	TIER-NET	US	None
 176.111.174.0	176.111.174.255	24	539	-	-	-
 193.163.125.0	193.163.125.255	24	531	CYBER-CASA	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	530	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.255	24	530	CENSYS-ARIN-02	US	None
-183.136.225.0	183.136.225.255	24	519	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.255	24	520	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 185.11.61.0	185.11.61.255	24	515	-	-	-
 64.62.197.0	64.62.197.255	24	513	HURRICANE	US	abuse@he.net
 185.81.68.0	185.81.68.255	24	510	SELECTEL-MSK	RU	abuse@selectel.ru
