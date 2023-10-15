@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-15T09:00:28.567747
+#    updated: 2023-10-15T10:00:28.433574
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 167.94.146.0	167.94.146.255	24	593	CENSYS-ARIN-02	US	None
 45.128.232.0	45.128.232.255	24	580	PUREVOLTAGE-INC	US	admin@purevoltage.com
 64.62.197.0	64.62.197.255	24	579	HURRICANE	US	abuse@he.net
-176.111.174.0	176.111.174.255	24	566	-	-	-
+176.111.174.0	176.111.174.255	24	567	-	-	-
 89.248.165.0	89.248.165.255	24	556	INT-NETWORK	SC	abuse@ipvolume.net
