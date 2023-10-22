@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-22T03:00:27.989689
+#    updated: 2023-10-22T04:15:28.812597
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,8 +39,8 @@
 167.248.133.0	167.248.133.255	24	614	CENSYS-ARIN-03	US	None
 84.54.51.0	84.54.51.255	24	607	TIER-NET	US	None
 194.26.135.0	194.26.135.255	24	601	ASBAXETN	RU	radu.rcg@gmail.com
+193.163.125.0	193.163.125.255	24	599	CYBER-CASA	GB	>>UNKNOWN<<
 167.94.146.0	167.94.146.255	24	594	CENSYS-ARIN-02	US	None
-193.163.125.0	193.163.125.255	24	593	CYBER-CASA	GB	>>UNKNOWN<<
 91.240.118.0	91.240.118.255	24	584	CHANGWAY-AS	HK	noc@ameurotel.com
 167.94.145.0	167.94.145.255	24	584	CENSYS-ARIN-02	US	None
 146.88.241.0	146.88.241.255	24	555	-	-	-
