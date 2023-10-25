@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-25T05:00:22.670693
+#    updated: 2023-10-25T06:00:24.085162
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 198.235.24.0	198.235.24.255	24	600	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	597	GOOGLE-CLOUD-PLATFORM	US	None
 185.233.19.0	185.233.19.255	24	595	WINDSTREAM	US	abuse@windstream.net
-176.111.174.0	176.111.174.255	24	590	-	-	-
+176.111.174.0	176.111.174.255	24	591	-	-	-
 185.224.128.0	185.224.128.255	24	590	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 213.109.202.0	213.109.202.255	24	585	ASBAXETN	RU	radu.rcg@gmail.com
 167.248.133.0	167.248.133.255	24	572	CENSYS-ARIN-03	US	None
 167.94.145.0	167.94.145.255	24	571	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	568	CYBER-CASA	GB	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	566	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	567	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	566	CENSYS-ARIN-02	US	None
 83.97.73.0	83.97.73.255	24	561	-	-	-
 64.62.197.0	64.62.197.255	24	556	HURRICANE	US	abuse@he.net
