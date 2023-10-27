@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-27T17:45:15.661886
+#    updated: 2023-10-27T18:45:16.554414
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-94.102.61.0	94.102.61.255	24	599	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	603	INT-NETWORK	SC	abuse@ipvolume.net
+194.26.135.0	194.26.135.255	24	579	ASBAXETN	RU	radu.rcg@gmail.com
 162.216.150.0	162.216.150.255	24	578	GOOGLE	US	network-abuse@google.com
-194.26.135.0	194.26.135.255	24	574	ASBAXETN	RU	radu.rcg@gmail.com
-162.216.149.0	162.216.149.255	24	570	GOOGLE	US	network-abuse@google.com
-35.203.210.0	35.203.210.255	24	569	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.255	24	564	GOOGLE	US	network-abuse@google.com
-141.98.11.0	141.98.11.255	24	564	HOSTBALTIC	LT	>>UNKNOWN<<
-77.90.185.0	77.90.185.255	24	561	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-91.240.118.0	91.240.118.255	24	561	CHANGWAY-AS	HK	noc@ameurotel.com
-84.54.51.0	84.54.51.255	24	546	TIER-NET	US	None
-167.94.138.0	167.94.138.255	24	546	CENSYS-ARIN-01	US	None
-198.235.24.0	198.235.24.255	24	544	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	538	GOOGLE-CLOUD-PLATFORM	US	None
-167.248.133.0	167.248.133.255	24	537	CENSYS-ARIN-03	US	None
-185.233.19.0	185.233.19.255	24	520	WINDSTREAM	US	abuse@windstream.net
-146.88.241.0	146.88.241.255	24	516	-	-	-
+162.216.149.0	162.216.149.255	24	572	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.255	24	571	GOOGLE	US	network-abuse@google.com
+35.203.211.0	35.203.211.255	24	566	GOOGLE	US	network-abuse@google.com
+141.98.11.0	141.98.11.255	24	565	HOSTBALTIC	LT	>>UNKNOWN<<
+77.90.185.0	77.90.185.255	24	562	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+91.240.118.0	91.240.118.255	24	562	CHANGWAY-AS	HK	noc@ameurotel.com
+167.94.138.0	167.94.138.255	24	552	CENSYS-ARIN-01	US	None
+198.235.24.0	198.235.24.255	24	549	GOOGLE-CLOUD-PLATFORM	US	None
+84.54.51.0	84.54.51.255	24	548	TIER-NET	US	None
+167.248.133.0	167.248.133.255	24	545	CENSYS-ARIN-03	US	None
+205.210.31.0	205.210.31.255	24	541	GOOGLE-CLOUD-PLATFORM	US	None
+185.233.19.0	185.233.19.255	24	527	WINDSTREAM	US	abuse@windstream.net
+146.88.241.0	146.88.241.255	24	518	-	-	-
+64.62.197.0	64.62.197.255	24	506	HURRICANE	US	abuse@he.net
+185.11.61.0	185.11.61.255	24	506	-	-	-
 213.109.202.0	213.109.202.255	24	503	ASBAXETN	RU	radu.rcg@gmail.com
-185.11.61.0	185.11.61.255	24	502	-	-	-
-64.62.197.0	64.62.197.255	24	500	HURRICANE	US	abuse@he.net
-185.224.128.0	185.224.128.255	24	499	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
+185.224.128.0	185.224.128.255	24	501	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
