@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-29T12:00:31.759646
+#    updated: 2023-10-29T13:15:30.397816
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 94.102.61.0	94.102.61.255	24	655	INT-NETWORK	SC	abuse@ipvolume.net
 185.233.19.0	185.233.19.255	24	626	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.255	24	620	GOOGLE-CLOUD-PLATFORM	US	None
-91.240.118.0	91.240.118.255	24	618	CHANGWAY-AS	HK	noc@ameurotel.com
+91.240.118.0	91.240.118.255	24	619	CHANGWAY-AS	HK	noc@ameurotel.com
 198.235.24.0	198.235.24.255	24	618	GOOGLE-CLOUD-PLATFORM	US	None
 167.248.133.0	167.248.133.255	24	617	CENSYS-ARIN-03	US	None
 35.203.210.0	35.203.210.255	24	614	GOOGLE	US	network-abuse@google.com
@@ -41,8 +41,8 @@
 162.216.150.0	162.216.150.255	24	609	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.255	24	605	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	600	GOOGLE	US	network-abuse@google.com
+83.97.73.0	83.97.73.255	24	600	-	-	-
 167.94.146.0	167.94.146.255	24	600	CENSYS-ARIN-02	US	None
-83.97.73.0	83.97.73.255	24	599	-	-	-
 176.111.174.0	176.111.174.255	24	588	-	-	-
 167.94.145.0	167.94.145.255	24	586	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	582	CYBER-CASA	GB	>>UNKNOWN<<
