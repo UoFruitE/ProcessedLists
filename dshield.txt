@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-10-31T14:15:30.265650
+#    updated: 2023-10-31T15:30:30.175932
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-77.90.185.0	77.90.185.255	24	660	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-185.233.19.0	185.233.19.255	24	654	WINDSTREAM	US	abuse@windstream.net
+77.90.185.0	77.90.185.255	24	662	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
+185.233.19.0	185.233.19.255	24	655	WINDSTREAM	US	abuse@windstream.net
 205.210.31.0	205.210.31.255	24	649	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	648	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.255	24	644	INT-NETWORK	SC	abuse@ipvolume.net
@@ -35,14 +35,14 @@
 109.205.213.0	109.205.213.255	24	631	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 64.62.197.0	64.62.197.255	24	630	HURRICANE	US	abuse@he.net
 194.26.135.0	194.26.135.255	24	629	ASBAXETN	RU	radu.rcg@gmail.com
-167.248.133.0	167.248.133.255	24	617	CENSYS-ARIN-03	US	None
-167.94.138.0	167.94.138.255	24	615	CENSYS-ARIN-01	US	None
-167.94.146.0	167.94.146.255	24	612	CENSYS-ARIN-02	US	None
-167.94.145.0	167.94.145.255	24	609	CENSYS-ARIN-02	US	None
+167.248.133.0	167.248.133.255	24	619	CENSYS-ARIN-03	US	None
+167.94.138.0	167.94.138.255	24	617	CENSYS-ARIN-01	US	None
+167.94.146.0	167.94.146.255	24	613	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	610	CENSYS-ARIN-02	US	None
+193.163.125.0	193.163.125.255	24	601	CYBER-CASA	GB	>>UNKNOWN<<
 45.128.232.0	45.128.232.255	24	599	PUREVOLTAGE-INC	US	admin@purevoltage.com
-193.163.125.0	193.163.125.255	24	599	CYBER-CASA	GB	>>UNKNOWN<<
+176.111.174.0	176.111.174.255	24	596	-	-	-
 83.97.73.0	83.97.73.255	24	595	-	-	-
-176.111.174.0	176.111.174.255	24	595	-	-	-
 91.240.118.0	91.240.118.255	24	586	CHANGWAY-AS	HK	noc@ameurotel.com
 185.224.128.0	185.224.128.255	24	584	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
-213.109.202.0	213.109.202.255	24	582	ASBAXETN	RU	radu.rcg@gmail.com
+213.109.202.0	213.109.202.255	24	584	ASBAXETN	RU	radu.rcg@gmail.com
