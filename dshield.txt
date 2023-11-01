@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-11-01T12:15:30.519336
+#    updated: 2023-11-01T13:15:30.287598
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,14 +35,14 @@
 185.233.19.0	185.233.19.255	24	638	WINDSTREAM	US	abuse@windstream.net
 167.248.133.0	167.248.133.255	24	625	CENSYS-ARIN-03	US	None
 167.94.146.0	167.94.146.255	24	622	CENSYS-ARIN-02	US	None
-64.62.197.0	64.62.197.255	24	619	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	620	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.255	24	616	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	616	CYBER-CASA	GB	>>UNKNOWN<<
 45.128.232.0	45.128.232.255	24	612	PUREVOLTAGE-INC	US	admin@purevoltage.com
 176.111.174.0	176.111.174.255	24	597	-	-	-
 194.26.135.0	194.26.135.255	24	597	ASBAXETN	RU	radu.rcg@gmail.com
 213.109.202.0	213.109.202.255	24	593	ASBAXETN	RU	radu.rcg@gmail.com
-83.97.73.0	83.97.73.255	24	590	-	-	-
+83.97.73.0	83.97.73.255	24	591	-	-	-
 65.49.1.0	65.49.1.255	24	588	HURRICANE	US	abuse@he.net
 185.11.61.0	185.11.61.255	24	584	-	-	-
 62.233.50.0	62.233.50.255	24	576	CHANGWAY-AS	HK	noc@ameurotel.com
