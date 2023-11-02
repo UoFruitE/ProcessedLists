@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-11-02T10:00:27.872683
+#    updated: 2023-11-02T11:15:27.706892
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 213.109.202.0	213.109.202.255	24	589	ASBAXETN	RU	radu.rcg@gmail.com
 91.240.118.0	91.240.118.255	24	587	CHANGWAY-AS	HK	noc@ameurotel.com
 194.26.135.0	194.26.135.255	24	583	ASBAXETN	RU	radu.rcg@gmail.com
+35.203.211.0	35.203.211.255	24	578	GOOGLE	US	network-abuse@google.com
 45.128.232.0	45.128.232.255	24	577	PUREVOLTAGE-INC	US	admin@purevoltage.com
-35.203.211.0	35.203.211.255	24	576	GOOGLE	US	network-abuse@google.com
 64.62.197.0	64.62.197.255	24	574	HURRICANE	US	abuse@he.net
