@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-11-07T05:00:27.761529
+#    updated: 2023-11-07T06:00:28.810538
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 77.90.185.0	77.90.185.255	24	682	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 94.102.61.0	94.102.61.255	24	671	INT-NETWORK	SC	abuse@ipvolume.net
-185.233.19.0	185.233.19.255	24	668	WINDSTREAM	US	abuse@windstream.net
+185.233.19.0	185.233.19.255	24	669	WINDSTREAM	US	abuse@windstream.net
 198.235.24.0	198.235.24.255	24	639	GOOGLE-CLOUD-PLATFORM	US	None
 167.248.133.0	167.248.133.255	24	619	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.255	24	619	GOOGLE-CLOUD-PLATFORM	US	None
@@ -39,7 +39,7 @@
 141.98.11.0	141.98.11.255	24	557	HOSTBALTIC	LT	>>UNKNOWN<<
 167.94.146.0	167.94.146.255	24	554	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	550	HURRICANE	US	abuse@he.net
-79.124.62.0	79.124.62.255	24	536	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	537	DM_AUTO	BG	abuse@dm-auto.eu
 167.94.145.0	167.94.145.255	24	536	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.255	24	535	SPECTRAIP SpectraIP B.V.	NL	abuse@spectraip.net
 193.163.125.0	193.163.125.255	24	530	CYBER-CASA	GB	>>UNKNOWN<<
