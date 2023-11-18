@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-11-18T12:15:40.803917
+#    updated: 2023-11-18T13:15:40.588489
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,11 +28,11 @@
 #     
 77.90.185.0	77.90.185.255	24	722	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 94.102.61.0	94.102.61.255	24	689	INT-NETWORK	SC	abuse@ipvolume.net
-194.26.135.0	194.26.135.255	24	666	ASBAXETN	RU	radu.rcg@gmail.com
+194.26.135.0	194.26.135.255	24	667	ASBAXETN	RU	radu.rcg@gmail.com
 167.94.138.0	167.94.138.255	24	657	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	655	GOOGLE-CLOUD-PLATFORM	US	None
+167.248.133.0	167.248.133.255	24	652	CENSYS-ARIN-03	US	None
 2.56.247.0	2.56.247.255	24	651	-	-	-
-167.248.133.0	167.248.133.255	24	651	CENSYS-ARIN-03	US	None
 205.210.31.0	205.210.31.255	24	650	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	642	GOOGLE	US	network-abuse@google.com
 84.54.51.0	84.54.51.255	24	640	TIER-NET	US	None
@@ -45,4 +45,4 @@
 167.94.146.0	167.94.146.255	24	626	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	622	CYBER-CASA	GB	>>UNKNOWN<<
 45.128.232.0	45.128.232.255	24	621	PUREVOLTAGE-INC	US	admin@purevoltage.com
-183.136.225.0	183.136.225.255	24	617	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+183.136.225.0	183.136.225.255	24	618	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
