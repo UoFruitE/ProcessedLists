@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-11-23T14:45:26.906422
+#    updated: 2023-11-23T15:45:26.634293
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -41,8 +41,8 @@
 45.128.232.0	45.128.232.255	24	638	PUREVOLTAGE-INC	US	admin@purevoltage.com
 109.205.213.0	109.205.213.255	24	634	HOSTSLICK-GERMANY Dedicated Server Provider	DE	abuse@hostslick.de
 167.94.145.0	167.94.145.255	24	630	CENSYS-ARIN-02	US	None
-162.216.150.0	162.216.150.255	24	621	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	622	GOOGLE	US	network-abuse@google.com
 193.163.125.0	193.163.125.255	24	618	CYBER-CASA	GB	>>UNKNOWN<<
-162.216.149.0	162.216.149.255	24	616	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	617	GOOGLE	US	network-abuse@google.com
 167.94.146.0	167.94.146.255	24	616	CENSYS-ARIN-02	US	None
-193.35.18.0	193.35.18.255	24	609	-	-	-
+35.203.211.0	35.203.211.255	24	609	GOOGLE	US	network-abuse@google.com
