@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-06T05:00:30.824876
+#    updated: 2023-12-06T06:00:32.467926
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 146.88.241.0	146.88.241.255	24	625	ARBOR	US	hostmaster@arbor.net
 194.26.135.0	194.26.135.255	24	622	CHANGWAY-AS	HK	noc@ameurotel.com
 152.89.198.0	152.89.198.255	24	619	CHANGWAY-AS	HK	noc@ameurotel.com
-183.136.225.0	183.136.225.255	24	617	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-85.209.11.0	85.209.11.255	24	616	CHANGWAY-AS	HK	noc@ameurotel.com
+183.136.225.0	183.136.225.255	24	618	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+85.209.11.0	85.209.11.255	24	617	CHANGWAY-AS	HK	noc@ameurotel.com
 176.113.115.0	176.113.115.255	24	603	CATTECHNOLOGIES-AS	HK	mike.cartwright@holcim.com
-141.98.11.0	141.98.11.255	24	594	HOSTBALTIC	LT	>>UNKNOWN<<
+141.98.11.0	141.98.11.255	24	595	HOSTBALTIC	LT	>>UNKNOWN<<
