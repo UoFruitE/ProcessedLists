@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-09T04:45:26.203387
+#    updated: 2023-12-09T05:45:28.123611
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 64.62.197.0	64.62.197.255	24	636	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.255	24	635	CENSYS-ARIN-02	US	None
 103.187.191.0	103.187.191.255	24	633	SERVERBASKET-AS-IN SB Secure Data centers India Private Limited	IN	>>UNKNOWN<<
-85.209.11.0	85.209.11.255	24	630	CHANGWAY-AS	HK	noc@ameurotel.com
+85.209.11.0	85.209.11.255	24	631	CHANGWAY-AS	HK	noc@ameurotel.com
 89.248.163.0	89.248.163.255	24	629	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.146.0	167.94.146.255	24	626	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	616	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+45.128.232.0	45.128.232.255	24	609	AS-PFCLOUD	GB	tittuvi@gmail.com
 65.49.1.0	65.49.1.255	24	606	HURRICANE	US	abuse@he.net
-45.128.232.0	45.128.232.255	24	601	AS-PFCLOUD	GB	tittuvi@gmail.com
