@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-10T05:30:28.502998
+#    updated: 2023-12-10T03:30:27.001672
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,11 +26,11 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-77.90.185.0	77.90.185.255	24	698	BTHOSTER	GB	abuse@inetia.pl
+77.90.185.0	77.90.185.255	24	697	BTHOSTER	GB	abuse@inetia.pl
 94.102.61.0	94.102.61.255	24	679	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.138.0	167.94.138.255	24	676	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.255	24	675	CENSYS-ARIN-01	US	None
-205.210.31.0	205.210.31.255	24	665	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	664	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	662	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	654	GOOGLE-CLOUD-PLATFORM	US	None
 45.128.232.0	45.128.232.255	24	640	AS-PFCLOUD	GB	tittuvi@gmail.com
@@ -40,9 +40,9 @@
 162.216.150.0	162.216.150.255	24	621	GOOGLE	US	network-abuse@google.com
 152.89.198.0	152.89.198.255	24	620	CHANGWAY-AS	HK	noc@ameurotel.com
 84.54.51.0	84.54.51.255	24	614	AS-PFCLOUD	GB	tittuvi@gmail.com
-167.94.146.0	167.94.146.255	24	601	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	600	CENSYS-ARIN-02	US	None
 193.163.125.0	193.163.125.255	24	591	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	581	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.255	24	572	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 65.49.1.0	65.49.1.255	24	568	HURRICANE	US	abuse@he.net
-185.224.128.0	185.224.128.255	24	566	AS49870-BV	NL	abuse@westcall.ru
+146.88.241.0	146.88.241.255	24	563	ARBOR	US	hostmaster@arbor.net
