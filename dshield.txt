@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-12T04:00:32.967570
+#    updated: 2023-12-12T05:00:33.113272
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 162.216.150.0	162.216.150.255	24	629	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	626	GOOGLE-CLOUD-PLATFORM	US	None
 193.163.125.0	193.163.125.255	24	621	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+31.7.58.0	31.7.58.255	24	620	PLI-AS	PA	abuse@privatelayer.com
 65.49.1.0	65.49.1.255	24	614	HURRICANE	US	abuse@he.net
-169.197.142.0	169.197.142.255	24	612	AS-GLOBALTELEHOST	US	info@globaltelehost.com
+169.197.142.0	169.197.142.255	24	613	AS-GLOBALTELEHOST	US	info@globaltelehost.com
 46.19.139.0	46.19.139.255	24	610	PLI-AS	PA	abuse@privatelayer.com
-31.7.58.0	31.7.58.255	24	607	PLI-AS	PA	abuse@privatelayer.com
