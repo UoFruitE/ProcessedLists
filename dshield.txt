@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-27T12:00:32.328119
+#    updated: 2023-12-27T13:00:32.152005
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,10 +31,10 @@
 94.102.61.0	94.102.61.255	24	654	INT-NETWORK	SC	abuse@ipvolume.net
 77.90.185.0	77.90.185.255	24	648	BTHOSTER	GB	abuse@inetia.pl
 167.94.138.0	167.94.138.255	24	648	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.255	24	641	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.255	24	642	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	639	CENSYS-ARIN-02	US	None
 89.248.163.0	89.248.163.255	24	629	INT-NETWORK	SC	abuse@ipvolume.net
-167.94.145.0	167.94.145.255	24	626	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	627	CENSYS-ARIN-02	US	None
 194.26.135.0	194.26.135.255	24	622	CHANGWAY-AS	HK	noc@ameurotel.com
 193.163.125.0	193.163.125.255	24	611	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 146.88.241.0	146.88.241.255	24	600	ARBOR	US	hostmaster@arbor.net
