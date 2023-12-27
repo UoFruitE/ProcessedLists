@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-27T10:00:31.731497
+#    updated: 2023-12-27T12:00:32.328119
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,14 +33,14 @@
 167.94.138.0	167.94.138.255	24	648	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.255	24	641	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	639	CENSYS-ARIN-02	US	None
-89.248.163.0	89.248.163.255	24	628	INT-NETWORK	SC	abuse@ipvolume.net
+89.248.163.0	89.248.163.255	24	629	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.145.0	167.94.145.255	24	626	CENSYS-ARIN-02	US	None
 194.26.135.0	194.26.135.255	24	622	CHANGWAY-AS	HK	noc@ameurotel.com
 193.163.125.0	193.163.125.255	24	611	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 146.88.241.0	146.88.241.255	24	600	ARBOR	US	hostmaster@arbor.net
 152.89.198.0	152.89.198.255	24	600	CHANGWAY-AS	HK	noc@ameurotel.com
-94.156.71.0	94.156.71.255	24	593	LIMENET	US	None
-45.128.232.0	45.128.232.255	24	590	AS-PFCLOUD	GB	tittuvi@gmail.com
+94.156.71.0	94.156.71.255	24	594	LIMENET	US	None
+45.128.232.0	45.128.232.255	24	591	AS-PFCLOUD	GB	tittuvi@gmail.com
 84.54.51.0	84.54.51.255	24	581	AS-PFCLOUD	GB	tittuvi@gmail.com
 85.209.11.0	85.209.11.255	24	581	CHANGWAY-AS	HK	noc@ameurotel.com
 183.136.225.0	183.136.225.255	24	575	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
