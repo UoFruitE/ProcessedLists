@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-29T12:00:38.189262
+#    updated: 2023-12-29T13:00:37.180603
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,7 +33,7 @@
 198.235.24.0	198.235.24.255	24	672	GOOGLE-CLOUD-PLATFORM	US	None
 94.102.61.0	94.102.61.255	24	668	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.255	24	667	GOOGLE-CLOUD-PLATFORM	US	None
-77.90.185.0	77.90.185.255	24	638	BTHOSTER	GB	abuse@inetia.pl
+77.90.185.0	77.90.185.255	24	639	BTHOSTER	GB	abuse@inetia.pl
 167.94.138.0	167.94.138.255	24	635	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.255	24	632	CENSYS-ARIN-01	US	None
 64.62.197.0	64.62.197.255	24	614	HURRICANE	US	abuse@he.net
