@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-29T09:45:37.699496
+#    updated: 2023-12-29T11:00:37.372067
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 194.26.135.0	194.26.135.255	24	568	CHANGWAY-AS	HK	noc@ameurotel.com
 212.70.149.0	212.70.149.255	24	567	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 193.163.125.0	193.163.125.255	24	560	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+183.136.225.0	183.136.225.255	24	558	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 65.49.1.0	65.49.1.255	24	557	HURRICANE	US	abuse@he.net
-183.136.225.0	183.136.225.255	24	557	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
