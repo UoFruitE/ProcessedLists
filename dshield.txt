@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-29T08:45:37.389633
+#    updated: 2023-12-29T09:45:37.699496
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,7 +31,7 @@
 35.203.210.0	35.203.210.255	24	680	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	676	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	672	GOOGLE-CLOUD-PLATFORM	US	None
-94.102.61.0	94.102.61.255	24	667	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	668	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.255	24	667	GOOGLE-CLOUD-PLATFORM	US	None
 77.90.185.0	77.90.185.255	24	638	BTHOSTER	GB	abuse@inetia.pl
 167.94.138.0	167.94.138.255	24	635	CENSYS-ARIN-01	US	None
@@ -40,7 +40,7 @@
 167.94.145.0	167.94.145.255	24	607	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.255	24	604	CENSYS-ARIN-02	US	None
 89.248.163.0	89.248.163.255	24	592	INT-NETWORK	SC	abuse@ipvolume.net
-80.82.77.0	80.82.77.255	24	587	INT-NETWORK	SC	abuse@ipvolume.net
+80.82.77.0	80.82.77.255	24	588	INT-NETWORK	SC	abuse@ipvolume.net
 194.26.135.0	194.26.135.255	24	568	CHANGWAY-AS	HK	noc@ameurotel.com
 212.70.149.0	212.70.149.255	24	567	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 193.163.125.0	193.163.125.255	24	560	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
