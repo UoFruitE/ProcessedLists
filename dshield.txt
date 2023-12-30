@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2023-12-30T02:30:22.509711
+#    updated: 2023-12-30T03:30:23.014030
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -32,16 +32,16 @@
 35.203.210.0	35.203.210.255	24	644	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	644	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.255	24	642	GOOGLE	US	network-abuse@google.com
-94.102.61.0	94.102.61.255	24	629	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	631	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.138.0	167.94.138.255	24	628	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.255	24	628	CENSYS-ARIN-01	US	None
 35.203.211.0	35.203.211.255	24	620	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.146.0	167.94.146.255	24	612	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	613	CENSYS-ARIN-02	US	None
 79.124.58.0	79.124.58.255	24	611	TAMATIYA-AS	BG	noc@4vendeta.com
 167.94.145.0	167.94.145.255	24	605	CENSYS-ARIN-02	US	None
 89.248.163.0	89.248.163.255	24	584	INT-NETWORK	SC	abuse@ipvolume.net
 64.62.197.0	64.62.197.255	24	578	HURRICANE	US	abuse@he.net
-194.26.135.0	194.26.135.255	24	575	CHANGWAY-AS	HK	noc@ameurotel.com
+194.26.135.0	194.26.135.255	24	576	CHANGWAY-AS	HK	noc@ameurotel.com
 80.66.83.0	80.66.83.255	24	573	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
 146.88.241.0	146.88.241.255	24	573	ARBOR	US	hostmaster@arbor.net
 183.136.225.0	183.136.225.255	24	565	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
