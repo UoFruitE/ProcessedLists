@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-04T04:00:28.402920
+#    updated: 2024-01-04T05:00:29.505465
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 167.94.138.0	167.94.138.255	24	650	CENSYS-ARIN-01	US	None
 45.128.232.0	45.128.232.255	24	633	AS-PFCLOUD	GB	tittuvi@gmail.com
 167.94.146.0	167.94.146.255	24	630	CENSYS-ARIN-02	US	None
-162.216.149.0	162.216.149.255	24	625	GOOGLE	US	network-abuse@google.com
+162.216.149.0	162.216.149.255	24	626	GOOGLE	US	network-abuse@google.com
 167.94.145.0	167.94.145.255	24	625	CENSYS-ARIN-02	US	None
 89.248.163.0	89.248.163.255	24	615	INT-NETWORK	SC	abuse@ipvolume.net
 64.62.197.0	64.62.197.255	24	606	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	605	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	604	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.255	24	604	AS49870-BV	NL	abuse@westcall.ru
-35.203.210.0	35.203.210.255	24	601	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.210.0	35.203.210.255	24	602	GOOGLE-CLOUD-PLATFORM	US	None
 45.142.182.0	45.142.182.255	24	598	SKYLINK	NL	marcel.vm@gmx.de
-162.216.150.0	162.216.150.255	24	596	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	597	GOOGLE	US	network-abuse@google.com
