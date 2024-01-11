@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-11T15:15:34.957603
+#    updated: 2024-01-11T16:15:35.065698
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,7 +40,7 @@
 167.94.146.0	167.94.146.255	24	614	CENSYS-ARIN-02	US	None
 45.128.232.0	45.128.232.255	24	612	AS-PFCLOUD	GB	tittuvi@gmail.com
 35.203.211.0	35.203.211.255	24	606	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.150.0	162.216.150.255	24	601	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	602	GOOGLE	US	network-abuse@google.com
 193.163.125.0	193.163.125.255	24	599	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 194.26.135.0	194.26.135.255	24	599	CHANGWAY-AS	HK	noc@ameurotel.com
 45.142.182.0	45.142.182.255	24	593	SKYLINK	NL	marcel.vm@gmx.de
