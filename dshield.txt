@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-14T08:30:36.878431
+#    updated: 2024-01-14T09:30:38.386790
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,8 +30,8 @@
 77.90.185.0	77.90.185.255	24	654	BTHOSTER	GB	abuse@inetia.pl
 79.124.58.0	79.124.58.255	24	654	TAMATIYA-AS	BG	noc@4vendeta.com
 167.248.133.0	167.248.133.255	24	654	CENSYS-ARIN-01	US	None
-94.102.61.0	94.102.61.255	24	646	INT-NETWORK	SC	abuse@ipvolume.net
-45.142.182.0	45.142.182.255	24	645	SKYLINK	NL	marcel.vm@gmx.de
+45.142.182.0	45.142.182.255	24	647	SKYLINK	NL	marcel.vm@gmx.de
+94.102.61.0	94.102.61.255	24	647	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.138.0	167.94.138.255	24	645	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.255	24	639	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.145.0	167.94.145.255	24	624	CENSYS-ARIN-02	US	None
