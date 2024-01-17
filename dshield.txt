@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-17T05:00:34.969737
+#    updated: 2024-01-17T06:00:35.882868
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,14 +28,14 @@
 #     
 77.90.185.0	77.90.185.255	24	711	BTHOSTER	GB	abuse@inetia.pl
 198.235.24.0	198.235.24.255	24	690	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	673	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	674	CENSYS-ARIN-01	US	None
 94.102.61.0	94.102.61.255	24	668	INT-NETWORK	SC	abuse@ipvolume.net
 205.210.31.0	205.210.31.255	24	667	GOOGLE-CLOUD-PLATFORM	US	None
 167.248.133.0	167.248.133.255	24	657	CENSYS-ARIN-01	US	None
 94.103.124.0	94.103.124.255	24	652	AS-PFCLOUD	GB	tittuvi@gmail.com
+79.124.58.0	79.124.58.255	24	626	TAMATIYA-AS	BG	noc@4vendeta.com
 167.94.146.0	167.94.146.255	24	626	CENSYS-ARIN-02	US	None
-79.124.58.0	79.124.58.255	24	625	TAMATIYA-AS	BG	noc@4vendeta.com
-194.26.135.0	194.26.135.255	24	623	CHANGWAY-AS	HK	noc@ameurotel.com
+194.26.135.0	194.26.135.255	24	624	CHANGWAY-AS	HK	noc@ameurotel.com
 64.62.197.0	64.62.197.255	24	616	HURRICANE	US	abuse@he.net
 89.248.163.0	89.248.163.255	24	610	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.145.0	167.94.145.255	24	606	CENSYS-ARIN-02	US	None
