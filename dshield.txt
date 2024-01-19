@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-19T12:15:30.562967
+#    updated: 2024-01-19T13:15:30.628047
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 77.90.185.0	77.90.185.255	24	696	BTHOSTER	GB	abuse@inetia.pl
-94.102.61.0	94.102.61.255	24	688	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	689	INT-NETWORK	SC	abuse@ipvolume.net
 162.216.150.0	162.216.150.255	24	688	GOOGLE	US	network-abuse@google.com
 162.216.149.0	162.216.149.255	24	686	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	682	GOOGLE-CLOUD-PLATFORM	US	None
@@ -41,7 +41,7 @@
 167.94.146.0	167.94.146.255	24	618	CENSYS-ARIN-02	US	None
 185.224.128.0	185.224.128.255	24	609	AS49870-BV	NL	abuse@westcall.ru
 79.124.58.0	79.124.58.255	24	607	TAMATIYA-AS	BG	noc@4vendeta.com
-64.62.197.0	64.62.197.255	24	596	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	597	HURRICANE	US	abuse@he.net
 45.128.232.0	45.128.232.255	24	587	AS-PFCLOUD	GB	tittuvi@gmail.com
 185.233.19.0	185.233.19.255	24	574	HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd.	HK	>>UNKNOWN<<
 194.48.250.0	194.48.250.255	24	571	KREMER-AS	DE	>>UNKNOWN<<
