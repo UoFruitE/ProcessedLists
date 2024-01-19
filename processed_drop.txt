@@ -1,11 +1,10 @@
 ; Spamhaus DROP List 2024/01/19 - (c) 2024 The Spamhaus Project
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Wed, 17 Jan 2024 22:27:55 GMT
-; Expires: Fri, 19 Jan 2024 22:07:15 GMT
+; Last-Modified: Fri, 19 Jan 2024 21:34:58 GMT
+; Expires: Fri, 19 Jan 2024 23:03:27 GMT
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
-2.56.10.0/24
 2.56.192.0/22
 2.57.232.0/23
 2.57.234.0/23
