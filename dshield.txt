@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-19T06:00:28.978275
+#    updated: 2024-01-19T07:00:29.502960
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 45.128.232.0	45.128.232.255	24	586	AS-PFCLOUD	GB	tittuvi@gmail.com
 185.233.19.0	185.233.19.255	24	573	HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd.	HK	>>UNKNOWN<<
 194.48.250.0	194.48.250.255	24	570	KREMER-AS	DE	>>UNKNOWN<<
-193.163.125.0	193.163.125.255	24	566	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	567	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
