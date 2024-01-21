@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-01-21T03:00:39.556394
+#    updated: 2024-01-21T04:15:40.193219
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 167.94.138.0	167.94.138.255	24	698	CENSYS-ARIN-01	US	None
-167.248.133.0	167.248.133.255	24	694	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.255	24	695	CENSYS-ARIN-01	US	None
 77.90.185.0	77.90.185.255	24	676	BTHOSTER	GB	abuse@inetia.pl
 94.102.61.0	94.102.61.255	24	671	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.145.0	167.94.145.255	24	670	CENSYS-ARIN-02	US	None
@@ -40,8 +40,8 @@
 194.26.135.0	194.26.135.255	24	642	CHANGWAY-AS	HK	noc@ameurotel.com
 162.216.150.0	162.216.150.255	24	637	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	631	GOOGLE-CLOUD-PLATFORM	US	None
-185.224.128.0	185.224.128.255	24	626	AS49870-BV	NL	abuse@westcall.ru
-89.248.163.0	89.248.163.255	24	622	INT-NETWORK	SC	abuse@ipvolume.net
+185.224.128.0	185.224.128.255	24	627	AS49870-BV	NL	abuse@westcall.ru
+89.248.163.0	89.248.163.255	24	623	INT-NETWORK	SC	abuse@ipvolume.net
 193.163.125.0	193.163.125.255	24	620	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.128.232.0	45.128.232.255	24	601	AS-PFCLOUD	GB	tittuvi@gmail.com
 183.136.225.0	183.136.225.255	24	599	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
