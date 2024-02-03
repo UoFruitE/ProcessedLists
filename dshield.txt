@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-03T20:15:42.967118
+#    updated: 2024-02-03T21:15:43.348877
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 193.163.125.0	193.163.125.255	24	630	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 35.203.211.0	35.203.211.255	24	628	GOOGLE-CLOUD-PLATFORM	US	None
 185.233.19.0	185.233.19.255	24	624	HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd.	HK	>>UNKNOWN<<
+167.94.146.0	167.94.146.255	24	617	CENSYS-ARIN-02	US	None
 37.44.238.0	37.44.238.255	24	616	BULLIONET	FR	abuse@lineacom.it
-167.94.146.0	167.94.146.255	24	616	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	608	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.255	24	597	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
