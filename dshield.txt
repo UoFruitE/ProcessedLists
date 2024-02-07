@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-07T04:00:23.491166
+#    updated: 2024-02-07T05:00:23.173222
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-167.94.138.0	167.94.138.255	24	673	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	674	CENSYS-ARIN-01	US	None
 94.102.61.0	94.102.61.255	24	666	INT-NETWORK	SC	abuse@ipvolume.net
 167.248.133.0	167.248.133.255	24	663	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	650	GOOGLE-CLOUD-PLATFORM	US	None
@@ -41,8 +41,8 @@
 37.44.238.0	37.44.238.255	24	607	BULLIONET	FR	abuse@lineacom.it
 145.239.11.0	145.239.11.255	24	605	OVH	FR	abuse@ovh.net
 80.66.83.0	80.66.83.255	24	600	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
+91.191.209.0	91.191.209.255	24	598	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 193.163.125.0	193.163.125.255	24	598	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-91.191.209.0	91.191.209.255	24	597	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 65.49.1.0	65.49.1.255	24	585	HURRICANE	US	abuse@he.net
-85.209.11.0	85.209.11.255	24	579	CHANGWAY-AS	HK	noc@ameurotel.com
+85.209.11.0	85.209.11.255	24	580	CHANGWAY-AS	HK	noc@ameurotel.com
 176.97.210.0	176.97.210.255	24	579	FERDINANDZINK	DE	abuse@vodafone.net.tr
