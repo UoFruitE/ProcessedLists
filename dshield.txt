@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-09T08:15:29.391056
+#    updated: 2024-02-09T09:15:29.794151
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,19 +27,19 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 79.110.62.0	79.110.62.255	24	704	-	-	-
-94.102.61.0	94.102.61.255	24	681	INT-NETWORK	SC	abuse@ipvolume.net
+94.102.61.0	94.102.61.255	24	682	INT-NETWORK	SC	abuse@ipvolume.net
 167.94.138.0	167.94.138.255	24	662	CENSYS-ARIN-01	US	None
 167.248.133.0	167.248.133.255	24	657	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.255	24	649	AS49870-BV	NL	abuse@westcall.ru
 35.203.211.0	35.203.211.255	24	648	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.255	24	647	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.149.0	162.216.149.255	24	646	GOOGLE	US	network-abuse@google.com
-162.216.150.0	162.216.150.255	24	645	GOOGLE	US	network-abuse@google.com
-95.214.27.0	95.214.27.255	24	643	-	-	-
+162.216.149.0	162.216.149.255	24	647	GOOGLE	US	network-abuse@google.com
+162.216.150.0	162.216.150.255	24	646	GOOGLE	US	network-abuse@google.com
+95.214.27.0	95.214.27.255	24	644	-	-	-
 167.94.146.0	167.94.146.255	24	636	CENSYS-ARIN-02	US	None
-198.235.24.0	198.235.24.255	24	632	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.255	24	633	GOOGLE-CLOUD-PLATFORM	US	None
 194.26.135.0	194.26.135.255	24	629	CHANGWAY-AS	HK	noc@ameurotel.com
-205.210.31.0	205.210.31.255	24	624	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	625	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.145.0	167.94.145.255	24	621	CENSYS-ARIN-02	US	None
 185.233.19.0	185.233.19.255	24	601	HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd.	HK	>>UNKNOWN<<
 45.128.232.0	45.128.232.255	24	600	AS-PFCLOUD	GB	tittuvi@gmail.com
