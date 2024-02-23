@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-23T13:00:29.849790
+#    updated: 2024-02-23T12:15:28.931011
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 167.94.138.0	167.94.138.255	24	1134	CENSYS-ARIN-01	US	None
 185.224.128.0	185.224.128.255	24	949	AS49870-BV	NL	abuse@westcall.ru
 194.26.135.0	194.26.135.255	24	945	CHANGWAY-AS	HK	noc@ameurotel.com
-167.94.146.0	167.94.146.255	24	896	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	895	CENSYS-ARIN-02	US	None
 176.111.174.0	176.111.174.255	24	890	CHANGWAY-AS	HK	noc@ameurotel.com
 193.163.125.0	193.163.125.255	24	845	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.255	24	832	CENSYS-ARIN-02	US	None
-79.110.62.0	79.110.62.255	24	815	-	-	-
-45.128.232.0	45.128.232.255	24	796	AS-PFCLOUD	GB	tittuvi@gmail.com
+167.94.145.0	167.94.145.255	24	831	CENSYS-ARIN-02	US	None
+79.110.62.0	79.110.62.255	24	814	-	-	-
+45.128.232.0	45.128.232.255	24	795	AS-PFCLOUD	GB	tittuvi@gmail.com
 64.62.197.0	64.62.197.255	24	764	HURRICANE	US	abuse@he.net
 109.205.213.0	109.205.213.255	24	754	IS-AS-1	US	abusencc@interserver.net
