@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-25T11:45:27.547445
+#    updated: 2024-02-25T13:00:28.552515
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 162.216.150.0	162.216.150.255	24	1756	GOOGLE	US	network-abuse@google.com
 35.203.210.0	35.203.210.255	24	1743	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1742	GOOGLE	US	network-abuse@google.com
-35.203.211.0	35.203.211.255	24	1708	GOOGLE-CLOUD-PLATFORM	US	None
+35.203.211.0	35.203.211.255	24	1709	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1631	CENSYS-ARIN-01	US	None
 198.235.24.0	198.235.24.255	24	1505	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1483	GOOGLE-CLOUD-PLATFORM	US	None
@@ -42,7 +42,7 @@
 193.163.125.0	193.163.125.255	24	1015	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 176.111.174.0	176.111.174.255	24	918	CHANGWAY-AS	HK	noc@ameurotel.com
 64.62.197.0	64.62.197.255	24	905	HURRICANE	US	abuse@he.net
-109.205.213.0	109.205.213.255	24	867	IS-AS-1	US	abusencc@interserver.net
+109.205.213.0	109.205.213.255	24	868	IS-AS-1	US	abusencc@interserver.net
 80.66.83.0	80.66.83.255	24	856	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
 65.49.1.0	65.49.1.255	24	846	HURRICANE	US	abuse@he.net
 183.136.225.0	183.136.225.255	24	831	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
