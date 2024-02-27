@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-02-27T05:00:26.442062
+#    updated: 2024-02-27T06:00:27.424234
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 176.111.174.0	176.111.174.255	24	1198	CHANGWAY-AS	HK	noc@ameurotel.com
 167.94.145.0	167.94.145.255	24	1165	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	1145	HURRICANE	US	abuse@he.net
-193.163.125.0	193.163.125.255	24	1121	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	1122	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 80.66.83.0	80.66.83.255	24	994	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
-79.110.62.0	79.110.62.255	24	960	-	-	-
-109.205.213.0	109.205.213.255	24	954	IS-AS-1	US	abusencc@interserver.net
+79.110.62.0	79.110.62.255	24	962	-	-	-
+109.205.213.0	109.205.213.255	24	955	IS-AS-1	US	abusencc@interserver.net
 80.82.77.0	80.82.77.255	24	952	INT-NETWORK	SC	abuse@ipvolume.net
 65.49.1.0	65.49.1.255	24	944	HURRICANE	US	abuse@he.net
