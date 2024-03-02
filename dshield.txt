@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-02T05:45:33.620947
+#    updated: 2024-03-02T06:45:34.669981
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 176.111.174.0	176.111.174.255	24	871	CHANGWAY-AS	HK	noc@ameurotel.com
 193.163.125.0	193.163.125.255	24	866	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 79.110.62.0	79.110.62.255	24	806	-	-	-
-109.205.213.0	109.205.213.255	24	790	IS-AS-1	US	abusencc@interserver.net
+109.205.213.0	109.205.213.255	24	791	IS-AS-1	US	abusencc@interserver.net
