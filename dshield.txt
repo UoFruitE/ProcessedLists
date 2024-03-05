@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-05T05:00:28.226277
+#    updated: 2024-03-05T06:15:31.299977
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -30,7 +30,7 @@
 194.26.29.0	194.26.29.255	24	2305	MEDIALAND-AS	RU	alex.kitai@gmail.com
 167.248.133.0	167.248.133.255	24	1544	CENSYS-ARIN-01	US	None
 185.242.226.0	185.242.226.255	24	1454	AS49870-BV	NL	abuse@westcall.ru
-198.235.24.0	198.235.24.255	24	1329	GOOGLE-CLOUD-PLATFORM	US	None
+198.235.24.0	198.235.24.255	24	1330	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1256	CENSYS-ARIN-01	US	None
 205.210.31.0	205.210.31.255	24	1235	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	1097	GOOGLE	US	network-abuse@google.com
@@ -45,4 +45,4 @@
 78.128.113.0	78.128.113.255	24	928	MITI2000	BG	>>UNKNOWN<<
 193.163.125.0	193.163.125.255	24	803	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	799	HURRICANE	US	abuse@he.net
-45.128.232.0	45.128.232.255	24	783	AS-PFCLOUD	GB	tittuvi@gmail.com
+45.128.232.0	45.128.232.255	24	784	AS-PFCLOUD	GB	tittuvi@gmail.com
