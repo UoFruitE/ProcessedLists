@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-06T08:00:35.212632
+#    updated: 2024-03-06T09:00:33.692051
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-104.156.155.0	104.156.155.255	24	2584	HAWAIIRESEARCH	US	None
-194.26.29.0	194.26.29.255	24	2434	MEDIALAND-AS	RU	alex.kitai@gmail.com
+104.156.155.0	104.156.155.255	24	2586	HAWAIIRESEARCH	US	None
+194.26.29.0	194.26.29.255	24	2436	MEDIALAND-AS	RU	alex.kitai@gmail.com
 185.242.226.0	185.242.226.255	24	1416	AS49870-BV	NL	abuse@westcall.ru
 198.235.24.0	198.235.24.255	24	1344	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1296	GOOGLE-CLOUD-PLATFORM	US	None
