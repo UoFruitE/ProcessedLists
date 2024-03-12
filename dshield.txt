@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-12T10:00:37.839673
+#    updated: 2024-03-12T11:00:37.901285
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 64.62.197.0	64.62.197.255	24	926	HURRICANE	US	abuse@he.net
 80.66.83.0	80.66.83.255	24	891	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
 185.233.19.0	185.233.19.255	24	874	HKZTCL-AS-AP Hong Kong Zhengxing Technology Co., Ltd.	HK	>>UNKNOWN<<
-79.110.62.0	79.110.62.255	24	847	-	-	-
+79.110.62.0	79.110.62.255	24	848	-	-	-
 62.204.41.0	62.204.41.255	24	793	HORIZONMSK-AS	RU	eugeans@tattelecom.ru
