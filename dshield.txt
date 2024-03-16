@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-16T02:30:33.927404
+#    updated: 2024-03-16T03:45:34.118092
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.60.0	79.124.60.255	24	2531	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.60.0	79.124.60.255	24	2532	TAMATIYA-AS	BG	noc@4vendeta.com
 91.148.190.0	91.148.190.255	24	2235	TAMATIYA-AS	BG	noc@4vendeta.com
 162.216.149.0	162.216.149.255	24	1946	GOOGLE	US	network-abuse@google.com
 162.216.150.0	162.216.150.255	24	1927	GOOGLE	US	network-abuse@google.com
@@ -38,11 +38,11 @@
 79.124.59.0	79.124.59.255	24	1369	TAMATIYA-AS	BG	noc@4vendeta.com
 198.235.24.0	198.235.24.255	24	1327	GOOGLE-CLOUD-PLATFORM	US	None
 79.124.56.0	79.124.56.255	24	1317	TAMATIYA-AS	BG	noc@4vendeta.com
-167.248.133.0	167.248.133.255	24	1313	CENSYS-ARIN-01	US	None
+167.248.133.0	167.248.133.255	24	1316	CENSYS-ARIN-01	US	None
 94.232.41.0	94.232.41.255	24	1299	XHOST-INTERNET-SOLUTIONS	GB	abuse@postemobile.it
 205.210.31.0	205.210.31.255	24	1288	GOOGLE-CLOUD-PLATFORM	US	None
 141.98.11.0	141.98.11.255	24	1249	HOSTBALTIC	LT	>>UNKNOWN<<
 78.128.114.0	78.128.114.255	24	1225	TAMATIYA-AS	BG	noc@4vendeta.com
 79.124.40.0	79.124.40.255	24	1200	TAMATIYA-AS	BG	noc@4vendeta.com
 193.163.125.0	193.163.125.255	24	1200	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-167.94.138.0	167.94.138.255	24	1161	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1164	CENSYS-ARIN-01	US	None
