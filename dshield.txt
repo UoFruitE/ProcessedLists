@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-03-27T04:45:35.064567
+#    updated: 2024-03-27T06:00:36.554545
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,10 +29,10 @@
 79.124.60.0	79.124.60.255	24	2670	TAMATIYA-AS	BG	noc@4vendeta.com
 91.148.190.0	91.148.190.255	24	2508	TAMATIYA-AS	BG	noc@4vendeta.com
 167.248.133.0	167.248.133.255	24	1803	CENSYS-ARIN-01	US	None
-167.94.138.0	167.94.138.255	24	1687	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1689	CENSYS-ARIN-01	US	None
 106.75.142.0	106.75.142.255	24	1643	CT-GUANGZHOU-IDC CHINANET Guangdong province network	CN	anti-spam@ns.chinanet.cn.net
 198.235.24.0	198.235.24.255	24	1578	GOOGLE-CLOUD-PLATFORM	US	None
-79.124.58.0	79.124.58.255	24	1542	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.58.0	79.124.58.255	24	1543	TAMATIYA-AS	BG	noc@4vendeta.com
 185.242.226.0	185.242.226.255	24	1542	AS49870-BV	NL	abuse@westcall.ru
 79.124.56.0	79.124.56.255	24	1520	TAMATIYA-AS	BG	noc@4vendeta.com
 205.210.31.0	205.210.31.255	24	1517	GOOGLE-CLOUD-PLATFORM	US	None
