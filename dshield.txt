@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-04-09T07:00:40.724936
+#    updated: 2024-04-09T08:00:40.661140
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,12 +34,12 @@
 91.148.190.0	91.148.190.255	24	1474	TAMATIYA-AS	BG	noc@4vendeta.com
 35.203.211.0	35.203.211.255	24	1416	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1404	GOOGLE	US	network-abuse@google.com
-167.94.138.0	167.94.138.255	24	1399	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1400	CENSYS-ARIN-01	US	None
 35.203.210.0	35.203.210.255	24	1392	GOOGLE-CLOUD-PLATFORM	US	None
 185.242.226.0	185.242.226.255	24	1390	AS49870-BV	NL	abuse@westcall.ru
 193.163.125.0	193.163.125.255	24	1379	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 162.216.150.0	162.216.150.255	24	1376	GOOGLE	US	network-abuse@google.com
-79.124.60.0	79.124.60.255	24	1368	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.60.0	79.124.60.255	24	1370	TAMATIYA-AS	BG	noc@4vendeta.com
 185.224.128.0	185.224.128.255	24	1128	AS49870-BV	NL	abuse@westcall.ru
 167.94.146.0	167.94.146.255	24	1056	CENSYS-ARIN-02	US	None
 167.94.145.0	167.94.145.255	24	1039	CENSYS-ARIN-02	US	None
