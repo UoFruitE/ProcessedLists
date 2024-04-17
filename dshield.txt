@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-04-17T01:45:25.291140
+#    updated: 2024-04-17T03:00:26.075932
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,10 +27,10 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 152.89.198.0	152.89.198.255	24	2030	CHANGWAY-AS	HK	noc@ameurotel.com
-185.242.226.0	185.242.226.255	24	1767	AS49870-BV	NL	abuse@westcall.ru
-198.235.24.0	198.235.24.255	24	1693	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	1679	GOOGLE-CLOUD-PLATFORM	US	None
-206.168.34.0	206.168.34.255	24	1557	-	-	-
+185.242.226.0	185.242.226.255	24	1768	AS49870-BV	NL	abuse@westcall.ru
+198.235.24.0	198.235.24.255	24	1694	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	1680	GOOGLE-CLOUD-PLATFORM	US	None
+206.168.34.0	206.168.34.255	24	1558	-	-	-
 193.163.125.0	193.163.125.255	24	1451	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	1431	CENSYS-ARIN-01	US	None
 167.94.146.0	167.94.146.255	24	1143	CENSYS-ARIN-02	US	None
@@ -40,9 +40,9 @@
 80.75.212.0	80.75.212.255	24	939	-	-	-
 64.62.197.0	64.62.197.255	24	910	HURRICANE	US	abuse@he.net
 176.111.174.0	176.111.174.255	24	891	CHANGWAY-AS	HK	noc@ameurotel.com
-87.121.69.0	87.121.69.255	24	865	AS-PFCLOUD	GB	tittuvi@gmail.com
-79.110.62.0	79.110.62.255	24	860	-	-	-
+87.121.69.0	87.121.69.255	24	867	AS-PFCLOUD	GB	tittuvi@gmail.com
+79.110.62.0	79.110.62.255	24	861	-	-	-
 185.161.248.0	185.161.248.255	24	848	KISARA-AS	RU	vmironov@servicepipe.ru
 64.62.156.0	64.62.156.255	24	846	HURRICANE	US	abuse@he.net
 91.148.190.0	91.148.190.255	24	837	TAMATIYA-AS	BG	noc@4vendeta.com
-154.212.141.0	154.212.141.255	24	814	MULTA-ASN1	US	abuse@multacom.com
+154.212.141.0	154.212.141.255	24	815	MULTA-ASN1	US	abuse@multacom.com
