@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-04-28T07:30:28.176459
+#    updated: 2024-04-28T08:30:28.656925
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -33,7 +33,7 @@
 35.203.210.0	35.203.210.255	24	1791	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1761	GOOGLE-CLOUD-PLATFORM	US	None
 206.168.34.0	206.168.34.255	24	1719	-	-	-
-185.242.226.0	185.242.226.255	24	1662	AS49870-BV	NL	abuse@westcall.ru
+185.242.226.0	185.242.226.255	24	1663	AS49870-BV	NL	abuse@westcall.ru
 193.163.125.0	193.163.125.255	24	1481	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	1459	CENSYS-ARIN-01	US	None
 80.66.83.0	80.66.83.255	24	1156	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
@@ -43,6 +43,6 @@
 199.45.154.0	199.45.154.255	24	923	CENSYS-ARIN-03	US	None
 64.62.197.0	64.62.197.255	24	902	HURRICANE	US	abuse@he.net
 185.224.128.0	185.224.128.255	24	853	AS49870-BV	NL	abuse@westcall.ru
-79.124.62.0	79.124.62.255	24	831	DM_AUTO	BG	abuse@dm-auto.eu
+79.124.62.0	79.124.62.255	24	832	DM_AUTO	BG	abuse@dm-auto.eu
 64.62.156.0	64.62.156.255	24	820	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	809	HURRICANE	US	abuse@he.net
