@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-05-06T08:00:36.353932
+#    updated: 2024-05-06T09:00:35.785230
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 167.94.146.0	167.94.146.255	24	1048	CENSYS-ARIN-02	US	None
 80.66.83.0	80.66.83.255	24	968	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
 199.45.154.0	199.45.154.255	24	892	CENSYS-ARIN-03	US	None
-64.62.197.0	64.62.197.255	24	875	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	876	HURRICANE	US	abuse@he.net
 79.110.62.0	79.110.62.255	24	831	-	-	-
