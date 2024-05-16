@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-05-16T05:00:22.154907
+#    updated: 2024-05-16T06:00:23.840439
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,7 +38,7 @@
 167.94.145.0	167.94.145.255	24	1015	CENSYS-ARIN-02	US	None
 80.75.212.0	80.75.212.255	24	1011	-	-	-
 80.66.83.0	80.66.83.255	24	998	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
-199.45.154.0	199.45.154.255	24	957	CENSYS-ARIN-03	US	None
+199.45.154.0	199.45.154.255	24	958	CENSYS-ARIN-03	US	None
 167.94.146.0	167.94.146.255	24	947	CENSYS-ARIN-02	US	None
 87.121.69.0	87.121.69.255	24	935	AS-PFCLOUD	GB	tittuvi@gmail.com
 45.93.20.0	45.93.20.255	24	913	CHANGWAY-AS	HK	noc@ameurotel.com
