@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-06-01T08:00:27.597511
+#    updated: 2024-06-01T09:00:26.796099
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 206.168.34.0	206.168.34.255	24	729	-	-	-
 167.94.138.0	167.94.138.255	24	622	CENSYS-ARIN-01	US	None
-147.185.132.0	147.185.132.255	24	610	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	611	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.133.0	147.185.133.255	24	560	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	560	GOOGLE	US	network-abuse@google.com
 176.111.174.0	176.111.174.255	24	544	CHANGWAY-AS	HK	noc@ameurotel.com
