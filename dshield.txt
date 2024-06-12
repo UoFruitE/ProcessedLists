@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-06-12T08:30:29.451062
+#    updated: 2024-06-12T10:30:29.223801
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 167.94.138.0	167.94.138.255	24	439	CENSYS-ARIN-01	US	None
 179.43.167.0	179.43.167.255	24	439	PLI-AS	PA	abuse@privatelayer.com
 91.92.251.0	91.92.251.255	24	438	LIMENET	US	None
-45.156.129.0	45.156.129.255	24	435	AS-BITSIGHT	PT	>>UNKNOWN<<
+45.156.129.0	45.156.129.255	24	436	AS-BITSIGHT	PT	>>UNKNOWN<<
 172.233.17.0	172.233.17.255	24	435	AKAMAI-ASN1	NL	abuse@akamai.com
-92.249.48.0	92.249.48.255	24	432	HUIZE_TELECOM Huize Telecom	GB	info@tasmin.ru
+92.249.48.0	92.249.48.255	24	433	HUIZE_TELECOM Huize Telecom	GB	info@tasmin.ru
