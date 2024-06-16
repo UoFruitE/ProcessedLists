@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-06-16T03:45:30.524562
+#    updated: 2024-06-16T04:45:29.086308
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,14 +26,14 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-91.148.190.0	91.148.190.255	24	2930	TAMATIYA-AS	BG	noc@4vendeta.com
+91.148.190.0	91.148.190.255	24	2931	TAMATIYA-AS	BG	noc@4vendeta.com
 185.242.226.0	185.242.226.255	24	1293	AS49870-BV	NL	abuse@westcall.ru
 79.110.62.0	79.110.62.255	24	1238	-	-	-
 206.168.34.0	206.168.34.255	24	1163	-	-	-
-147.185.132.0	147.185.132.255	24	1146	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1147	GOOGLE-CLOUD-PLATFORM	US	None
 45.155.91.0	45.155.91.255	24	1143	HUSAM-NETWORK	PS	witechcom.1@gmail.com
 147.185.133.0	147.185.133.255	24	1039	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	1011	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1012	CENSYS-ARIN-01	US	None
 35.203.211.0	35.203.211.255	24	999	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	991	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	974	GOOGLE	US	network-abuse@google.com
