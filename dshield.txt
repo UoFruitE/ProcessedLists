@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-06-18T06:30:33.793765
+#    updated: 2024-06-18T07:30:35.883283
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 176.111.174.0	176.111.174.255	24	768	CHANGWAY-AS	HK	noc@ameurotel.com
 167.94.145.0	167.94.145.255	24	736	CENSYS-ARIN-02	US	None
 115.231.78.0	115.231.78.255	24	715	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.146.0	167.94.146.255	24	710	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	711	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	707	HURRICANE	US	abuse@he.net
