@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-07-01T08:00:31.235477
+#    updated: 2024-07-01T09:00:31.851559
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,9 +26,9 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-147.185.132.0	147.185.132.255	24	1536	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	1537	GOOGLE-CLOUD-PLATFORM	US	None
 91.92.240.0	91.92.240.255	24	1533	LIMENET	US	None
-206.168.34.0	206.168.34.255	24	1524	-	-	-
+206.168.34.0	206.168.34.255	24	1525	-	-	-
 185.242.226.0	185.242.226.255	24	1489	AS49870-BV	NL	abuse@westcall.ru
 147.185.133.0	147.185.133.255	24	1383	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	1374	GOOGLE	US	network-abuse@google.com
@@ -41,8 +41,8 @@
 198.235.24.0	198.235.24.255	24	1183	GOOGLE-CLOUD-PLATFORM	US	None
 172.232.206.0	172.232.206.255	24	1101	AKAMAI-ASN1	NL	abuse@akamai.com
 80.75.212.0	80.75.212.255	24	968	-	-	-
-167.94.145.0	167.94.145.255	24	924	CENSYS-ARIN-02	US	None
-167.94.146.0	167.94.146.255	24	889	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	925	CENSYS-ARIN-02	US	None
+167.94.146.0	167.94.146.255	24	891	CENSYS-ARIN-02	US	None
 79.110.62.0	79.110.62.255	24	888	-	-	-
 199.45.154.0	199.45.154.255	24	877	CENSYS-ARIN-03	US	None
-64.62.197.0	64.62.197.255	24	850	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	851	HURRICANE	US	abuse@he.net
