@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-07-10T07:00:29.239995
+#    updated: 2024-07-10T08:15:29.659327
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,9 +26,9 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-94.102.49.0	94.102.49.255	24	3054	INT-NETWORK	SC	abuse@ipvolume.net
-206.168.34.0	206.168.34.255	24	1323	-	-	-
-85.209.133.0	85.209.133.255	24	1221	HOSTNETWORK	IR	>>UNKNOWN<<
+94.102.49.0	94.102.49.255	24	3055	INT-NETWORK	SC	abuse@ipvolume.net
+206.168.34.0	206.168.34.255	24	1324	-	-	-
+85.209.133.0	85.209.133.255	24	1222	HOSTNETWORK	IR	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	1166	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	1117	GOOGLE-CLOUD-PLATFORM	US	None
 167.94.138.0	167.94.138.255	24	1102	CENSYS-ARIN-01	US	None
@@ -42,7 +42,7 @@
 79.110.62.0	79.110.62.255	24	860	-	-	-
 95.214.27.0	95.214.27.255	24	799	-	-	-
 167.94.145.0	167.94.145.255	24	796	CENSYS-ARIN-02	US	None
-79.124.49.0	79.124.49.255	24	778	TAMATIYA-AS	BG	noc@4vendeta.com
-79.124.60.0	79.124.60.255	24	766	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.49.0	79.124.49.255	24	779	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.60.0	79.124.60.255	24	767	TAMATIYA-AS	BG	noc@4vendeta.com
 176.111.174.0	176.111.174.255	24	758	CHANGWAY-AS	HK	noc@ameurotel.com
 103.102.230.0	103.102.230.255	24	747	SKOALI	FR	>>UNKNOWN<<
