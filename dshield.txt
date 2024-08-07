@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-08-07T09:45:24.472922
+#    updated: 2024-08-07T10:45:24.300230
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.110.62.0	79.110.62.255	24	2898	-	-	-
+79.110.62.0	79.110.62.255	24	2899	-	-	-
 194.26.29.0	194.26.29.255	24	2285	MEDIALAND-AS	RU	alex.kitai@gmail.com
 83.222.190.0	83.222.190.255	24	2163	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 78.128.113.0	78.128.113.255	24	1536	MITI2000	BG	>>UNKNOWN<<
