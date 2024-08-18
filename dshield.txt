@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-08-18T09:30:33.597123
+#    updated: 2024-08-18T10:30:34.022976
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 193.163.125.0	193.163.125.255	24	1014	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 172.235.199.0	172.235.199.255	24	965	AKAMAI-ASN1	NL	abuse@akamai.com
 194.169.175.0	194.169.175.255	24	944	AS-MATRIXTELECOM	GB	>>UNKNOWN<<
-167.94.145.0	167.94.145.255	24	912	CENSYS-ARIN-02	US	None
+167.94.145.0	167.94.145.255	24	913	CENSYS-ARIN-02	US	None
 95.214.27.0	95.214.27.255	24	901	-	-	-
 89.248.163.0	89.248.163.255	24	899	INT-NETWORK	SC	abuse@ipvolume.net
