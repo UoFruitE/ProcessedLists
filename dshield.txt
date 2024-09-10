@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-09-10T07:15:32.835550
+#    updated: 2024-09-10T08:15:33.949884
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 154.213.184.0	154.213.184.255	24	1805	MULTA-ASN1	US	abuse@multacom.com
 45.84.89.0	45.84.89.255	24	1493	HUICAST_TELECOM	HK	ripe@newtonad.ro
 206.168.34.0	206.168.34.255	24	1381	-	-	-
-185.242.226.0	185.242.226.255	24	1341	AS49870-BV	NL	abuse@westcall.ru
+185.242.226.0	185.242.226.255	24	1342	AS49870-BV	NL	abuse@westcall.ru
 79.110.62.0	79.110.62.255	24	1322	-	-	-
 185.224.128.0	185.224.128.255	24	1239	AS49870-BV	NL	abuse@westcall.ru
 167.94.138.0	167.94.138.255	24	1227	CENSYS-ARIN-01	US	None
