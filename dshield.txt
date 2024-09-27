@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-09-27T17:15:43.788002
+#    updated: 2024-09-27T18:00:44.718359
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,9 +28,9 @@
 #     
 78.128.113.0	78.128.113.255	24	2613	MITI2000	BG	>>UNKNOWN<<
 91.191.209.0	91.191.209.255	24	2506	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
-5.188.206.0	5.188.206.255	24	2360	KREZ999AS	BG	abuse@fastvps.biz
+5.188.206.0	5.188.206.255	24	2361	KREZ999AS	BG	abuse@fastvps.biz
 81.19.135.0	81.19.135.255	24	1994	IVC-AS	RU	service@ivc.nnov.ru
-147.78.47.0	147.78.47.255	24	1434	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+147.78.47.0	147.78.47.255	24	1435	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 162.216.150.0	162.216.150.255	24	1392	GOOGLE	US	network-abuse@google.com
 147.185.133.0	147.185.133.255	24	1366	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.149.0	162.216.149.255	24	1357	GOOGLE	US	network-abuse@google.com
