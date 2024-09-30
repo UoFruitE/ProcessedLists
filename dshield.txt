@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-09-30T07:30:38.195503
+#    updated: 2024-09-30T08:30:40.899588
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,14 +26,14 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-79.124.60.0	79.124.60.255	24	2748	TAMATIYA-AS	BG	noc@4vendeta.com
+79.124.60.0	79.124.60.255	24	2750	TAMATIYA-AS	BG	noc@4vendeta.com
 78.128.113.0	78.128.113.255	24	2679	MITI2000	BG	>>UNKNOWN<<
 5.188.206.0	5.188.206.255	24	2540	KREZ999AS	BG	abuse@fastvps.biz
 91.191.209.0	91.191.209.255	24	2408	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 83.222.191.0	83.222.191.255	24	2390	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 83.222.190.0	83.222.190.255	24	2287	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 147.78.47.0	147.78.47.255	24	1686	FLYSERVERS-ASN	PA	>>UNKNOWN<<
-81.19.135.0	81.19.135.255	24	1594	IVC-AS	RU	service@ivc.nnov.ru
+81.19.135.0	81.19.135.255	24	1596	IVC-AS	RU	service@ivc.nnov.ru
 95.214.27.0	95.214.27.255	24	976	-	-	-
 45.84.89.0	45.84.89.255	24	954	HUICAST_TELECOM	HK	ripe@newtonad.ro
 185.242.226.0	185.242.226.255	24	936	AS49870-BV	NL	abuse@westcall.ru
@@ -44,5 +44,5 @@
 198.235.24.0	198.235.24.255	24	815	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.133.0	147.185.133.255	24	801	GOOGLE-CLOUD-PLATFORM	US	None
 205.210.31.0	205.210.31.255	24	794	GOOGLE-CLOUD-PLATFORM	US	None
-193.163.125.0	193.163.125.255	24	788	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+193.163.125.0	193.163.125.255	24	789	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 162.216.150.0	162.216.150.255	24	782	GOOGLE	US	network-abuse@google.com
