@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-10-05T07:15:36.928550
+#    updated: 2024-10-05T08:30:39.168420
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-83.222.190.0	83.222.190.255	24	2815	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+83.222.190.0	83.222.190.255	24	2816	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 83.222.191.0	83.222.191.255	24	2785	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 147.185.132.0	147.185.132.255	24	1341	GOOGLE-CLOUD-PLATFORM	US	None
 45.84.89.0	45.84.89.255	24	1309	HUICAST_TELECOM	HK	ripe@newtonad.ro
