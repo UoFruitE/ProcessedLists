@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-11-07T09:00:42.353693
+#    updated: 2024-11-07T12:00:50.209479
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,7 +35,7 @@
 119.188.246.0	119.188.246.255	24	1163	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 206.168.34.0	206.168.34.255	24	877	-	-	-
 185.242.226.0	185.242.226.255	24	866	AS49870-BV	NL	abuse@westcall.ru
-45.84.89.0	45.84.89.255	24	822	HUICAST_TELECOM	HK	ripe@newtonad.ro
+45.84.89.0	45.84.89.255	24	823	HUICAST_TELECOM	HK	ripe@newtonad.ro
 167.94.138.0	167.94.138.255	24	790	CENSYS-ARIN-01	US	None
 95.214.27.0	95.214.27.255	24	779	-	-	-
 103.102.230.0	103.102.230.255	24	715	SKOALI	FR	>>UNKNOWN<<
@@ -45,4 +45,4 @@
 147.185.132.0	147.185.132.255	24	676	GOOGLE-CLOUD-PLATFORM	US	None
 150.138.221.0	150.138.221.255	24	674	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 205.210.31.0	205.210.31.255	24	674	GOOGLE-CLOUD-PLATFORM	US	None
-45.125.45.0	45.125.45.255	24	662	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+45.125.45.0	45.125.45.255	24	663	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
