@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-11-08T19:45:18.921133
+#    updated: 2024-11-08T20:45:21.184630
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-221.225.19.0	221.225.19.255	24	1599	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-61.155.173.0	61.155.173.255	24	1139	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-223.113.190.0	223.113.190.255	24	1126	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-58.220.81.0	58.220.81.255	24	800	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-185.242.226.0	185.242.226.255	24	681	AS49870-BV	NL	abuse@westcall.ru
-112.21.190.0	112.21.190.255	24	665	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-147.185.133.0	147.185.133.255	24	646	GOOGLE-CLOUD-PLATFORM	US	None
-206.168.34.0	206.168.34.255	24	634	-	-	-
-35.203.211.0	35.203.211.255	24	634	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.255	24	623	GOOGLE-CLOUD-PLATFORM	US	None
-49.86.46.0	49.86.46.255	24	621	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-162.216.150.0	162.216.150.255	24	615	GOOGLE	US	network-abuse@google.com
-162.216.149.0	162.216.149.255	24	615	GOOGLE	US	network-abuse@google.com
-147.185.132.0	147.185.132.255	24	614	GOOGLE-CLOUD-PLATFORM	US	None
-45.84.89.0	45.84.89.255	24	601	HUICAST_TELECOM	HK	ripe@newtonad.ro
-103.102.230.0	103.102.230.255	24	591	SKOALI	FR	>>UNKNOWN<<
-198.235.24.0	198.235.24.255	24	584	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	566	CENSYS-ARIN-01	US	None
-205.210.31.0	205.210.31.255	24	561	GOOGLE-CLOUD-PLATFORM	US	None
-95.214.27.0	95.214.27.255	24	559	-	-	-
+221.225.19.0	221.225.19.255	24	1693	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+61.155.173.0	61.155.173.255	24	1234	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+223.113.190.0	223.113.190.255	24	1202	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+58.220.81.0	58.220.81.255	24	881	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+112.21.190.0	112.21.190.255	24	735	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+185.242.226.0	185.242.226.255	24	688	AS49870-BV	NL	abuse@westcall.ru
+147.185.133.0	147.185.133.255	24	684	GOOGLE-CLOUD-PLATFORM	US	None
+49.86.46.0	49.86.46.255	24	675	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
+35.203.211.0	35.203.211.255	24	664	GOOGLE-CLOUD-PLATFORM	US	None
+206.168.34.0	206.168.34.255	24	655	-	-	-
+162.216.149.0	162.216.149.255	24	649	GOOGLE	US	network-abuse@google.com
+35.203.210.0	35.203.210.255	24	648	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.132.0	147.185.132.255	24	640	GOOGLE-CLOUD-PLATFORM	US	None
+162.216.150.0	162.216.150.255	24	640	GOOGLE	US	network-abuse@google.com
+45.84.89.0	45.84.89.255	24	623	HUICAST_TELECOM	HK	ripe@newtonad.ro
+103.102.230.0	103.102.230.255	24	616	SKOALI	FR	>>UNKNOWN<<
+198.235.24.0	198.235.24.255	24	613	GOOGLE-CLOUD-PLATFORM	US	None
+95.214.27.0	95.214.27.255	24	588	-	-	-
+167.94.138.0	167.94.138.255	24	584	CENSYS-ARIN-01	US	None
+205.210.31.0	205.210.31.255	24	582	GOOGLE-CLOUD-PLATFORM	US	None
