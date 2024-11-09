@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-11-09T18:45:46.187557
+#    updated: 2024-11-09T20:00:48.107672
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,7 +34,7 @@
 49.86.46.0	49.86.46.255	24	818	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 185.242.226.0	185.242.226.255	24	812	AS49870-BV	NL	abuse@westcall.ru
 147.185.133.0	147.185.133.255	24	784	GOOGLE-CLOUD-PLATFORM	US	None
-206.168.34.0	206.168.34.255	24	773	-	-	-
+206.168.34.0	206.168.34.255	24	774	-	-	-
 147.185.132.0	147.185.132.255	24	762	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.211.0	35.203.211.255	24	760	GOOGLE-CLOUD-PLATFORM	US	None
 45.84.89.0	45.84.89.255	24	760	HUICAST_TELECOM	HK	ripe@newtonad.ro
@@ -44,5 +44,5 @@
 95.214.27.0	95.214.27.255	24	739	-	-	-
 103.102.230.0	103.102.230.255	24	735	SKOALI	FR	>>UNKNOWN<<
 162.216.150.0	162.216.150.255	24	729	GOOGLE	US	network-abuse@google.com
-205.210.31.0	205.210.31.255	24	718	GOOGLE-CLOUD-PLATFORM	US	None
-167.94.138.0	167.94.138.255	24	712	CENSYS-ARIN-01	US	None
+205.210.31.0	205.210.31.255	24	719	GOOGLE-CLOUD-PLATFORM	US	None
+167.94.138.0	167.94.138.255	24	713	CENSYS-ARIN-01	US	None
