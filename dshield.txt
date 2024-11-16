@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-11-16T19:45:39.820284
+#    updated: 2024-11-16T20:45:40.519949
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,7 +39,7 @@
 95.214.27.0	95.214.27.255	24	1117	-	-	-
 206.168.34.0	206.168.34.255	24	1111	-	-	-
 198.235.24.0	198.235.24.255	24	1090	GOOGLE-CLOUD-PLATFORM	US	None
-205.210.31.0	205.210.31.255	24	1078	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	1079	GOOGLE-CLOUD-PLATFORM	US	None
 120.220.44.0	120.220.44.255	24	1053	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 85.209.11.0	85.209.11.255	24	1013	CHANGWAY-AS	HK	noc@ameurotel.com
 167.94.138.0	167.94.138.255	24	1008	CENSYS-ARIN-01	US	None
