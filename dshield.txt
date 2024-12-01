@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-01T13:45:35.437345
+#    updated: 2024-12-01T14:45:35.159699
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,7 +28,7 @@
 #     
 147.78.47.0	147.78.47.255	24	2713	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 185.242.226.0	185.242.226.255	24	1520	AS49870-BV	NL	abuse@westcall.ru
-206.168.34.0	206.168.34.255	24	1518	-	-	-
+206.168.34.0	206.168.34.255	24	1519	-	-	-
 167.94.138.0	167.94.138.255	24	1422	CENSYS-ARIN-01	US	None
 79.110.62.0	79.110.62.255	24	1378	-	-	-
 83.222.190.0	83.222.190.255	24	1355	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
