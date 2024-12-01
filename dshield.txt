@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-01T21:15:18.026023
+#    updated: 2024-12-01T22:15:21.037242
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,23 +26,23 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-147.78.47.0	147.78.47.255	24	1285	FLYSERVERS-ASN	PA	>>UNKNOWN<<
-8.147.176.0	8.147.176.255	24	1075	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
-8.141.34.0	8.141.34.255	24	981	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
-119.188.245.0	119.188.245.255	24	829	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-119.188.247.0	119.188.247.255	24	828	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-47.95.134.0	47.95.134.255	24	806	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
-120.220.44.0	120.220.44.255	24	763	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
-8.147.171.0	8.147.171.255	24	760	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
-119.188.240.0	119.188.240.255	24	660	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-60.214.102.0	60.214.102.255	24	656	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-185.242.226.0	185.242.226.255	24	643	AS49870-BV	NL	abuse@westcall.ru
-79.110.62.0	79.110.62.255	24	640	-	-	-
-39.102.184.0	39.102.184.255	24	623	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
-147.185.132.0	147.185.132.255	24	552	GOOGLE-CLOUD-PLATFORM	US	None
-147.185.133.0	147.185.133.255	24	508	GOOGLE-CLOUD-PLATFORM	US	None
-193.163.125.0	193.163.125.255	24	504	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-206.168.34.0	206.168.34.255	24	503	-	-	-
-35.203.211.0	35.203.211.255	24	500	GOOGLE-CLOUD-PLATFORM	US	None
-35.203.210.0	35.203.210.255	24	494	GOOGLE-CLOUD-PLATFORM	US	None
-162.216.149.0	162.216.149.255	24	485	GOOGLE	US	network-abuse@google.com
+147.78.47.0	147.78.47.255	24	1359	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+8.147.176.0	8.147.176.255	24	1119	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
+8.141.34.0	8.141.34.255	24	1057	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
+119.188.247.0	119.188.247.255	24	896	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+119.188.245.0	119.188.245.255	24	870	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+47.95.134.0	47.95.134.255	24	833	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
+8.147.171.0	8.147.171.255	24	819	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
+120.220.44.0	120.220.44.255	24	811	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
+39.102.184.0	39.102.184.255	24	721	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
+119.188.240.0	119.188.240.255	24	689	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+60.214.102.0	60.214.102.255	24	685	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+79.110.62.0	79.110.62.255	24	653	-	-	-
+185.242.226.0	185.242.226.255	24	652	AS49870-BV	NL	abuse@westcall.ru
+147.185.132.0	147.185.132.255	24	570	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.133.0	147.185.133.255	24	528	GOOGLE-CLOUD-PLATFORM	US	None
+119.188.246.0	119.188.246.255	24	525	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
+193.163.125.0	193.163.125.255	24	524	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+206.168.34.0	206.168.34.255	24	517	-	-	-
+35.203.211.0	35.203.211.255	24	515	GOOGLE-CLOUD-PLATFORM	US	None
+162.216.150.0	162.216.150.255	24	502	GOOGLE	US	network-abuse@google.com
