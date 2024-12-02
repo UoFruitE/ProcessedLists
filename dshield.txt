@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-02T10:30:39.126171
+#    updated: 2024-12-02T12:30:38.466481
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-147.78.47.0	147.78.47.255	24	1529	FLYSERVERS-ASN	PA	>>UNKNOWN<<
+147.78.47.0	147.78.47.255	24	1530	FLYSERVERS-ASN	PA	>>UNKNOWN<<
 8.147.176.0	8.147.176.255	24	1166	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
 8.141.34.0	8.141.34.255	24	1112	ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd.	CN	ipas@cnnic.cn
 119.188.247.0	119.188.247.255	24	974	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
