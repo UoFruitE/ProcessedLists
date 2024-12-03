@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-03T07:15:34.575967
+#    updated: 2024-12-03T08:15:37.055243
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,7 +40,7 @@
 79.110.62.0	79.110.62.255	24	736	-	-	-
 167.94.138.0	167.94.138.255	24	730	CENSYS-ARIN-01	US	None
 119.188.240.0	119.188.240.255	24	702	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
-205.210.31.0	205.210.31.255	24	670	GOOGLE-CLOUD-PLATFORM	US	None
+205.210.31.0	205.210.31.255	24	671	GOOGLE-CLOUD-PLATFORM	US	None
 198.235.24.0	198.235.24.255	24	659	GOOGLE-CLOUD-PLATFORM	US	None
 60.214.102.0	60.214.102.255	24	657	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 193.163.125.0	193.163.125.255	24	656	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
