@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-04T09:00:35.140653
+#    updated: 2024-12-04T10:15:35.346507
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,7 +39,7 @@
 120.220.44.0	120.220.44.255	24	882	CHINAMOBILE-CN China Mobile Communications Group Co., Ltd.	CN	ipas@cnnic.cn
 193.163.125.0	193.163.125.255	24	872	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 79.110.62.0	79.110.62.255	24	863	-	-	-
-167.94.138.0	167.94.138.255	24	843	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	844	CENSYS-ARIN-01	US	None
 119.188.240.0	119.188.240.255	24	826	CHINA169-BACKBONE CHINA UNICOM China169 Backbone	CN	hqs-ipabuse@chinaunicom.cn
 206.168.34.0	206.168.34.255	24	825	-	-	-
 147.185.132.0	147.185.132.255	24	788	GOOGLE-CLOUD-PLATFORM	US	None
