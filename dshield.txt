@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-13T10:45:37.089936
+#    updated: 2024-12-13T12:00:36.798816
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 162.216.149.0	162.216.149.255	24	1477	GOOGLE	US	network-abuse@google.com
-147.185.133.0	147.185.133.255	24	1464	GOOGLE-CLOUD-PLATFORM	US	None
+147.185.133.0	147.185.133.255	24	1465	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	1450	GOOGLE	US	network-abuse@google.com
 35.203.211.0	35.203.211.255	24	1444	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	1436	GOOGLE-CLOUD-PLATFORM	US	None
@@ -43,6 +43,6 @@
 185.242.226.0	185.242.226.255	24	1016	AS49870-BV	NL	abuse@westcall.ru
 80.75.212.0	80.75.212.255	24	1013	-	-	-
 79.110.62.0	79.110.62.255	24	950	-	-	-
-64.62.197.0	64.62.197.255	24	809	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	810	HURRICANE	US	abuse@he.net
 193.41.206.0	193.41.206.255	24	772	-	-	-
 85.209.11.0	85.209.11.255	24	766	CHANGWAY-AS	HK	noc@ameurotel.com
