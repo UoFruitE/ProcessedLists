@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-14T08:45:37.347444
+#    updated: 2024-12-14T09:45:39.339842
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,7 +31,7 @@
 111.180.202.0	111.180.202.255	24	857	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 206.168.34.0	206.168.34.255	24	755	-	-	-
 121.62.23.0	121.62.23.255	24	754	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-167.94.138.0	167.94.138.255	24	724	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	725	CENSYS-ARIN-01	US	None
 111.173.119.0	111.173.119.255	24	699	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
 1.95.248.0	1.95.248.255	24	692	HWCSNET Huawei Cloud Service data center	CN	ipas@cnnic.cn
 83.222.191.0	83.222.191.255	24	677	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
