@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2024-12-17T05:00:32.922882
+#    updated: 2024-12-17T06:00:35.048609
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,7 +29,7 @@
 89.248.165.0	89.248.165.255	24	2725	INT-NETWORK	SC	abuse@ipvolume.net
 79.110.62.0	79.110.62.255	24	2717	-	-	-
 89.248.163.0	89.248.163.255	24	2483	INT-NETWORK	SC	abuse@ipvolume.net
-185.156.73.0	185.156.73.255	24	2453	TK-NET	SC	>>UNKNOWN<<
+185.156.73.0	185.156.73.255	24	2454	TK-NET	SC	>>UNKNOWN<<
 91.191.209.0	91.191.209.255	24	2394	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 78.128.112.0	78.128.112.255	24	1785	AS_4MEDIA	BG	abuse@4media.bg
 206.168.34.0	206.168.34.255	24	1165	-	-	-
