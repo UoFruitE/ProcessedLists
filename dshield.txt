@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-05T13:45:37.103610
+#    updated: 2025-01-05T14:45:36.734950
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,7 +40,7 @@
 193.163.125.0	193.163.125.255	24	1190	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 35.203.211.0	35.203.211.255	24	1176	GOOGLE-CLOUD-PLATFORM	US	None
 35.203.210.0	35.203.210.255	24	1168	GOOGLE-CLOUD-PLATFORM	US	None
-213.21.237.0	213.21.237.255	24	1132	VERSIA	LV	abuse@vernet.lv
+213.21.237.0	213.21.237.255	24	1133	VERSIA	LV	abuse@vernet.lv
 103.102.230.0	103.102.230.255	24	1126	SKOALI	FR	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	1099	GOOGLE-CLOUD-PLATFORM	US	None
 80.66.83.0	80.66.83.255	24	983	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
