@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-07T09:00:33.859002
+#    updated: 2025-01-07T10:00:35.631325
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -31,7 +31,7 @@
 78.128.112.0	78.128.112.255	24	1808	AS_4MEDIA	BG	abuse@4media.bg
 206.168.34.0	206.168.34.255	24	1442	-	-	-
 185.242.226.0	185.242.226.255	24	1398	AS49870-BV	NL	abuse@westcall.ru
-167.94.138.0	167.94.138.255	24	1347	CENSYS-ARIN-01	US	None
+167.94.138.0	167.94.138.255	24	1348	CENSYS-ARIN-01	US	None
 103.102.230.0	103.102.230.255	24	1231	SKOALI	FR	>>UNKNOWN<<
 198.235.24.0	198.235.24.255	24	1194	GOOGLE-CLOUD-PLATFORM	US	None
 83.222.191.0	83.222.191.255	24	1178	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
@@ -43,6 +43,6 @@
 213.21.237.0	213.21.237.255	24	970	VERSIA	LV	abuse@vernet.lv
 146.19.48.0	146.19.48.255	24	903	SYNHDIGITAL SynhDigital	FR	>>UNKNOWN<<
 193.142.146.0	193.142.146.255	24	866	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
-64.62.197.0	64.62.197.255	24	860	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	861	HURRICANE	US	abuse@he.net
 167.94.145.0	167.94.145.255	24	858	CENSYS-ARIN-02	US	None
 193.41.206.0	193.41.206.255	24	855	-	-	-
