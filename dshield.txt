@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-13T11:15:40.292934
+#    updated: 2025-01-13T12:15:39.976399
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,7 +26,7 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-194.180.49.0	194.180.49.255	24	2537	-	-	-
+194.180.49.0	194.180.49.255	24	2539	-	-	-
 185.224.3.0	185.224.3.255	24	2506	-	-	-
 91.191.209.0	91.191.209.255	24	2201	LL-INVESTMENT-LTD	BG	abuse@cloudbs.biz
 95.214.55.0	95.214.55.255	24	1547	MEVSPACE	PL	abuse@skynode.pl
