@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-21T12:45:25.377796
+#    updated: 2025-01-21T14:00:26.002450
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,7 +27,7 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 185.156.73.0	185.156.73.255	24	2456	TK-NET	SC	>>UNKNOWN<<
-194.180.49.0	194.180.49.255	24	2443	-	-	-
+194.180.49.0	194.180.49.255	24	2444	-	-	-
 146.19.48.0	146.19.48.255	24	1391	SYNHDIGITAL SynhDigital	FR	>>UNKNOWN<<
 206.168.34.0	206.168.34.255	24	1226	-	-	-
 167.94.138.0	167.94.138.255	24	1088	CENSYS-ARIN-01	US	None
@@ -37,8 +37,8 @@
 198.235.24.0	198.235.24.255	24	990	GOOGLE-CLOUD-PLATFORM	US	None
 103.102.230.0	103.102.230.255	24	976	SKOALI	FR	>>UNKNOWN<<
 205.210.31.0	205.210.31.255	24	953	GOOGLE-CLOUD-PLATFORM	US	None
-95.214.55.0	95.214.55.255	24	950	MEVSPACE	PL	abuse@skynode.pl
-147.185.132.0	147.185.132.255	24	918	GOOGLE-CLOUD-PLATFORM	US	None
+95.214.55.0	95.214.55.255	24	951	MEVSPACE	PL	abuse@skynode.pl
+147.185.132.0	147.185.132.255	24	919	GOOGLE-CLOUD-PLATFORM	US	None
 178.215.238.0	178.215.238.255	24	807	-	-	-
 146.19.24.0	146.19.24.255	24	793	MEVSPACE	PL	abuse@skynode.pl
 64.62.197.0	64.62.197.255	24	778	HURRICANE	US	abuse@he.net
