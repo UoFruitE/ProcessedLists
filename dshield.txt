@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-01-29T07:45:31.848328
+#    updated: 2025-01-29T08:45:34.452832
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,7 +40,7 @@
 45.142.193.0	45.142.193.255	24	885	MAGHOST_	RO	office@magbross.ro
 89.248.163.0	89.248.163.255	24	861	INT-NETWORK	SC	abuse@ipvolume.net
 193.41.206.0	193.41.206.255	24	804	-	-	-
-80.66.83.0	80.66.83.255	24	787	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
+80.66.83.0	80.66.83.255	24	788	XHOST-INTERNET-SOLUTIONS	GB	>>UNKNOWN<<
 167.94.145.0	167.94.145.255	24	787	CENSYS-ARIN-02	US	None
 167.94.146.0	167.94.146.255	24	786	CENSYS-ARIN-02	US	None
 64.62.197.0	64.62.197.255	24	774	HURRICANE	US	abuse@he.net
