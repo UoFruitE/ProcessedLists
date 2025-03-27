@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-03-27T20:15:18.618283
+#    updated: 2025-03-27T21:15:19.349230
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,13 +36,13 @@
 206.168.34.0	206.168.34.255	24	791	-	-	-
 193.163.125.0	193.163.125.255	24	765	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	750	CENSYS-ARIN-01	US	None
-195.178.110.0	195.178.110.255	24	744	DATAFOREST	DE	abuse@timeweb.ru
-83.222.191.0	83.222.191.255	24	742	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
+195.178.110.0	195.178.110.255	24	750	DATAFOREST	DE	abuse@timeweb.ru
+83.222.191.0	83.222.191.255	24	743	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
 154.81.156.0	154.81.156.255	24	694	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
 104.234.115.0	104.234.115.255	24	688	DAILY	TR	abuse@orbittelekom.com
 57.129.64.0	57.129.64.255	24	676	OVH	FR	abuse@ovh.net
 204.76.203.0	204.76.203.255	24	670	INTELLIGENCE-ATOM-HOSTING	KN	None
 64.62.197.0	64.62.197.255	24	634	HURRICANE	US	abuse@he.net
-45.148.10.0	45.148.10.255	24	629	PPTECHNOLOGY	GB	abuse@vegatele.com
+45.148.10.0	45.148.10.255	24	631	PPTECHNOLOGY	GB	abuse@vegatele.com
 64.62.156.0	64.62.156.255	24	627	HURRICANE	US	abuse@he.net
-65.49.1.0	65.49.1.255	24	617	HURRICANE	US	abuse@he.net
+185.242.226.0	185.242.226.255	24	624	AS49870-BV	NL	abuse@westcall.ru
