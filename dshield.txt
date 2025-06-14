@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-06-14T04:00:24.049733
+#    updated: 2025-06-14T05:15:24.585645
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 20.65.194.0	20.65.194.255	24	370	MICROSOFT-CORP-MSN-AS-BLOCK	US	abuse@microsoft.com
 195.184.76.0	195.184.76.255	24	370	EAJ-GLOBAL	GB	>>UNKNOWN<<
 64.62.197.0	64.62.197.255	24	368	HURRICANE	US	abuse@he.net
+87.121.84.0	87.121.84.255	24	368	EPIKWIRE-NET	GB	>>UNKNOWN<<
 88.218.193.0	88.218.193.255	24	368	XNNET	US	sysadmin@tandbergdata.com
-87.121.84.0	87.121.84.255	24	367	EPIKWIRE-NET	GB	>>UNKNOWN<<
 45.82.76.0	45.82.76.255	24	366	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
