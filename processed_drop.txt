@@ -1,7 +1,7 @@
 ; Spamhaus DROP List 2025/07/02 - (c) 2025 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Wed, 02 Jul 2025 08:57:09 GMT
-; Expires: Wed, 02 Jul 2025 10:08:50 GMT
+; Last-Modified: Wed, 02 Jul 2025 10:12:18 GMT
+; Expires: Wed, 02 Jul 2025 11:37:54 GMT
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
@@ -839,7 +839,6 @@
 180.235.124.0/22
 181.174.188.0/22
 181.177.64.0/18
-181.214.167.0/24
 181.233.124.0/22
 185.7.214.0/24
 185.7.215.0/24
