@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-13T02:15:05.132840
+#    updated: 2025-07-13T03:15:04.703758
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,11 +38,11 @@
 193.163.125.0	193.163.125.255	24	166	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 147.185.133.0	147.185.133.255	24	163	GOOGLE-CLOUD-PLATFORM	US	None
 185.218.84.0	185.218.84.255	24	162	-	-	-
-213.209.143.0	213.209.143.255	24	161	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
-207.90.244.0	207.90.244.255	24	161	COGENT-174	US	abuse@cogentco.com
 162.216.150.0	162.216.150.255	24	161	GOOGLE	US	network-abuse@google.com
+213.209.143.0	213.209.143.255	24	161	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
 83.222.191.0	83.222.191.255	24	161	GCN-AS GCN AD - Sofia, Bulgaria	BG	noc@gcn.bg
-206.168.34.0	206.168.34.255	24	160	-	-	-
+207.90.244.0	207.90.244.255	24	161	COGENT-174	US	abuse@cogentco.com
 167.94.138.0	167.94.138.255	24	160	CENSYS-ARIN-01	US	None
 162.216.149.0	162.216.149.255	24	160	GOOGLE	US	network-abuse@google.com
 198.235.24.0	198.235.24.255	24	160	GOOGLE-CLOUD-PLATFORM	US	None
+206.168.34.0	206.168.34.255	24	160	-	-	-
