@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-24T07:15:41.747599
+#    updated: 2025-07-24T08:30:44.0/24
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 64.62.197.0/24
 45.156.128.0/24
 213.209.143.0/24
+207.154.197.0/24
 83.222.191.0/24
-193.46.255.0/24
