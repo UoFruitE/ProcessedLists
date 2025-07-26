@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-07-26T20:45:22.804821
+#    updated: 2025-07-26T21:45:22.892743
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 147.185.132.0	147.185.132.255	24	349	GOOGLE-CLOUD-PLATFORM	US	None
 104.234.115.0	104.234.115.255	24	349	DAILY	TR	abuse@orbittelekom.com
 45.194.66.0	45.194.66.255	24	348	Africa-on-Cloud-AS	ZA	>>UNKNOWN<<
-141.98.11.0	141.98.11.255	24	347	HOSTBALTIC	LT	>>UNKNOWN<<
 109.205.213.0	109.205.213.255	24	347	IS-AS-1	US	abusencc@interserver.net
+141.98.11.0	141.98.11.255	24	347	HOSTBALTIC	LT	>>UNKNOWN<<
