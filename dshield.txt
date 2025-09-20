@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-20T16:45:54.393465
+#    updated: 2025-09-20T17:15:53.977044
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -44,5 +44,5 @@
 185.242.226.0	185.242.226.255	24	359	AS49870-BV	NL	abuse@westcall.ru
 146.88.241.0	146.88.241.255	24	356	ARBOR	US	hostmaster@arbor.net
 93.152.230.0	93.152.230.255	24	355	DATACENTERTURK-COM	TR	abuse@ruyaserver.com
-79.124.58.0	79.124.58.255	24	354	TAMATIYA-AS	BG	noc@4vendeta.com
 207.90.244.0	207.90.244.255	24	354	COGENT-174	US	abuse@cogentco.com
+79.124.58.0	79.124.58.255	24	354	TAMATIYA-AS	BG	noc@4vendeta.com
