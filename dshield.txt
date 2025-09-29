@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-09-29T17:45:56.981285
+#    updated: 2025-09-29T18:00:58.051499
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -28,8 +28,8 @@
 #     
 45.142.154.0	45.142.154.255	24	340	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 206.168.34.0	206.168.34.255	24	325	-	-	-
-204.76.203.0	204.76.203.255	24	324	INTELLIGENCE-ATOM-HOSTING	KN	None
 65.49.1.0	65.49.1.255	24	324	HURRICANE	US	abuse@he.net
+204.76.203.0	204.76.203.255	24	324	INTELLIGENCE-ATOM-HOSTING	KN	None
 185.242.226.0	185.242.226.255	24	321	AS49870-BV	NL	abuse@westcall.ru
 123.136.6.0	123.136.6.255	24	321	PEOPLESPHONE-HK China Mobile Hong Kong Company Limited	HK	abusehandler@hk.chinamobile.com
 64.62.156.0	64.62.156.255	24	320	HURRICANE	US	abuse@he.net
