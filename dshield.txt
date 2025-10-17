@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-17T17:00:38.680031
+#    updated: 2025-10-17T17:15:38.704724
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -34,15 +34,15 @@
 195.178.110.0	195.178.110.255	24	290	DATAFOREST	DE	abuse@timeweb.ru
 65.49.1.0	65.49.1.255	24	288	HURRICANE	US	abuse@he.net
 64.62.197.0	64.62.197.255	24	287	HURRICANE	US	abuse@he.net
-87.120.191.0	87.120.191.255	24	286	SKATTV-AS	BG	abuse@neterra.net
 93.123.109.0	93.123.109.255	24	286	SARNICA-AS	BG	nebi78@mail.bg
+87.120.191.0	87.120.191.255	24	286	SKATTV-AS	BG	abuse@neterra.net
 207.90.244.0	207.90.244.255	24	285	COGENT-174	US	abuse@cogentco.com
 45.142.154.0	45.142.154.255	24	285	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 205.210.31.0	205.210.31.255	24	284	GOOGLE-CLOUD-PLATFORM	US	None
 206.168.34.0	206.168.34.255	24	284	-	-	-
-91.231.89.0	91.231.89.255	24	282	BHA	FR	abuse@bha-conseil.com
 167.94.145.0	167.94.145.255	24	282	CENSYS-ARIN-02	US	None
 91.230.168.0	91.230.168.255	24	282	BHA	FR	abuse@bha-conseil.com
 167.94.138.0	167.94.138.255	24	282	CENSYS-ARIN-01	US	None
+91.231.89.0	91.231.89.255	24	282	BHA	FR	abuse@bha-conseil.com
+78.153.140.0	78.153.140.255	24	281	HOSTGLOBALPLUS-AS	GB	abuse@hostglobal.plus
 204.76.203.0	204.76.203.255	24	281	INTELLIGENCE-ATOM-HOSTING	KN	None
-66.132.153.0	66.132.153.255	24	281	-	-	-
