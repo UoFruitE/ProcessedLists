@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-10-20T04:00:37.464391
+#    updated: 2025-10-20T04:30:37.675219
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -27,12 +27,12 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 167.94.138.0	167.94.138.255	24	356	CENSYS-ARIN-01	US	None
-205.210.31.0	205.210.31.255	24	355	GOOGLE-CLOUD-PLATFORM	US	None
 66.132.153.0	66.132.153.255	24	355	-	-	-
+205.210.31.0	205.210.31.255	24	355	GOOGLE-CLOUD-PLATFORM	US	None
 147.185.132.0	147.185.132.255	24	351	GOOGLE-CLOUD-PLATFORM	US	None
 199.45.154.0	199.45.154.255	24	350	CENSYS-ARIN-03	US	None
-176.65.149.0	176.65.149.255	24	348	-	-	-
 206.168.34.0	206.168.34.255	24	348	-	-	-
+176.65.149.0	176.65.149.255	24	348	-	-	-
 65.49.1.0	65.49.1.255	24	346	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	342	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 194.180.48.0	194.180.48.255	24	340	-	-	-
@@ -41,8 +41,8 @@
 204.76.203.0	204.76.203.255	24	336	INTELLIGENCE-ATOM-HOSTING	KN	None
 87.120.191.0	87.120.191.255	24	335	SKATTV-AS	BG	abuse@neterra.net
 195.96.129.0	195.96.129.255	24	335	HALSERVICE	IT	pbelotti@halservice.it
+196.251.114.0	196.251.114.255	24	333	xneelo	ZA	abuse@hetzner.co.za
 64.62.197.0	64.62.197.255	24	333	HURRICANE	US	abuse@he.net
 192.159.99.0	192.159.99.255	24	333	1GSERVERS	US	eruiz@cafepress.com
 167.94.146.0	167.94.146.255	24	333	CENSYS-ARIN-02	US	None
-196.251.114.0	196.251.114.255	24	333	xneelo	ZA	abuse@hetzner.co.za
 167.94.145.0	167.94.145.255	24	332	CENSYS-ARIN-02	US	None
