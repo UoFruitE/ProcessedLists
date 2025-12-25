@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2025-12-25T22:00:16.811252
+#    updated: 2025-12-25T22:45:16.393536
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,14 +35,14 @@
 185.242.226.0	185.242.226.255	24	279	AS49870-BV	NL	abuse@westcall.ru
 216.180.246.0	216.180.246.255	24	276	NTHL	US	abuse@networktransit.net
 199.45.154.0	199.45.154.255	24	275	CENSYS-ARIN-03	US	None
-206.168.34.0	206.168.34.255	24	274	-	-	-
-64.62.156.0	64.62.156.255	24	274	HURRICANE	US	abuse@he.net
 204.76.203.0	204.76.203.255	24	274	INTELLIGENCE-ATOM-HOSTING	KN	None
 194.180.48.0	194.180.48.255	24	274	-	-	-
+206.168.34.0	206.168.34.255	24	274	-	-	-
+64.62.156.0	64.62.156.255	24	274	HURRICANE	US	abuse@he.net
 193.163.125.0	193.163.125.255	24	273	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 45.148.10.0	45.148.10.255	24	273	PPTECHNOLOGY	GB	abuse@vegatele.com
 45.194.92.0	45.194.92.255	24	272	MULTA-ASN1	US	abuse@multacom.com
 207.90.244.0	207.90.244.255	24	272	COGENT-174	US	abuse@cogentco.com
 64.62.197.0	64.62.197.255	24	272	HURRICANE	US	abuse@he.net
 91.230.168.0	91.230.168.255	24	271	BHA	FR	abuse@bha-conseil.com
-87.121.84.0	87.121.84.255	24	270	EPIKWIRE-NET	GB	>>UNKNOWN<<
+130.12.180.0	130.12.180.255	24	270	-	-	-
