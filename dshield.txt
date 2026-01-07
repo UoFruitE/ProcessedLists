@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-06T23:30:21.006634
+#    updated: 2026-01-07T00:30:49.472296
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,9 +35,9 @@
 64.62.156.0	64.62.156.255	24	279	HURRICANE	US	abuse@he.net
 65.49.1.0	65.49.1.255	24	279	HURRICANE	US	abuse@he.net
 176.65.148.0	176.65.148.255	24	277	-	-	-
-195.184.76.0	195.184.76.255	24	275	EAJ-GLOBAL	GB	>>UNKNOWN<<
 199.45.154.0	199.45.154.255	24	275	CENSYS-ARIN-03	US	None
 207.90.244.0	207.90.244.255	24	275	COGENT-174	US	abuse@cogentco.com
+195.184.76.0	195.184.76.255	24	275	EAJ-GLOBAL	GB	>>UNKNOWN<<
 91.231.89.0	91.231.89.255	24	274	BHA	FR	abuse@bha-conseil.com
 193.163.125.0	193.163.125.255	24	273	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 194.180.48.0	194.180.48.255	24	270	-	-	-
@@ -45,4 +45,4 @@
 82.23.183.0	82.23.183.255	24	268	NTL	GB	abuse@virginmedia.com
 198.235.24.0	198.235.24.255	24	267	GOOGLE-CLOUD-PLATFORM	US	None
 185.242.226.0	185.242.226.255	24	267	AS49870-BV	NL	abuse@westcall.ru
-167.94.138.0	167.94.138.255	24	266	CENSYS-ARIN-01	US	None
+193.142.147.0	193.142.147.255	24	266	COLOCATIONX-DATACENTER Dedicated Server Provider	GB	abuse@hostslick.de
