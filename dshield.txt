@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-20T04:00:06.634214
+#    updated: 2026-01-20T04:45:06.175874
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -42,7 +42,7 @@
 167.94.138.0	167.94.138.255	24	143	CENSYS-ARIN-01	US	None
 89.144.32.0	89.144.32.255	24	143	DE-TOPCOLO	DE	abuse@ghostnet.de
 71.6.232.0	71.6.232.255	24	142	CARINET	US	complaints@cari.net
-167.94.146.0	167.94.146.255	24	142	CENSYS-ARIN-02	US	None
 91.224.92.0	91.224.92.255	24	142	HOSTBALTIC	LT	>>UNKNOWN<<
+167.94.146.0	167.94.146.255	24	142	CENSYS-ARIN-02	US	None
 207.90.244.0	207.90.244.255	24	141	COGENT-174	US	abuse@cogentco.com
 45.156.129.0	45.156.129.255	24	141	AS-BITSIGHT	PT	>>UNKNOWN<<
