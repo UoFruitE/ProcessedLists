@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-22T03:00:06.055567
+#    updated: 2026-01-22T03:45:06.221641
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -39,10 +39,10 @@
 167.94.138.0	167.94.138.255	24	144	CENSYS-ARIN-01	US	None
 78.128.114.0	78.128.114.255	24	144	TAMATIYA-AS	BG	noc@4vendeta.com
 100.29.192.0	100.29.192.255	24	142	AMAZON-AES	US	abuse@amazonaws.com
-64.62.156.0	64.62.156.255	24	141	HURRICANE	US	abuse@he.net
 216.180.246.0	216.180.246.255	24	141	NTHL	US	abuse@networktransit.net
-66.132.153.0	66.132.153.255	24	140	-	-	-
+64.62.156.0	64.62.156.255	24	141	HURRICANE	US	abuse@he.net
 167.94.146.0	167.94.146.255	24	140	CENSYS-ARIN-02	US	None
 65.49.20.0	65.49.20.255	24	140	HURRICANE	US	abuse@he.net
+66.132.153.0	66.132.153.255	24	140	-	-	-
 185.224.128.0	185.224.128.255	24	139	AS49870-BV	NL	abuse@westcall.ru
 170.39.218.0	170.39.218.255	24	138	BULLIONET	FR	abuse@lineacom.it
