@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-22T21:15:04.419620
+#    updated: 2026-01-22T21:30:04.701635
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,13 +35,13 @@
 207.90.244.0	207.90.244.255	24	111	COGENT-174	US	abuse@cogentco.com
 195.184.76.0	195.184.76.255	24	111	EAJ-GLOBAL	GB	>>UNKNOWN<<
 64.89.163.0	64.89.163.255	24	110	-	-	-
-66.132.153.0	66.132.153.255	24	109	-	-	-
 78.128.114.0	78.128.114.255	24	109	TAMATIYA-AS	BG	noc@4vendeta.com
 91.196.152.0	91.196.152.255	24	109	ATT-INTERNET4	US	abuse@att.net
+66.132.153.0	66.132.153.255	24	109	-	-	-
 45.156.129.0	45.156.129.255	24	108	AS-BITSIGHT	PT	>>UNKNOWN<<
 147.185.132.0	147.185.132.255	24	104	GOOGLE-CLOUD-PLATFORM	US	None
-198.235.24.0	198.235.24.255	24	103	GOOGLE-CLOUD-PLATFORM	US	None
 178.20.210.0	178.20.210.255	24	103	AS43260	TR	ip@dgn.net.tr
+198.235.24.0	198.235.24.255	24	103	GOOGLE-CLOUD-PLATFORM	US	None
 162.216.150.0	162.216.150.255	24	102	GOOGLE	US	network-abuse@google.com
 89.144.32.0	89.144.32.255	24	102	DE-TOPCOLO	DE	abuse@ghostnet.de
 146.88.240.0	146.88.240.255	24	101	ARBOR	US	hostmaster@arbor.net
