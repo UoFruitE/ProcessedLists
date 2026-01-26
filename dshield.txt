@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-01-26T16:30:27.099877
+#    updated: 2026-01-26T17:45:27.552968
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 205.210.31.0	205.210.31.255	24	313	GOOGLE-CLOUD-PLATFORM	US	None
 45.142.154.0	45.142.154.255	24	311	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 88.210.63.0	88.210.63.255	24	311	-	-	-
-138.68.108.0	138.68.108.255	24	310	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
 198.235.24.0	198.235.24.255	24	310	GOOGLE-CLOUD-PLATFORM	US	None
+138.68.108.0	138.68.108.255	24	310	DIGITALOCEAN-ASN	US	abuse@digitalocean.com
 91.230.168.0	91.230.168.255	24	309	BHA	FR	abuse@bha-conseil.com
