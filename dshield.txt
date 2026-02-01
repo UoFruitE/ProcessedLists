@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-02-01T20:00:14.654839
+#    updated: 2026-02-01T19:45:13.898035
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -26,8 +26,8 @@
 #
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
-5.61.209.0	5.61.209.255	24	294	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 64.62.197.0	64.62.197.255	24	294	HURRICANE	US	abuse@he.net
+5.61.209.0	5.61.209.255	24	294	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 147.185.132.0	147.185.132.255	24	289	GOOGLE-CLOUD-PLATFORM	US	None
 65.49.1.0	65.49.1.255	24	287	HURRICANE	US	abuse@he.net
 176.65.139.0	176.65.139.255	24	285	-	-	-
@@ -39,10 +39,10 @@
 167.94.146.0	167.94.146.255	24	275	CENSYS-ARIN-02	US	None
 91.224.92.0	91.224.92.255	24	275	HOSTBALTIC	LT	>>UNKNOWN<<
 176.65.134.0	176.65.134.255	24	275	-	-	-
-167.94.145.0	167.94.145.255	24	274	CENSYS-ARIN-02	US	None
 66.132.153.0	66.132.153.255	24	274	-	-	-
+167.94.145.0	167.94.145.255	24	274	CENSYS-ARIN-02	US	None
 207.90.244.0	207.90.244.255	24	273	COGENT-174	US	abuse@cogentco.com
 193.163.125.0	193.163.125.255	24	273	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
 167.94.138.0	167.94.138.255	24	273	CENSYS-ARIN-01	US	None
 89.42.231.0	89.42.231.255	24	270	CIANET-AS	RO	office@cianet.ro
-216.180.246.0	216.180.246.255	24	268	NTHL	US	abuse@networktransit.net
+206.168.34.0	206.168.34.255	24	268	-	-	-
