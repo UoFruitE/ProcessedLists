@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-10T22:15:20.997020
+#    updated: 2026-03-10T23:15:21.117479
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -45,4 +45,4 @@
 167.94.146.0	167.94.146.255	24	279	CENSYS-ARIN-02	US	None
 45.148.10.0	45.148.10.255	24	279	PPTECHNOLOGY	GB	abuse@vegatele.com
 204.76.203.0	204.76.203.255	24	278	INTELLIGENCE-ATOM-HOSTING	KN	None
-66.132.153.0	66.132.153.255	24	277	-	-	-
+91.231.89.0	91.231.89.255	24	277	BHA	FR	abuse@bha-conseil.com
