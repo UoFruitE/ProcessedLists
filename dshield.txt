@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-03-21T18:30:15.479691
+#    updated: 2026-03-21T18:45:15.266490
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -38,10 +38,10 @@
 216.180.246.0	216.180.246.255	24	277	NTHL	US	abuse@networktransit.net
 66.132.224.0	66.132.224.255	24	276	-	-	-
 65.49.1.0	65.49.1.255	24	275	HURRICANE	US	abuse@he.net
-185.242.246.0	185.242.246.255	24	274	LEASEWEB-NL-AMS-01 Netherlands	NL	abuse@nl.leaseweb.com
 198.235.24.0	198.235.24.255	24	274	GOOGLE-CLOUD-PLATFORM	US	None
-87.121.84.0	87.121.84.255	24	271	EPIKWIRE-NET	GB	>>UNKNOWN<<
+185.242.246.0	185.242.246.255	24	274	LEASEWEB-NL-AMS-01 Netherlands	NL	abuse@nl.leaseweb.com
 205.210.31.0	205.210.31.255	24	271	GOOGLE-CLOUD-PLATFORM	US	None
+87.121.84.0	87.121.84.255	24	271	EPIKWIRE-NET	GB	>>UNKNOWN<<
 77.90.185.0	77.90.185.255	24	270	BTHOSTER	GB	abuse@inetia.pl
 167.94.146.0	167.94.146.255	24	269	CENSYS-ARIN-02	US	None
 167.94.138.0	167.94.138.255	24	269	CENSYS-ARIN-01	US	None
