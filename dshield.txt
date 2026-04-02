@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-04-02T21:45:18.328883
+#    updated: 2026-04-02T22:15:18.418732
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -40,9 +40,9 @@
 91.230.168.0	91.230.168.255	24	281	BHA	FR	abuse@bha-conseil.com
 167.94.145.0	167.94.145.255	24	280	CENSYS-ARIN-02	US	None
 66.132.186.0	66.132.186.255	24	279	-	-	-
-195.178.110.0	195.178.110.255	24	277	DATAFOREST	DE	abuse@timeweb.ru
 45.142.154.0	45.142.154.255	24	277	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 77.90.185.0	77.90.185.255	24	277	BTHOSTER	GB	abuse@inetia.pl
 176.65.148.0	176.65.148.255	24	277	-	-	-
+195.178.110.0	195.178.110.255	24	277	DATAFOREST	DE	abuse@timeweb.ru
 45.148.10.0	45.148.10.255	24	276	PPTECHNOLOGY	GB	abuse@vegatele.com
-195.184.76.0	195.184.76.255	24	276	EAJ-GLOBAL	GB	>>UNKNOWN<<
+5.61.209.0	5.61.209.255	24	276	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
