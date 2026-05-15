@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-05-15T21:30:17.189272
+#    updated: 2026-05-15T22:30:17.956264
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -36,8 +36,8 @@
 194.88.98.0	194.88.98.255	24	287	ATT-INTERNET4	US	abuse@att.net
 45.148.10.0	45.148.10.255	24	287	PPTECHNOLOGY	GB	abuse@vegatele.com
 147.185.132.0	147.185.132.255	24	287	GOOGLE-CLOUD-PLATFORM	US	None
-45.198.224.0	45.198.224.255	24	286	OWS	US	CSOC@ontario.ca
 193.163.125.0	193.163.125.255	24	286	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+45.198.224.0	45.198.224.255	24	286	OWS	US	CSOC@ontario.ca
 66.132.195.0	66.132.195.255	24	285	-	-	-
 5.61.209.0	5.61.209.255	24	285	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 45.205.1.0	45.205.1.255	24	284	MULTA-ASN1	US	abuse@multacom.com
