@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-02T20:30:17.447114
+#    updated: 2026-06-02T22:00:18.402938
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -35,14 +35,14 @@
 64.62.197.0	64.62.197.255	24	279	HURRICANE	US	abuse@he.net
 66.132.172.0	66.132.172.255	24	278	-	-	-
 193.163.125.0	193.163.125.255	24	278	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+45.205.1.0	45.205.1.255	24	276	MULTA-ASN1	US	abuse@multacom.com
 45.142.154.0	45.142.154.255	24	276	HDTIDCCLOUD-AS-AP HDTIDC LIMITED	HK	adm@allcloud.cc
 185.242.226.0	185.242.226.255	24	276	AS49870-BV	NL	abuse@westcall.ru
-45.205.1.0	45.205.1.255	24	276	MULTA-ASN1	US	abuse@multacom.com
 176.65.148.0	176.65.148.255	24	275	-	-	-
 78.128.114.0	78.128.114.255	24	275	TAMATIYA-AS	BG	noc@4vendeta.com
 5.61.209.0	5.61.209.255	24	274	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 199.45.154.0	199.45.154.255	24	274	CENSYS-ARIN-03	US	None
-45.198.224.0	45.198.224.255	24	272	OWS	US	CSOC@ontario.ca
 147.185.132.0	147.185.132.255	24	272	GOOGLE-CLOUD-PLATFORM	US	None
 87.251.64.0	87.251.64.255	24	272	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
-167.94.145.0	167.94.145.255	24	271	CENSYS-ARIN-02	US	None
+45.198.224.0	45.198.224.255	24	272	OWS	US	CSOC@ontario.ca
+66.132.186.0	66.132.186.255	24	271	-	-	-
