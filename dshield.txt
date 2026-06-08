@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-06-08T17:15:21.219715
+#    updated: 2026-06-08T19:15:20.627458
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,12 +37,12 @@
 176.65.139.0	176.65.139.255	24	281	-	-	-
 66.132.172.0	66.132.172.255	24	281	-	-	-
 193.163.125.0	193.163.125.255	24	281	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
-64.62.197.0	64.62.197.255	24	279	HURRICANE	US	abuse@he.net
 65.49.20.0	65.49.20.255	24	279	HURRICANE	US	abuse@he.net
+64.62.197.0	64.62.197.255	24	279	HURRICANE	US	abuse@he.net
 5.226.140.0	5.226.140.255	24	277	BANDWIDTH-AS	GB	abuse@zare.com
-91.224.92.0	91.224.92.255	24	275	HOSTBALTIC	LT	>>UNKNOWN<<
 81.19.219.0	81.19.219.255	24	275	BANDWIDTH-AS	GB	abuse@zare.com
-5.61.209.0	5.61.209.255	24	273	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+91.224.92.0	91.224.92.255	24	275	HOSTBALTIC	LT	>>UNKNOWN<<
 87.251.64.0	87.251.64.255	24	273	XHOST-INTERNET-SOLUTIONS	GB	noc@eunetworks.com
+5.61.209.0	5.61.209.255	24	273	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
 66.132.224.0	66.132.224.255	24	272	-	-	-
-195.178.110.0	195.178.110.255	24	271	DATAFOREST	DE	abuse@timeweb.ru
+77.90.185.0	77.90.185.255	24	271	BTHOSTER	GB	abuse@inetia.pl
