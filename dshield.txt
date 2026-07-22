@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-07-22T20:15:18.813129
+#    updated: 2026-07-22T20:45:19.161144
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -43,6 +43,6 @@
 66.132.172.0	66.132.172.255	24	267	-	-	-
 91.230.168.0	91.230.168.255	24	266	BHA	FR	abuse@bha-conseil.com
 185.12.59.0	185.12.59.255	24	265	BLIX	NO	abuse@blixsolutions.no
+45.198.224.0	45.198.224.255	24	264	OWS	US	CSOC@ontario.ca
 167.94.146.0	167.94.146.255	24	264	CENSYS-ARIN-02	US	None
 195.184.76.0	195.184.76.255	24	264	EAJ-GLOBAL	GB	>>UNKNOWN<<
-45.198.224.0	45.198.224.255	24	264	OWS	US	CSOC@ontario.ca
