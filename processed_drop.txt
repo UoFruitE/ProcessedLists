@@ -1,12 +1,13 @@
-; Spamhaus DROP List 2026/08/23 - (c) 2026 The Spamhaus Project SLU
+; Spamhaus DROP List 2026/08/24 - (c) 2026 The Spamhaus Project SLU
 ; https://www.spamhaus.org/drop/drop.txt
-; Last-Modified: Sun, 23 Aug 2026 13:49:14 GMT
-; Expires: Sun, 23 Aug 2026 15:14:02 GMT
+; Last-Modified: Mon, 24 Aug 2026 09:13:07 GMT
+; Expires: Mon, 24 Aug 2026 10:14:02 GMT
 1.10.16.0/20
 1.19.0.0/16
 1.32.128.0/18
 2.26.75.0/24
 2.27.5.0/24
+2.27.62.0/24
 2.56.192.0/22
 2.57.17.0/24
 2.57.122.0/24
