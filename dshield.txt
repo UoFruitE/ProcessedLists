@@ -7,7 +7,7 @@
 #     PGP Sign.: https://feeds.dshield.org/block.txt.asc
 #
 #   comments: systems@isc.sans.edu
-#    updated: 2026-11-05T12:30:45.974043
+#    updated: 2026-11-05T19:30:47.782651
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -37,7 +37,6 @@
 66.33.22.0	66.33.22.255	24	345	-	-	-
 138.226.239.0	138.226.239.255	24	345	-	-	-
 66.33.23.0	66.33.23.255	24	344	-	-	-
-69.46.46.0	69.46.46.255	24	344	MPDCOL	US	abuse@bytegrid.com
 193.47.62.0	193.47.62.255	24	344	ASN-QUADRANET-GLOBAL	US	support@quadranet.com
 91.196.152.0	91.196.152.255	24	343	ATT-INTERNET4	US	abuse@att.net
 77.239.124.0	77.239.124.255	24	341	-	-	-
@@ -46,3 +45,4 @@
 216.180.246.0	216.180.246.255	24	341	NTHL	US	abuse@networktransit.net
 77.90.185.0	77.90.185.255	24	340	BTHOSTER	GB	abuse@inetia.pl
 66.132.172.0	66.132.172.255	24	339	-	-	-
+64.62.197.0	64.62.197.255	24	337	HURRICANE	US	abuse@he.net
